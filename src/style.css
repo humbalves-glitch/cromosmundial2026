@@ -1,56 +1,97 @@
+body{
+  margin:0;
+  font-family:Arial, Helvetica, sans-serif;
+  background:#0f172a;
+  color:white;
+}
 
-*{box-sizing:border-box}
-body{margin:0;font-family:Arial,Helvetica,sans-serif;background:#0f172a;color:#0f172a}
-button,input,select{font:inherit}
-button{border:0;cursor:pointer;font-weight:700}
-.app{max-width:1180px;margin:0 auto;padding:18px}
-.hero{background:linear-gradient(135deg,#ffffff,#e9f7ff);border-radius:28px;padding:22px;margin-bottom:18px;display:flex;align-items:center;justify-content:space-between;gap:18px;box-shadow:0 12px 28px rgba(0,0,0,.22)}
-.hero h1{margin:0;font-size:34px}
-.hero p{margin:6px 0 0;color:#475569}
-.badges{display:flex;gap:8px;flex-wrap:wrap;justify-content:flex-end}
-.badge{background:#0f172a;color:white;padding:9px 12px;border-radius:999px;font-size:14px;display:flex;align-items:center;gap:6px}
-.panel{background:#fff;border-radius:24px;padding:18px;margin-bottom:18px;box-shadow:0 10px 24px rgba(0,0,0,.16)}
-.login-wrap{min-height:100vh;display:flex;align-items:center;justify-content:center;padding:20px;background:radial-gradient(circle at top,#1e40af,#0f172a 55%)}
-.login{width:100%;max-width:440px;background:white;border-radius:28px;padding:24px;box-shadow:0 18px 42px rgba(0,0,0,.28)}
-.login h1{margin:0 0 8px;font-size:30px}
-.login p{color:#475569}
-.login-grid{display:grid;gap:10px;margin:16px 0}
-.user-btn{background:#f1f5f9;color:#0f172a;border-radius:16px;padding:14px;text-align:left;display:flex;align-items:center;gap:9px}
-.user-btn.active{background:#0f172a;color:white}
-input,select{width:100%;padding:12px 14px;border:1px solid #d9e2ec;border-radius:14px;background:white}
-.primary{background:#0f172a;color:white;border-radius:14px;padding:12px 16px}
-.secondary{background:#e2e8f0;color:#0f172a;border-radius:14px;padding:11px 14px}
-.danger{background:#fee2e2;color:#991b1b;border-radius:14px;padding:10px 12px}
-.tabs{display:flex;gap:8px;flex-wrap:wrap;margin-bottom:18px}
-.tabs button{background:#e2e8f0;color:#0f172a;border-radius:999px;padding:12px 16px}
-.tabs button.active{background:#fff;color:#0f172a}
-.stats{display:grid;grid-template-columns:repeat(3,1fr);gap:14px;margin-bottom:18px}
-.stat{background:#fff;border-radius:22px;padding:18px}
-.stat h2{margin:0 0 8px;font-size:22px;display:flex;justify-content:space-between}
-.progress{height:12px;background:#e2e8f0;border-radius:999px;overflow:hidden}
-.bar{height:100%;background:#16a34a}
-.controls{display:grid;grid-template-columns:1fr 1fr 1fr;gap:10px;margin-bottom:16px}
-.album-grid{display:grid;grid-template-columns:repeat(4,1fr);gap:14px}
-.sticker-card{background:linear-gradient(180deg,#ffffff,#f8fafc);border-radius:22px;overflow:hidden;border:1px solid #e2e8f0;box-shadow:0 6px 16px rgba(15,23,42,.12)}
-.sticker-top{position:relative;background:linear-gradient(135deg,#1e3a8a,#0f172a);height:150px;display:flex;align-items:center;justify-content:center;color:white}
-.sticker-top img{width:100%;height:100%;object-fit:cover}
-.photo-placeholder{font-size:44px;font-weight:900;opacity:.9}
-.flag{position:absolute;top:10px;left:10px;background:rgba(255,255,255,.9);border-radius:999px;padding:5px 9px;font-size:20px}
-.code{position:absolute;top:10px;right:10px;background:rgba(15,23,42,.82);color:white;border-radius:999px;padding:6px 9px;font-size:12px}
-.sticker-body{padding:13px}
-.sticker-body h3{margin:0;font-size:17px}
-.sticker-body p{margin:5px 0 0;color:#64748b;font-size:14px}
-.card-actions{display:grid;grid-template-columns:1fr 1fr;gap:8px;margin-top:12px}
-.owned{background:#16a34a;color:white;border-radius:12px;padding:9px}
-.not-owned{background:#e2e8f0;color:#0f172a;border-radius:12px;padding:9px}
-.dup-row{display:flex;align-items:center;justify-content:space-between;gap:6px;margin-top:9px}
-.dup-row button{background:#e2e8f0;border-radius:10px;padding:7px 10px}
-.form-grid{display:grid;grid-template-columns:repeat(6,1fr);gap:10px}
-.small-list{display:grid;grid-template-columns:repeat(3,1fr);gap:10px;margin-top:14px}
-.small-item{background:#f1f5f9;border-radius:14px;padding:10px;display:flex;justify-content:space-between;gap:8px;align-items:center}
-.trade-list{display:grid;grid-template-columns:repeat(2,1fr);gap:12px}
-.trade{background:#f8fafc;border:1px solid #e2e8f0;border-radius:18px;padding:14px;display:flex;gap:12px;align-items:center}
-.mini-photo{width:46px;height:46px;border-radius:12px;object-fit:cover;background:#e2e8f0;display:flex;align-items:center;justify-content:center;font-weight:900}
-.profile-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:12px}
-.profile-card{background:#f8fafc;border-radius:18px;padding:14px}
-@media(max-width:950px){.stats,.controls,.album-grid,.form-grid,.small-list,.trade-list,.profile-grid{grid-template-columns:1fr}.hero{display:block}.badges{justify-content:flex-start;margin-top:14px}.hero h1{font-size:28px}}
+.login{
+  min-height:100vh;
+  display:flex;
+  justify-content:center;
+  align-items:center;
+}
+
+.loginBox{
+  background:white;
+  color:black;
+  padding:30px;
+  border-radius:20px;
+  width:320px;
+  display:flex;
+  flex-direction:column;
+  gap:15px;
+}
+
+.loginBox select,
+.loginBox input{
+  padding:12px;
+  border-radius:10px;
+  border:1px solid #ccc;
+}
+
+.loginBox button{
+  padding:12px;
+  border:none;
+  border-radius:10px;
+  background:#2563eb;
+  color:white;
+  font-weight:bold;
+  cursor:pointer;
+}
+
+.app{
+  padding:30px;
+}
+
+.app h1{
+  margin-bottom:30px;
+}
+
+.cards{
+  display:grid;
+  grid-template-columns:repeat(auto-fit,minmax(220px,1fr));
+  gap:20px;
+}
+
+.card{
+  background:white;
+  color:black;
+  border-radius:20px;
+  overflow:hidden;
+  box-shadow:0 10px 25px rgba(0,0,0,0.3);
+  transition:0.3s;
+}
+
+.card:hover{
+  transform:translateY(-5px);
+}
+
+.card img{
+  width:100%;
+  height:260px;
+  object-fit:contain;
+  background:#111;
+}
+
+.info{
+  padding:15px;
+}
+
+.info h2{
+  margin:0;
+  font-size:20px;
+}
+
+.info p{
+  margin:10px 0;
+  color:#444;
+}
+
+.info span{
+  background:#2563eb;
+  color:white;
+  padding:5px 10px;
+  border-radius:10px;
+  font-size:12px;
+}
