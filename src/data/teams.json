@@ -1,0 +1,242 @@
+[
+  {
+    "code": "ARG",
+    "name": "Argentina",
+    "flag": "🇦🇷"
+  },
+  {
+    "code": "AUS",
+    "name": "Austrália",
+    "flag": "🇦🇺"
+  },
+  {
+    "code": "BEL",
+    "name": "Bélgica",
+    "flag": "🇧🇪"
+  },
+  {
+    "code": "BRA",
+    "name": "Brasil",
+    "flag": "🇧🇷"
+  },
+  {
+    "code": "CAN",
+    "name": "Canadá",
+    "flag": "🇨🇦"
+  },
+  {
+    "code": "CHI",
+    "name": "Chile",
+    "flag": "🇨🇱"
+  },
+  {
+    "code": "COL",
+    "name": "Colômbia",
+    "flag": "🇨🇴"
+  },
+  {
+    "code": "CRC",
+    "name": "Costa Rica",
+    "flag": "🇨🇷"
+  },
+  {
+    "code": "CRO",
+    "name": "Croácia",
+    "flag": "🇭🇷"
+  },
+  {
+    "code": "DEN",
+    "name": "Dinamarca",
+    "flag": "🇩🇰"
+  },
+  {
+    "code": "ECU",
+    "name": "Equador",
+    "flag": "🇪🇨"
+  },
+  {
+    "code": "EGY",
+    "name": "Egipto",
+    "flag": "🇪🇬"
+  },
+  {
+    "code": "ENG",
+    "name": "Inglaterra",
+    "flag": "🏴"
+  },
+  {
+    "code": "FRA",
+    "name": "França",
+    "flag": "🇫🇷"
+  },
+  {
+    "code": "GER",
+    "name": "Alemanha",
+    "flag": "🇩🇪"
+  },
+  {
+    "code": "GHA",
+    "name": "Gana",
+    "flag": "🇬🇭"
+  },
+  {
+    "code": "IRN",
+    "name": "Irão",
+    "flag": "🇮🇷"
+  },
+  {
+    "code": "ITA",
+    "name": "Itália",
+    "flag": "🇮🇹"
+  },
+  {
+    "code": "JPN",
+    "name": "Japão",
+    "flag": "🇯🇵"
+  },
+  {
+    "code": "KOR",
+    "name": "Coreia do Sul",
+    "flag": "🇰🇷"
+  },
+  {
+    "code": "MAR",
+    "name": "Marrocos",
+    "flag": "🇲🇦"
+  },
+  {
+    "code": "MEX",
+    "name": "México",
+    "flag": "🇲🇽"
+  },
+  {
+    "code": "NED",
+    "name": "Países Baixos",
+    "flag": "🇳🇱"
+  },
+  {
+    "code": "NZL",
+    "name": "Nova Zelândia",
+    "flag": "🇳🇿"
+  },
+  {
+    "code": "NGA",
+    "name": "Nigéria",
+    "flag": "🇳🇬"
+  },
+  {
+    "code": "NOR",
+    "name": "Noruega",
+    "flag": "🇳🇴"
+  },
+  {
+    "code": "PAR",
+    "name": "Paraguai",
+    "flag": "🇵🇾"
+  },
+  {
+    "code": "PER",
+    "name": "Peru",
+    "flag": "🇵🇪"
+  },
+  {
+    "code": "POL",
+    "name": "Polónia",
+    "flag": "🇵🇱"
+  },
+  {
+    "code": "POR",
+    "name": "Portugal",
+    "flag": "🇵🇹"
+  },
+  {
+    "code": "QAT",
+    "name": "Catar",
+    "flag": "🇶🇦"
+  },
+  {
+    "code": "KSA",
+    "name": "Arábia Saudita",
+    "flag": "🇸🇦"
+  },
+  {
+    "code": "SCO",
+    "name": "Escócia",
+    "flag": "🏴"
+  },
+  {
+    "code": "SEN",
+    "name": "Senegal",
+    "flag": "🇸🇳"
+  },
+  {
+    "code": "SRB",
+    "name": "Sérvia",
+    "flag": "🇷🇸"
+  },
+  {
+    "code": "ESP",
+    "name": "Espanha",
+    "flag": "🇪🇸"
+  },
+  {
+    "code": "SUI",
+    "name": "Suíça",
+    "flag": "🇨🇭"
+  },
+  {
+    "code": "TUN",
+    "name": "Tunísia",
+    "flag": "🇹🇳"
+  },
+  {
+    "code": "TUR",
+    "name": "Turquia",
+    "flag": "🇹🇷"
+  },
+  {
+    "code": "UKR",
+    "name": "Ucrânia",
+    "flag": "🇺🇦"
+  },
+  {
+    "code": "URU",
+    "name": "Uruguai",
+    "flag": "🇺🇾"
+  },
+  {
+    "code": "USA",
+    "name": "Estados Unidos",
+    "flag": "🇺🇸"
+  },
+  {
+    "code": "WAL",
+    "name": "País de Gales",
+    "flag": "🏴"
+  },
+  {
+    "code": "CMR",
+    "name": "Camarões",
+    "flag": "🇨🇲"
+  },
+  {
+    "code": "CIV",
+    "name": "Costa do Marfim",
+    "flag": "🇨🇮"
+  },
+  {
+    "code": "ALG",
+    "name": "Argélia",
+    "flag": "🇩🇿"
+  },
+  {
+    "code": "AUT",
+    "name": "Áustria",
+    "flag": "🇦🇹"
+  },
+  {
+    "code": "CZE",
+    "name": "Chéquia",
+    "flag": "🇨🇿"
+  }
+]

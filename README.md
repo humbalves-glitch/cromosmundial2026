@@ -1,1 +1,1 @@
-Álbum Mundial 2026 Final\n\nLogin, Firebase, cromos, faltas, repetidos, trocas e fotos com fallback.\n
+App de apoio à caderneta clássica Panini Mundial 2026.

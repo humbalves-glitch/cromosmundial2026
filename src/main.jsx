@@ -1,278 +1,45 @@
 
-import React, { useEffect, useMemo, useState } from "react";
-import { createRoot } from "react-dom/client";
-import { initializeApp } from "firebase/app";
-import { getFirestore, collection, doc, onSnapshot, setDoc } from "firebase/firestore";
-import { Cloud, LogOut, Repeat2, Search, UserRound, Users } from "lucide-react";
-import "./style.css";
+import React,{useEffect,useMemo,useState}from"react";
+import{createRoot}from"react-dom/client";
+import{initializeApp}from"firebase/app";
+import{getFirestore,collection,doc,onSnapshot,setDoc}from"firebase/firestore";
+import{Cloud,LogOut,Search,UserRound,Users,Repeat2,PackageOpen}from"lucide-react";
+import stickersData from"./data/stickers.json";
+import teamsData from"./data/teams.json";
+import"./style.css";
 
-const firebaseConfig = {
-  apiKey: "AIzaSyDPPsTuKKKGerpFOqUL__8OaDpeX57zDHY",
-  authDomain: "cromos-mundial-2026.firebaseapp.com",
-  projectId: "cromos-mundial-2026",
-  storageBucket: "cromos-mundial-2026.firebasestorage.app",
-  messagingSenderId: "677146617903",
-  appId: "1:677146617903:web:7264b6b2470c808fbffeda",
-  measurementId: "G-WL6NESLVHC"
-};
+const firebaseConfig={apiKey:"AIzaSyDPPsTuKKKGerpFOqUL__8OaDpeX57zDHY",authDomain:"cromos-mundial-2026.firebaseapp.com",projectId:"cromos-mundial-2026",storageBucket:"cromos-mundial-2026.firebasestorage.app",messagingSenderId:"677146617903",appId:"1:677146617903:web:7264b6b2470c808fbffeda",measurementId:"G-WL6NESLVHC"};
+const app=initializeApp(firebaseConfig),db=getFirestore(app),albumId="panini-classica-2026";
+const users=[{id:"tio-berto",name:"Tio Berto",pin:"menurius33"},{id:"rafa",name:"Sobrinho Rafa",pin:"menurius34"},{id:"gabe",name:"Sobrinho Gabe",pin:"menurius35"}];
 
-const app = initializeApp(firebaseConfig);
-const db = getFirestore(app);
-const albumId = "album-familiar-final";
+function initials(n){return(n||"?").split(" ").map(x=>x[0]).join("").slice(0,2).toUpperCase()}
+function StickerImage({s}){const[fail,setFail]=useState(false);if(!s.photo||fail)return <div className={"fallback "+s.type}><span>{s.type==="especial"?"★":initials(s.name)}</span></div>;return <img src={s.photo} alt={s.name} onError={()=>setFail(true)}/>}
 
-const users = [
-  { id: "tio-berto", name: "Tio Berto", pin: "menurius33" },
-  { id: "rafa", name: "Sobrinho Rafa", pin: "menurius34" },
-  { id: "gabe", name: "Sobrinho Gabe", pin: "menurius35" },
-];
-
-const starterPlayers = [
-  { id: "POR01", player: "Cristiano Ronaldo", country: "Portugal", flag: "🇵🇹", photo: "https://upload.wikimedia.org/wikipedia/commons/8/8c/Cristiano_Ronaldo_2018.jpg" },
-  { id: "POR02", player: "Bruno Fernandes", country: "Portugal", flag: "🇵🇹", photo: "" },
-  { id: "POR03", player: "Rúben Dias", country: "Portugal", flag: "🇵🇹", photo: "" },
-  { id: "ARG01", player: "Lionel Messi", country: "Argentina", flag: "🇦🇷", photo: "https://upload.wikimedia.org/wikipedia/commons/c/c1/Lionel_Messi_20180626.jpg" },
-  { id: "ARG02", player: "Lautaro Martínez", country: "Argentina", flag: "🇦🇷", photo: "" },
-  { id: "BRA01", player: "Vinicius Junior", country: "Brasil", flag: "🇧🇷", photo: "" },
-  { id: "BRA02", player: "Rodrygo", country: "Brasil", flag: "🇧🇷", photo: "" },
-  { id: "ESP01", player: "Pedri", country: "Espanha", flag: "🇪🇸", photo: "" },
-  { id: "ESP02", player: "Lamine Yamal", country: "Espanha", flag: "🇪🇸", photo: "" },
-  { id: "FRA01", player: "Kylian Mbappé", country: "França", flag: "🇫🇷", photo: "" },
-  { id: "ENG01", player: "Jude Bellingham", country: "Inglaterra", flag: "🏴", photo: "" },
-  { id: "GER01", player: "Florian Wirtz", country: "Alemanha", flag: "🇩🇪", photo: "" },
-];
-
-function initials(name) {
-  return name.split(" ").map(x => x[0]).join("").slice(0, 2).toUpperCase();
+function App(){
+ const[logged,setLogged]=useState(()=>{const s=localStorage.getItem("paniniUser");return s?JSON.parse(s):null});
+ const[loginUser,setLoginUser]=useState(users[0].id),[pin,setPin]=useState("");
+ const[viewUser,setViewUser]=useState(users[0].id),[stickers,setStickers]=useState(stickersData),[owned,setOwned]=useState({}),[dups,setDups]=useState({});
+ const[tab,setTab]=useState("album"),[team,setTeam]=useState("Todas"),[query,setQuery]=useState(""),[sync,setSync]=useState("A sincronizar...");
+ useEffect(()=>{const a=onSnapshot(collection(db,"albums",albumId,"stickers"),snap=>{const d=snap.docs.map(x=>x.data()).sort((a,b)=>a.id.localeCompare(b.id));if(d.length)setStickers(d);setSync("Sincronizado online")});const b=onSnapshot(collection(db,"albums",albumId,"owned"),snap=>{const n={};snap.docs.forEach(d=>n[d.id]=d.data().stickers||{});setOwned(n)});const c=onSnapshot(collection(db,"albums",albumId,"dups"),snap=>{const n={};snap.docs.forEach(d=>n[d.id]=d.data().stickers||{});setDups(n)});return()=>{a();b();c()}},[]);
+ useEffect(()=>{if(logged)setViewUser(logged.id)},[logged]);
+ const teams=useMemo(()=>[{code:"Todas",name:"Todas",flag:"🌍"},...teamsData,{code:"SPECIAL",name:"Especiais",flag:"⭐"}],[]);
+ const visible=useMemo(()=>{const q=query.trim().toLowerCase();return stickers.filter(s=>(team==="Todas"||s.teamCode===team)&&(!q||s.id.toLowerCase().includes(q)||s.name.toLowerCase().includes(q)||s.country.toLowerCase().includes(q))&&(tab!=="faltas"||!owned[viewUser]?.[s.id]))},[stickers,team,query,tab,owned,viewUser]);
+ const stats=users.map(u=>{const total=stickers.filter(s=>owned[u.id]?.[s.id]).length;return{...u,total,missing:stickers.length-total,percent:stickers.length?Math.round(total/stickers.length*100):0}});
+ const teamProgress=teams.filter(t=>t.code!=="Todas").map(t=>{const list=stickers.filter(s=>s.teamCode===t.code);const have=list.filter(s=>owned[viewUser]?.[s.id]).length;return{...t,total:list.length,have,percent:list.length?Math.round(have/list.length*100):0}});
+ const trades=useMemo(()=>{const out=[];for(const r of users)for(const g of users)if(r.id!==g.id)for(const s of stickers)if(!owned[r.id]?.[s.id]&&(dups[g.id]?.[s.id]||0)>0)out.push({receiver:r,giver:g,sticker:s});return out},[stickers,owned,dups]);
+ function login(){const u=users.find(x=>x.id===loginUser&&x.pin===pin);if(!u)return alert("Código errado.");const safe={id:u.id,name:u.name};setLogged(safe);localStorage.setItem("paniniUser",JSON.stringify(safe))}
+ function logout(){setLogged(null);localStorage.removeItem("paniniUser")}
+ async function seed(){for(const s of stickersData)await setDoc(doc(db,"albums",albumId,"stickers",s.id),s);alert("Estrutura carregada: 48 seleções + especiais.")}
+ async function toggle(id){if(!logged||logged.id!==viewUser)return alert("Só podes alterar a tua própria coleção.");const next={...(owned[logged.id]||{}),[id]:!owned[logged.id]?.[id]};await setDoc(doc(db,"albums",albumId,"owned",logged.id),{stickers:next})}
+ async function dup(id,delta){if(!logged||logged.id!==viewUser)return alert("Só podes alterar os teus repetidos.");const val=Math.max(0,(dups[logged.id]?.[id]||0)+delta);const next={...(dups[logged.id]||{}),[id]:val};await setDoc(doc(db,"albums",albumId,"dups",logged.id),{stickers:next})}
+ async function photo(s){const url=prompt("Cola o link da imagem/foto:",s.photo||"");if(url===null)return;await setDoc(doc(db,"albums",albumId,"stickers",s.id),{...s,photo:url.trim()})}
+ if(!logged)return <div className="loginPage"><div className="loginBox"><h1>Panini Mundial 2026</h1><p>App de apoio à vossa caderneta clássica.</p><div className="loginUsers">{users.map(u=><button key={u.id} className={loginUser===u.id?"active":""} onClick={()=>setLoginUser(u.id)}><UserRound size={16}/>{u.name}</button>)}</div><input type="password" placeholder="Código" value={pin} onChange={e=>setPin(e.target.value)} onKeyDown={e=>e.key==="Enter"&&login()}/><button className="primary" onClick={login}>Entrar</button></div></div>;
+ return <div className="app"><header className="hero"><div><h1>Panini Mundial 2026</h1><p>Checklist familiar: tenho, falta, repetidos e trocas.</p></div><div className="badges"><span><Users size={16}/>{logged.name}</span><span><Cloud size={16}/>{sync}</span><button onClick={logout}><LogOut size={15}/>Sair</button></div></header>
+ <section className="stats">{stats.map(s=><div className="stat" key={s.id}><h2>{s.name}<b>{s.percent}%</b></h2><div className="progress"><div style={{width:`${s.percent}%`}}/></div><p>{s.total}/{stickers.length} cromos</p></div>)}</section>
+ <nav className="tabs"><button className={tab==="album"?"active":""} onClick={()=>setTab("album")}>Álbum</button><button className={tab==="faltas"?"active":""} onClick={()=>setTab("faltas")}>Faltas</button><button className={tab==="selecoes"?"active":""} onClick={()=>setTab("selecoes")}>Seleções</button><button className={tab==="trocas"?"active":""} onClick={()=>setTab("trocas")}>Trocas</button><button className={tab==="config"?"active":""} onClick={()=>setTab("config")}>Config</button></nav>
+ {(tab==="album"||tab==="faltas")&&<><section className="controls"><select value={viewUser} onChange={e=>setViewUser(e.target.value)}>{users.map(u=><option key={u.id} value={u.id}>{u.name}</option>)}</select><select value={team} onChange={e=>setTeam(e.target.value)}>{teams.map(t=><option key={t.code} value={t.code}>{t.flag} {t.name}</option>)}</select><div className="search"><Search size={16}/><input placeholder="Pesquisar código, jogador, seleção..." value={query} onChange={e=>setQuery(e.target.value)}/></div></section><section className="grid">{visible.map(s=>{const has=!!owned[viewUser]?.[s.id];const reps=dups[viewUser]?.[s.id]||0;return <article className="card" key={s.id}><div className="photo"><span className="flag">{s.flag}</span><span className="code">{s.id}</span><StickerImage s={s}/></div><div className="body"><h3>{s.name}</h3><p>{s.country} · {s.type}</p><button className={has?"have":"missing"} onClick={()=>toggle(s.id)}>{has?"Tenho":"Falta"}</button><button className="photoBtn" onClick={()=>photo(s)}>Foto</button><div className="dup"><span>Repetidos</span><button onClick={()=>dup(s.id,-1)}>-</button><b>{reps}</b><button onClick={()=>dup(s.id,1)}>+</button></div></div></article>})}</section></>}
+ {tab==="selecoes"&&<section className="teamGrid">{teamProgress.map(t=><button key={t.code} onClick={()=>{setTeam(t.code);setTab("album")}}><span>{t.flag}</span><b>{t.name}</b><small>{t.have}/{t.total} · {t.percent}%</small><div className="miniProgress"><div style={{width:`${t.percent}%`}}/></div></button>)}</section>}
+ {tab==="trocas"&&<section className="panel"><h2><Repeat2 size={20}/> Sugestões de troca</h2>{trades.length===0?<p>Ainda não há trocas possíveis.</p>:<div className="tradeGrid">{trades.map((t,i)=><div className="trade" key={i}><b>{t.giver.name}</b> pode dar <b>{t.sticker.id}</b> a <b>{t.receiver.name}</b><span>{t.sticker.flag} {t.sticker.name} · {t.sticker.country}</span></div>)}</div>}</section>}
+ {tab==="config"&&<section className="panel"><h2>Configuração</h2><p>Carrega a estrutura base da caderneta clássica na Firebase.</p><button className="primary" onClick={seed}><PackageOpen size={16}/> Carregar estrutura Panini</button></section>}</div>
 }
-
-function PlayerImage({ player }) {
-  const [failed, setFailed] = useState(false);
-  if (!player.photo || failed) {
-    return <div className="photoFallback"><span>{initials(player.player)}</span></div>;
-  }
-  return <img src={player.photo} alt={player.player} onError={() => setFailed(true)} />;
-}
-
-function App() {
-  const [loggedUser, setLoggedUser] = useState(() => {
-    const saved = localStorage.getItem("albumUser");
-    return saved ? JSON.parse(saved) : null;
-  });
-  const [selectedLogin, setSelectedLogin] = useState(users[0].id);
-  const [pin, setPin] = useState("");
-  const [players, setPlayers] = useState(starterPlayers);
-  const [owned, setOwned] = useState({});
-  const [duplicates, setDuplicates] = useState({});
-  const [viewUser, setViewUser] = useState(users[0].id);
-  const [tab, setTab] = useState("album");
-  const [search, setSearch] = useState("");
-  const [country, setCountry] = useState("Todas");
-  const [sync, setSync] = useState("A sincronizar...");
-  const [newPlayer, setNewPlayer] = useState({ id: "", player: "", country: "", flag: "", photo: "" });
-
-  useEffect(() => {
-    const unsubPlayers = onSnapshot(collection(db, "albums", albumId, "players"), (snap) => {
-      const data = snap.docs.map(d => d.data()).sort((a, b) => a.id.localeCompare(b.id));
-      if (data.length > 0) setPlayers(data);
-      setSync("Sincronizado online");
-    });
-    const unsubOwned = onSnapshot(collection(db, "albums", albumId, "owned"), (snap) => {
-      const next = {};
-      snap.docs.forEach(d => next[d.id] = d.data().stickers || {});
-      setOwned(next);
-    });
-    const unsubDuplicates = onSnapshot(collection(db, "albums", albumId, "duplicates"), (snap) => {
-      const next = {};
-      snap.docs.forEach(d => next[d.id] = d.data().stickers || {});
-      setDuplicates(next);
-    });
-    return () => { unsubPlayers(); unsubOwned(); unsubDuplicates(); };
-  }, []);
-
-  useEffect(() => { if (loggedUser) setViewUser(loggedUser.id); }, [loggedUser]);
-
-  const countries = useMemo(() => ["Todas", ...Array.from(new Set(players.map(p => p.country))).sort()], [players]);
-
-  const filteredPlayers = useMemo(() => {
-    const q = search.trim().toLowerCase();
-    return players.filter(p => {
-      const matchCountry = country === "Todas" || p.country === country;
-      const matchSearch = !q || p.player.toLowerCase().includes(q) || p.country.toLowerCase().includes(q) || p.id.toLowerCase().includes(q);
-      if (tab === "faltas") return matchCountry && matchSearch && !owned[viewUser]?.[p.id];
-      return matchCountry && matchSearch;
-    });
-  }, [players, country, search, tab, owned, viewUser]);
-
-  const stats = users.map(u => {
-    const total = players.filter(p => owned[u.id]?.[p.id]).length;
-    const percent = players.length ? Math.round((total / players.length) * 100) : 0;
-    return { ...u, total, missing: players.length - total, percent };
-  });
-
-  const trades = useMemo(() => {
-    const result = [];
-    for (const receiver of users) {
-      for (const giver of users) {
-        if (receiver.id === giver.id) continue;
-        for (const p of players) {
-          if (!owned[receiver.id]?.[p.id] && (duplicates[giver.id]?.[p.id] || 0) > 0) {
-            result.push({ receiver, giver, player: p });
-          }
-        }
-      }
-    }
-    return result;
-  }, [players, owned, duplicates]);
-
-  function login() {
-    const u = users.find(x => x.id === selectedLogin && x.pin === pin);
-    if (!u) return alert("Código errado.");
-    const safeUser = { id: u.id, name: u.name };
-    setLoggedUser(safeUser);
-    localStorage.setItem("albumUser", JSON.stringify(safeUser));
-  }
-
-  function logout() {
-    setLoggedUser(null);
-    localStorage.removeItem("albumUser");
-  }
-
-  async function seedAlbum() {
-    for (const p of starterPlayers) {
-      await setDoc(doc(db, "albums", albumId, "players", p.id), p);
-    }
-    alert("Lista inicial carregada.");
-  }
-
-  async function toggleOwned(playerId) {
-    if (!loggedUser || loggedUser.id !== viewUser) return alert("Só podes alterar a tua própria coleção.");
-    const next = { ...(owned[loggedUser.id] || {}), [playerId]: !owned[loggedUser.id]?.[playerId] };
-    await setDoc(doc(db, "albums", albumId, "owned", loggedUser.id), { stickers: next });
-  }
-
-  async function changeDuplicate(playerId, amount) {
-    if (!loggedUser || loggedUser.id !== viewUser) return alert("Só podes alterar os teus repetidos.");
-    const current = duplicates[loggedUser.id]?.[playerId] || 0;
-    const nextAmount = Math.max(0, current + amount);
-    const next = { ...(duplicates[loggedUser.id] || {}), [playerId]: nextAmount };
-    await setDoc(doc(db, "albums", albumId, "duplicates", loggedUser.id), { stickers: next });
-  }
-
-  async function updatePhoto(player) {
-    const url = prompt("Cola aqui o link da foto:", player.photo || "");
-    if (url === null) return;
-    await setDoc(doc(db, "albums", albumId, "players", player.id), { ...player, photo: url.trim() });
-  }
-
-  async function addPlayer() {
-    const id = newPlayer.id.trim().toUpperCase();
-    if (!id || !newPlayer.player.trim() || !newPlayer.country.trim()) return alert("Preenche código, jogador e seleção.");
-    const p = { id, player: newPlayer.player.trim(), country: newPlayer.country.trim(), flag: newPlayer.flag.trim() || "🏳️", photo: newPlayer.photo.trim() };
-    await setDoc(doc(db, "albums", albumId, "players", id), p);
-    setNewPlayer({ id: "", player: "", country: "", flag: "", photo: "" });
-  }
-
-  if (!loggedUser) {
-    return (
-      <div className="loginPage">
-        <div className="loginBox">
-          <h1>Álbum Mundial 2026</h1>
-          <p>Escolhe o teu utilizador e entra com o código.</p>
-          <div className="loginButtons">
-            {users.map(u => (
-              <button key={u.id} className={selectedLogin === u.id ? "active" : ""} onClick={() => setSelectedLogin(u.id)}>
-                <UserRound size={16} /> {u.name}
-              </button>
-            ))}
-          </div>
-          <input type="password" placeholder="Código" value={pin} onChange={e => setPin(e.target.value)} onKeyDown={e => e.key === "Enter" && login()} />
-          <button className="primary" onClick={login}>Entrar</button>
-        </div>
-      </div>
-    );
-  }
-
-  return (
-    <div className="app">
-      <header className="hero">
-        <div><h1>🌍 Álbum Mundial 2026</h1><p>App familiar para cromos, faltas, repetidos e trocas.</p></div>
-        <div className="topBadges">
-          <span><Users size={16} /> {loggedUser.name}</span>
-          <span><Cloud size={16} /> {sync}</span>
-          <button onClick={logout}><LogOut size={15} /> Sair</button>
-        </div>
-      </header>
-
-      <section className="statsGrid">
-        {stats.map(s => (
-          <div className="stat" key={s.id}>
-            <h2>{s.name}<b>{s.percent}%</b></h2>
-            <div className="progress"><div style={{ width: `${s.percent}%` }} /></div>
-            <p>Tem {s.total} de {players.length}. Faltam {s.missing}.</p>
-          </div>
-        ))}
-      </section>
-
-      <nav className="tabs">
-        <button className={tab === "album" ? "active" : ""} onClick={() => setTab("album")}>Álbum</button>
-        <button className={tab === "faltas" ? "active" : ""} onClick={() => setTab("faltas")}>Faltas</button>
-        <button className={tab === "trocas" ? "active" : ""} onClick={() => setTab("trocas")}>Trocas</button>
-        <button className={tab === "adicionar" ? "active" : ""} onClick={() => setTab("adicionar")}>Adicionar</button>
-      </nav>
-
-      {tab !== "trocas" && tab !== "adicionar" && (
-        <section className="controls">
-          <select value={viewUser} onChange={e => setViewUser(e.target.value)}>{users.map(u => <option key={u.id} value={u.id}>{u.name}</option>)}</select>
-          <select value={country} onChange={e => setCountry(e.target.value)}>{countries.map(c => <option key={c}>{c}</option>)}</select>
-          <div className="searchBox"><Search size={16} /><input placeholder="Pesquisar jogador, seleção ou código" value={search} onChange={e => setSearch(e.target.value)} /></div>
-        </section>
-      )}
-
-      {(tab === "album" || tab === "faltas") && (
-        <section className="albumGrid">
-          {filteredPlayers.map(p => {
-            const hasIt = !!owned[viewUser]?.[p.id];
-            const reps = duplicates[viewUser]?.[p.id] || 0;
-            return (
-              <article className="sticker" key={p.id}>
-                <div className="photoArea"><span className="flag">{p.flag}</span><span className="code">{p.id}</span><PlayerImage player={p} /></div>
-                <div className="info">
-                  <h2>{p.player}</h2><p>{p.country}</p>
-                  <button className={hasIt ? "have" : "missing"} onClick={() => toggleOwned(p.id)}>{hasIt ? "Tenho" : "Falta"}</button>
-                  <button className="photoBtn" onClick={() => updatePhoto(p)}>Foto</button>
-                  <div className="dupLine"><span>Repetidos</span><button onClick={() => changeDuplicate(p.id, -1)}>-</button><b>{reps}</b><button onClick={() => changeDuplicate(p.id, 1)}>+</button></div>
-                </div>
-              </article>
-            );
-          })}
-        </section>
-      )}
-
-      {tab === "trocas" && (
-        <section className="panel">
-          <h2><Repeat2 size={20} /> Sugestões de troca</h2>
-          {trades.length === 0 ? <p>Ainda não há trocas possíveis. Marca repetidos para aparecerem sugestões.</p> : (
-            <div className="trades">{trades.map((t, i) => <div className="trade" key={i}><b>{t.giver.name}</b> pode dar <b>{t.player.player}</b> a <b>{t.receiver.name}</b><span>{t.player.flag} {t.player.country} · {t.player.id}</span></div>)}</div>
-          )}
-        </section>
-      )}
-
-      {tab === "adicionar" && (
-        <section className="panel">
-          <h2>Adicionar cromo</h2>
-          <div className="formGrid">
-            <input placeholder="Código: POR04" value={newPlayer.id} onChange={e => setNewPlayer({ ...newPlayer, id: e.target.value })} />
-            <input placeholder="Jogador" value={newPlayer.player} onChange={e => setNewPlayer({ ...newPlayer, player: e.target.value })} />
-            <input placeholder="Seleção" value={newPlayer.country} onChange={e => setNewPlayer({ ...newPlayer, country: e.target.value })} />
-            <input placeholder="Bandeira: 🇵🇹" value={newPlayer.flag} onChange={e => setNewPlayer({ ...newPlayer, flag: e.target.value })} />
-            <input placeholder="Link da foto" value={newPlayer.photo} onChange={e => setNewPlayer({ ...newPlayer, photo: e.target.value })} />
-            <button className="primary" onClick={addPlayer}>Adicionar</button>
-          </div>
-          <button className="secondary" onClick={seedAlbum}>Carregar lista inicial</button>
-        </section>
-      )}
-    </div>
-  );
-}
-
-createRoot(document.getElementById("root")).render(<App />);
+createRoot(document.getElementById("root")).render(<App/>);

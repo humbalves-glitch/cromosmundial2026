@@ -1,0 +1,9254 @@
+[
+  {
+    "id": "ARG01",
+    "teamCode": "ARG",
+    "country": "Argentina",
+    "flag": "🇦🇷",
+    "name": "Escudo / Federação",
+    "type": "escudo",
+    "photo": ""
+  },
+  {
+    "id": "ARG02",
+    "teamCode": "ARG",
+    "country": "Argentina",
+    "flag": "🇦🇷",
+    "name": "Foto de equipa",
+    "type": "equipa",
+    "photo": ""
+  },
+  {
+    "id": "ARG03",
+    "teamCode": "ARG",
+    "country": "Argentina",
+    "flag": "🇦🇷",
+    "name": "Lionel Messi",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "ARG04",
+    "teamCode": "ARG",
+    "country": "Argentina",
+    "flag": "🇦🇷",
+    "name": "Lautaro Martínez",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "ARG05",
+    "teamCode": "ARG",
+    "country": "Argentina",
+    "flag": "🇦🇷",
+    "name": "Julián Álvarez",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "ARG06",
+    "teamCode": "ARG",
+    "country": "Argentina",
+    "flag": "🇦🇷",
+    "name": "Emiliano Martínez",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "ARG07",
+    "teamCode": "ARG",
+    "country": "Argentina",
+    "flag": "🇦🇷",
+    "name": "Rodrigo De Paul",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "ARG08",
+    "teamCode": "ARG",
+    "country": "Argentina",
+    "flag": "🇦🇷",
+    "name": "Enzo Fernández",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "ARG09",
+    "teamCode": "ARG",
+    "country": "Argentina",
+    "flag": "🇦🇷",
+    "name": "Alexis Mac Allister",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "ARG10",
+    "teamCode": "ARG",
+    "country": "Argentina",
+    "flag": "🇦🇷",
+    "name": "Cristian Romero",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "ARG11",
+    "teamCode": "ARG",
+    "country": "Argentina",
+    "flag": "🇦🇷",
+    "name": "Nicolás Otamendi",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "ARG12",
+    "teamCode": "ARG",
+    "country": "Argentina",
+    "flag": "🇦🇷",
+    "name": "Nahuel Molina",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "ARG13",
+    "teamCode": "ARG",
+    "country": "Argentina",
+    "flag": "🇦🇷",
+    "name": "Leandro Paredes",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "ARG14",
+    "teamCode": "ARG",
+    "country": "Argentina",
+    "flag": "🇦🇷",
+    "name": "Giovani Lo Celso",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "ARG15",
+    "teamCode": "ARG",
+    "country": "Argentina",
+    "flag": "🇦🇷",
+    "name": "Nicolás González",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "ARG16",
+    "teamCode": "ARG",
+    "country": "Argentina",
+    "flag": "🇦🇷",
+    "name": "Lisandro Martínez",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "ARG17",
+    "teamCode": "ARG",
+    "country": "Argentina",
+    "flag": "🇦🇷",
+    "name": "Paulo Dybala",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "ARG18",
+    "teamCode": "ARG",
+    "country": "Argentina",
+    "flag": "🇦🇷",
+    "name": "Exequiel Palacios",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "ARG19",
+    "teamCode": "ARG",
+    "country": "Argentina",
+    "flag": "🇦🇷",
+    "name": "Gonzalo Montiel",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "ARG20",
+    "teamCode": "ARG",
+    "country": "Argentina",
+    "flag": "🇦🇷",
+    "name": "Ángel Di María",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "AUS01",
+    "teamCode": "AUS",
+    "country": "Austrália",
+    "flag": "🇦🇺",
+    "name": "Escudo / Federação",
+    "type": "escudo",
+    "photo": ""
+  },
+  {
+    "id": "AUS02",
+    "teamCode": "AUS",
+    "country": "Austrália",
+    "flag": "🇦🇺",
+    "name": "Foto de equipa",
+    "type": "equipa",
+    "photo": ""
+  },
+  {
+    "id": "AUS03",
+    "teamCode": "AUS",
+    "country": "Austrália",
+    "flag": "🇦🇺",
+    "name": "Jogador 1",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "AUS04",
+    "teamCode": "AUS",
+    "country": "Austrália",
+    "flag": "🇦🇺",
+    "name": "Jogador 2",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "AUS05",
+    "teamCode": "AUS",
+    "country": "Austrália",
+    "flag": "🇦🇺",
+    "name": "Jogador 3",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "AUS06",
+    "teamCode": "AUS",
+    "country": "Austrália",
+    "flag": "🇦🇺",
+    "name": "Jogador 4",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "AUS07",
+    "teamCode": "AUS",
+    "country": "Austrália",
+    "flag": "🇦🇺",
+    "name": "Jogador 5",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "AUS08",
+    "teamCode": "AUS",
+    "country": "Austrália",
+    "flag": "🇦🇺",
+    "name": "Jogador 6",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "AUS09",
+    "teamCode": "AUS",
+    "country": "Austrália",
+    "flag": "🇦🇺",
+    "name": "Jogador 7",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "AUS10",
+    "teamCode": "AUS",
+    "country": "Austrália",
+    "flag": "🇦🇺",
+    "name": "Jogador 8",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "AUS11",
+    "teamCode": "AUS",
+    "country": "Austrália",
+    "flag": "🇦🇺",
+    "name": "Jogador 9",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "AUS12",
+    "teamCode": "AUS",
+    "country": "Austrália",
+    "flag": "🇦🇺",
+    "name": "Jogador 10",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "AUS13",
+    "teamCode": "AUS",
+    "country": "Austrália",
+    "flag": "🇦🇺",
+    "name": "Jogador 11",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "AUS14",
+    "teamCode": "AUS",
+    "country": "Austrália",
+    "flag": "🇦🇺",
+    "name": "Jogador 12",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "AUS15",
+    "teamCode": "AUS",
+    "country": "Austrália",
+    "flag": "🇦🇺",
+    "name": "Jogador 13",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "AUS16",
+    "teamCode": "AUS",
+    "country": "Austrália",
+    "flag": "🇦🇺",
+    "name": "Jogador 14",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "AUS17",
+    "teamCode": "AUS",
+    "country": "Austrália",
+    "flag": "🇦🇺",
+    "name": "Jogador 15",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "AUS18",
+    "teamCode": "AUS",
+    "country": "Austrália",
+    "flag": "🇦🇺",
+    "name": "Jogador 16",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "AUS19",
+    "teamCode": "AUS",
+    "country": "Austrália",
+    "flag": "🇦🇺",
+    "name": "Jogador 17",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "AUS20",
+    "teamCode": "AUS",
+    "country": "Austrália",
+    "flag": "🇦🇺",
+    "name": "Jogador 18",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "BEL01",
+    "teamCode": "BEL",
+    "country": "Bélgica",
+    "flag": "🇧🇪",
+    "name": "Escudo / Federação",
+    "type": "escudo",
+    "photo": ""
+  },
+  {
+    "id": "BEL02",
+    "teamCode": "BEL",
+    "country": "Bélgica",
+    "flag": "🇧🇪",
+    "name": "Foto de equipa",
+    "type": "equipa",
+    "photo": ""
+  },
+  {
+    "id": "BEL03",
+    "teamCode": "BEL",
+    "country": "Bélgica",
+    "flag": "🇧🇪",
+    "name": "Jogador 1",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "BEL04",
+    "teamCode": "BEL",
+    "country": "Bélgica",
+    "flag": "🇧🇪",
+    "name": "Jogador 2",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "BEL05",
+    "teamCode": "BEL",
+    "country": "Bélgica",
+    "flag": "🇧🇪",
+    "name": "Jogador 3",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "BEL06",
+    "teamCode": "BEL",
+    "country": "Bélgica",
+    "flag": "🇧🇪",
+    "name": "Jogador 4",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "BEL07",
+    "teamCode": "BEL",
+    "country": "Bélgica",
+    "flag": "🇧🇪",
+    "name": "Jogador 5",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "BEL08",
+    "teamCode": "BEL",
+    "country": "Bélgica",
+    "flag": "🇧🇪",
+    "name": "Jogador 6",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "BEL09",
+    "teamCode": "BEL",
+    "country": "Bélgica",
+    "flag": "🇧🇪",
+    "name": "Jogador 7",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "BEL10",
+    "teamCode": "BEL",
+    "country": "Bélgica",
+    "flag": "🇧🇪",
+    "name": "Jogador 8",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "BEL11",
+    "teamCode": "BEL",
+    "country": "Bélgica",
+    "flag": "🇧🇪",
+    "name": "Jogador 9",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "BEL12",
+    "teamCode": "BEL",
+    "country": "Bélgica",
+    "flag": "🇧🇪",
+    "name": "Jogador 10",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "BEL13",
+    "teamCode": "BEL",
+    "country": "Bélgica",
+    "flag": "🇧🇪",
+    "name": "Jogador 11",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "BEL14",
+    "teamCode": "BEL",
+    "country": "Bélgica",
+    "flag": "🇧🇪",
+    "name": "Jogador 12",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "BEL15",
+    "teamCode": "BEL",
+    "country": "Bélgica",
+    "flag": "🇧🇪",
+    "name": "Jogador 13",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "BEL16",
+    "teamCode": "BEL",
+    "country": "Bélgica",
+    "flag": "🇧🇪",
+    "name": "Jogador 14",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "BEL17",
+    "teamCode": "BEL",
+    "country": "Bélgica",
+    "flag": "🇧🇪",
+    "name": "Jogador 15",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "BEL18",
+    "teamCode": "BEL",
+    "country": "Bélgica",
+    "flag": "🇧🇪",
+    "name": "Jogador 16",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "BEL19",
+    "teamCode": "BEL",
+    "country": "Bélgica",
+    "flag": "🇧🇪",
+    "name": "Jogador 17",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "BEL20",
+    "teamCode": "BEL",
+    "country": "Bélgica",
+    "flag": "🇧🇪",
+    "name": "Jogador 18",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "BRA01",
+    "teamCode": "BRA",
+    "country": "Brasil",
+    "flag": "🇧🇷",
+    "name": "Escudo / Federação",
+    "type": "escudo",
+    "photo": ""
+  },
+  {
+    "id": "BRA02",
+    "teamCode": "BRA",
+    "country": "Brasil",
+    "flag": "🇧🇷",
+    "name": "Foto de equipa",
+    "type": "equipa",
+    "photo": ""
+  },
+  {
+    "id": "BRA03",
+    "teamCode": "BRA",
+    "country": "Brasil",
+    "flag": "🇧🇷",
+    "name": "Vinicius Junior",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "BRA04",
+    "teamCode": "BRA",
+    "country": "Brasil",
+    "flag": "🇧🇷",
+    "name": "Rodrygo",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "BRA05",
+    "teamCode": "BRA",
+    "country": "Brasil",
+    "flag": "🇧🇷",
+    "name": "Neymar Jr",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "BRA06",
+    "teamCode": "BRA",
+    "country": "Brasil",
+    "flag": "🇧🇷",
+    "name": "Alisson",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "BRA07",
+    "teamCode": "BRA",
+    "country": "Brasil",
+    "flag": "🇧🇷",
+    "name": "Ederson",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "BRA08",
+    "teamCode": "BRA",
+    "country": "Brasil",
+    "flag": "🇧🇷",
+    "name": "Marquinhos",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "BRA09",
+    "teamCode": "BRA",
+    "country": "Brasil",
+    "flag": "🇧🇷",
+    "name": "Éder Militão",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "BRA10",
+    "teamCode": "BRA",
+    "country": "Brasil",
+    "flag": "🇧🇷",
+    "name": "Gabriel Magalhães",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "BRA11",
+    "teamCode": "BRA",
+    "country": "Brasil",
+    "flag": "🇧🇷",
+    "name": "Casemiro",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "BRA12",
+    "teamCode": "BRA",
+    "country": "Brasil",
+    "flag": "🇧🇷",
+    "name": "Bruno Guimarães",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "BRA13",
+    "teamCode": "BRA",
+    "country": "Brasil",
+    "flag": "🇧🇷",
+    "name": "Lucas Paquetá",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "BRA14",
+    "teamCode": "BRA",
+    "country": "Brasil",
+    "flag": "🇧🇷",
+    "name": "Raphinha",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "BRA15",
+    "teamCode": "BRA",
+    "country": "Brasil",
+    "flag": "🇧🇷",
+    "name": "Endrick",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "BRA16",
+    "teamCode": "BRA",
+    "country": "Brasil",
+    "flag": "🇧🇷",
+    "name": "Gabriel Martinelli",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "BRA17",
+    "teamCode": "BRA",
+    "country": "Brasil",
+    "flag": "🇧🇷",
+    "name": "Richarlison",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "BRA18",
+    "teamCode": "BRA",
+    "country": "Brasil",
+    "flag": "🇧🇷",
+    "name": "Danilo",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "BRA19",
+    "teamCode": "BRA",
+    "country": "Brasil",
+    "flag": "🇧🇷",
+    "name": "Wendell",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "BRA20",
+    "teamCode": "BRA",
+    "country": "Brasil",
+    "flag": "🇧🇷",
+    "name": "Andreas Pereira",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "CAN01",
+    "teamCode": "CAN",
+    "country": "Canadá",
+    "flag": "🇨🇦",
+    "name": "Escudo / Federação",
+    "type": "escudo",
+    "photo": ""
+  },
+  {
+    "id": "CAN02",
+    "teamCode": "CAN",
+    "country": "Canadá",
+    "flag": "🇨🇦",
+    "name": "Foto de equipa",
+    "type": "equipa",
+    "photo": ""
+  },
+  {
+    "id": "CAN03",
+    "teamCode": "CAN",
+    "country": "Canadá",
+    "flag": "🇨🇦",
+    "name": "Jogador 1",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "CAN04",
+    "teamCode": "CAN",
+    "country": "Canadá",
+    "flag": "🇨🇦",
+    "name": "Jogador 2",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "CAN05",
+    "teamCode": "CAN",
+    "country": "Canadá",
+    "flag": "🇨🇦",
+    "name": "Jogador 3",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "CAN06",
+    "teamCode": "CAN",
+    "country": "Canadá",
+    "flag": "🇨🇦",
+    "name": "Jogador 4",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "CAN07",
+    "teamCode": "CAN",
+    "country": "Canadá",
+    "flag": "🇨🇦",
+    "name": "Jogador 5",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "CAN08",
+    "teamCode": "CAN",
+    "country": "Canadá",
+    "flag": "🇨🇦",
+    "name": "Jogador 6",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "CAN09",
+    "teamCode": "CAN",
+    "country": "Canadá",
+    "flag": "🇨🇦",
+    "name": "Jogador 7",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "CAN10",
+    "teamCode": "CAN",
+    "country": "Canadá",
+    "flag": "🇨🇦",
+    "name": "Jogador 8",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "CAN11",
+    "teamCode": "CAN",
+    "country": "Canadá",
+    "flag": "🇨🇦",
+    "name": "Jogador 9",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "CAN12",
+    "teamCode": "CAN",
+    "country": "Canadá",
+    "flag": "🇨🇦",
+    "name": "Jogador 10",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "CAN13",
+    "teamCode": "CAN",
+    "country": "Canadá",
+    "flag": "🇨🇦",
+    "name": "Jogador 11",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "CAN14",
+    "teamCode": "CAN",
+    "country": "Canadá",
+    "flag": "🇨🇦",
+    "name": "Jogador 12",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "CAN15",
+    "teamCode": "CAN",
+    "country": "Canadá",
+    "flag": "🇨🇦",
+    "name": "Jogador 13",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "CAN16",
+    "teamCode": "CAN",
+    "country": "Canadá",
+    "flag": "🇨🇦",
+    "name": "Jogador 14",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "CAN17",
+    "teamCode": "CAN",
+    "country": "Canadá",
+    "flag": "🇨🇦",
+    "name": "Jogador 15",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "CAN18",
+    "teamCode": "CAN",
+    "country": "Canadá",
+    "flag": "🇨🇦",
+    "name": "Jogador 16",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "CAN19",
+    "teamCode": "CAN",
+    "country": "Canadá",
+    "flag": "🇨🇦",
+    "name": "Jogador 17",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "CAN20",
+    "teamCode": "CAN",
+    "country": "Canadá",
+    "flag": "🇨🇦",
+    "name": "Jogador 18",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "CHI01",
+    "teamCode": "CHI",
+    "country": "Chile",
+    "flag": "🇨🇱",
+    "name": "Escudo / Federação",
+    "type": "escudo",
+    "photo": ""
+  },
+  {
+    "id": "CHI02",
+    "teamCode": "CHI",
+    "country": "Chile",
+    "flag": "🇨🇱",
+    "name": "Foto de equipa",
+    "type": "equipa",
+    "photo": ""
+  },
+  {
+    "id": "CHI03",
+    "teamCode": "CHI",
+    "country": "Chile",
+    "flag": "🇨🇱",
+    "name": "Jogador 1",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "CHI04",
+    "teamCode": "CHI",
+    "country": "Chile",
+    "flag": "🇨🇱",
+    "name": "Jogador 2",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "CHI05",
+    "teamCode": "CHI",
+    "country": "Chile",
+    "flag": "🇨🇱",
+    "name": "Jogador 3",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "CHI06",
+    "teamCode": "CHI",
+    "country": "Chile",
+    "flag": "🇨🇱",
+    "name": "Jogador 4",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "CHI07",
+    "teamCode": "CHI",
+    "country": "Chile",
+    "flag": "🇨🇱",
+    "name": "Jogador 5",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "CHI08",
+    "teamCode": "CHI",
+    "country": "Chile",
+    "flag": "🇨🇱",
+    "name": "Jogador 6",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "CHI09",
+    "teamCode": "CHI",
+    "country": "Chile",
+    "flag": "🇨🇱",
+    "name": "Jogador 7",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "CHI10",
+    "teamCode": "CHI",
+    "country": "Chile",
+    "flag": "🇨🇱",
+    "name": "Jogador 8",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "CHI11",
+    "teamCode": "CHI",
+    "country": "Chile",
+    "flag": "🇨🇱",
+    "name": "Jogador 9",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "CHI12",
+    "teamCode": "CHI",
+    "country": "Chile",
+    "flag": "🇨🇱",
+    "name": "Jogador 10",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "CHI13",
+    "teamCode": "CHI",
+    "country": "Chile",
+    "flag": "🇨🇱",
+    "name": "Jogador 11",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "CHI14",
+    "teamCode": "CHI",
+    "country": "Chile",
+    "flag": "🇨🇱",
+    "name": "Jogador 12",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "CHI15",
+    "teamCode": "CHI",
+    "country": "Chile",
+    "flag": "🇨🇱",
+    "name": "Jogador 13",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "CHI16",
+    "teamCode": "CHI",
+    "country": "Chile",
+    "flag": "🇨🇱",
+    "name": "Jogador 14",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "CHI17",
+    "teamCode": "CHI",
+    "country": "Chile",
+    "flag": "🇨🇱",
+    "name": "Jogador 15",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "CHI18",
+    "teamCode": "CHI",
+    "country": "Chile",
+    "flag": "🇨🇱",
+    "name": "Jogador 16",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "CHI19",
+    "teamCode": "CHI",
+    "country": "Chile",
+    "flag": "🇨🇱",
+    "name": "Jogador 17",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "CHI20",
+    "teamCode": "CHI",
+    "country": "Chile",
+    "flag": "🇨🇱",
+    "name": "Jogador 18",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "COL01",
+    "teamCode": "COL",
+    "country": "Colômbia",
+    "flag": "🇨🇴",
+    "name": "Escudo / Federação",
+    "type": "escudo",
+    "photo": ""
+  },
+  {
+    "id": "COL02",
+    "teamCode": "COL",
+    "country": "Colômbia",
+    "flag": "🇨🇴",
+    "name": "Foto de equipa",
+    "type": "equipa",
+    "photo": ""
+  },
+  {
+    "id": "COL03",
+    "teamCode": "COL",
+    "country": "Colômbia",
+    "flag": "🇨🇴",
+    "name": "Jogador 1",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "COL04",
+    "teamCode": "COL",
+    "country": "Colômbia",
+    "flag": "🇨🇴",
+    "name": "Jogador 2",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "COL05",
+    "teamCode": "COL",
+    "country": "Colômbia",
+    "flag": "🇨🇴",
+    "name": "Jogador 3",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "COL06",
+    "teamCode": "COL",
+    "country": "Colômbia",
+    "flag": "🇨🇴",
+    "name": "Jogador 4",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "COL07",
+    "teamCode": "COL",
+    "country": "Colômbia",
+    "flag": "🇨🇴",
+    "name": "Jogador 5",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "COL08",
+    "teamCode": "COL",
+    "country": "Colômbia",
+    "flag": "🇨🇴",
+    "name": "Jogador 6",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "COL09",
+    "teamCode": "COL",
+    "country": "Colômbia",
+    "flag": "🇨🇴",
+    "name": "Jogador 7",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "COL10",
+    "teamCode": "COL",
+    "country": "Colômbia",
+    "flag": "🇨🇴",
+    "name": "Jogador 8",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "COL11",
+    "teamCode": "COL",
+    "country": "Colômbia",
+    "flag": "🇨🇴",
+    "name": "Jogador 9",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "COL12",
+    "teamCode": "COL",
+    "country": "Colômbia",
+    "flag": "🇨🇴",
+    "name": "Jogador 10",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "COL13",
+    "teamCode": "COL",
+    "country": "Colômbia",
+    "flag": "🇨🇴",
+    "name": "Jogador 11",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "COL14",
+    "teamCode": "COL",
+    "country": "Colômbia",
+    "flag": "🇨🇴",
+    "name": "Jogador 12",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "COL15",
+    "teamCode": "COL",
+    "country": "Colômbia",
+    "flag": "🇨🇴",
+    "name": "Jogador 13",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "COL16",
+    "teamCode": "COL",
+    "country": "Colômbia",
+    "flag": "🇨🇴",
+    "name": "Jogador 14",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "COL17",
+    "teamCode": "COL",
+    "country": "Colômbia",
+    "flag": "🇨🇴",
+    "name": "Jogador 15",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "COL18",
+    "teamCode": "COL",
+    "country": "Colômbia",
+    "flag": "🇨🇴",
+    "name": "Jogador 16",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "COL19",
+    "teamCode": "COL",
+    "country": "Colômbia",
+    "flag": "🇨🇴",
+    "name": "Jogador 17",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "COL20",
+    "teamCode": "COL",
+    "country": "Colômbia",
+    "flag": "🇨🇴",
+    "name": "Jogador 18",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "CRC01",
+    "teamCode": "CRC",
+    "country": "Costa Rica",
+    "flag": "🇨🇷",
+    "name": "Escudo / Federação",
+    "type": "escudo",
+    "photo": ""
+  },
+  {
+    "id": "CRC02",
+    "teamCode": "CRC",
+    "country": "Costa Rica",
+    "flag": "🇨🇷",
+    "name": "Foto de equipa",
+    "type": "equipa",
+    "photo": ""
+  },
+  {
+    "id": "CRC03",
+    "teamCode": "CRC",
+    "country": "Costa Rica",
+    "flag": "🇨🇷",
+    "name": "Jogador 1",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "CRC04",
+    "teamCode": "CRC",
+    "country": "Costa Rica",
+    "flag": "🇨🇷",
+    "name": "Jogador 2",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "CRC05",
+    "teamCode": "CRC",
+    "country": "Costa Rica",
+    "flag": "🇨🇷",
+    "name": "Jogador 3",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "CRC06",
+    "teamCode": "CRC",
+    "country": "Costa Rica",
+    "flag": "🇨🇷",
+    "name": "Jogador 4",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "CRC07",
+    "teamCode": "CRC",
+    "country": "Costa Rica",
+    "flag": "🇨🇷",
+    "name": "Jogador 5",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "CRC08",
+    "teamCode": "CRC",
+    "country": "Costa Rica",
+    "flag": "🇨🇷",
+    "name": "Jogador 6",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "CRC09",
+    "teamCode": "CRC",
+    "country": "Costa Rica",
+    "flag": "🇨🇷",
+    "name": "Jogador 7",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "CRC10",
+    "teamCode": "CRC",
+    "country": "Costa Rica",
+    "flag": "🇨🇷",
+    "name": "Jogador 8",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "CRC11",
+    "teamCode": "CRC",
+    "country": "Costa Rica",
+    "flag": "🇨🇷",
+    "name": "Jogador 9",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "CRC12",
+    "teamCode": "CRC",
+    "country": "Costa Rica",
+    "flag": "🇨🇷",
+    "name": "Jogador 10",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "CRC13",
+    "teamCode": "CRC",
+    "country": "Costa Rica",
+    "flag": "🇨🇷",
+    "name": "Jogador 11",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "CRC14",
+    "teamCode": "CRC",
+    "country": "Costa Rica",
+    "flag": "🇨🇷",
+    "name": "Jogador 12",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "CRC15",
+    "teamCode": "CRC",
+    "country": "Costa Rica",
+    "flag": "🇨🇷",
+    "name": "Jogador 13",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "CRC16",
+    "teamCode": "CRC",
+    "country": "Costa Rica",
+    "flag": "🇨🇷",
+    "name": "Jogador 14",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "CRC17",
+    "teamCode": "CRC",
+    "country": "Costa Rica",
+    "flag": "🇨🇷",
+    "name": "Jogador 15",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "CRC18",
+    "teamCode": "CRC",
+    "country": "Costa Rica",
+    "flag": "🇨🇷",
+    "name": "Jogador 16",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "CRC19",
+    "teamCode": "CRC",
+    "country": "Costa Rica",
+    "flag": "🇨🇷",
+    "name": "Jogador 17",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "CRC20",
+    "teamCode": "CRC",
+    "country": "Costa Rica",
+    "flag": "🇨🇷",
+    "name": "Jogador 18",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "CRO01",
+    "teamCode": "CRO",
+    "country": "Croácia",
+    "flag": "🇭🇷",
+    "name": "Escudo / Federação",
+    "type": "escudo",
+    "photo": ""
+  },
+  {
+    "id": "CRO02",
+    "teamCode": "CRO",
+    "country": "Croácia",
+    "flag": "🇭🇷",
+    "name": "Foto de equipa",
+    "type": "equipa",
+    "photo": ""
+  },
+  {
+    "id": "CRO03",
+    "teamCode": "CRO",
+    "country": "Croácia",
+    "flag": "🇭🇷",
+    "name": "Jogador 1",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "CRO04",
+    "teamCode": "CRO",
+    "country": "Croácia",
+    "flag": "🇭🇷",
+    "name": "Jogador 2",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "CRO05",
+    "teamCode": "CRO",
+    "country": "Croácia",
+    "flag": "🇭🇷",
+    "name": "Jogador 3",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "CRO06",
+    "teamCode": "CRO",
+    "country": "Croácia",
+    "flag": "🇭🇷",
+    "name": "Jogador 4",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "CRO07",
+    "teamCode": "CRO",
+    "country": "Croácia",
+    "flag": "🇭🇷",
+    "name": "Jogador 5",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "CRO08",
+    "teamCode": "CRO",
+    "country": "Croácia",
+    "flag": "🇭🇷",
+    "name": "Jogador 6",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "CRO09",
+    "teamCode": "CRO",
+    "country": "Croácia",
+    "flag": "🇭🇷",
+    "name": "Jogador 7",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "CRO10",
+    "teamCode": "CRO",
+    "country": "Croácia",
+    "flag": "🇭🇷",
+    "name": "Jogador 8",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "CRO11",
+    "teamCode": "CRO",
+    "country": "Croácia",
+    "flag": "🇭🇷",
+    "name": "Jogador 9",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "CRO12",
+    "teamCode": "CRO",
+    "country": "Croácia",
+    "flag": "🇭🇷",
+    "name": "Jogador 10",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "CRO13",
+    "teamCode": "CRO",
+    "country": "Croácia",
+    "flag": "🇭🇷",
+    "name": "Jogador 11",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "CRO14",
+    "teamCode": "CRO",
+    "country": "Croácia",
+    "flag": "🇭🇷",
+    "name": "Jogador 12",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "CRO15",
+    "teamCode": "CRO",
+    "country": "Croácia",
+    "flag": "🇭🇷",
+    "name": "Jogador 13",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "CRO16",
+    "teamCode": "CRO",
+    "country": "Croácia",
+    "flag": "🇭🇷",
+    "name": "Jogador 14",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "CRO17",
+    "teamCode": "CRO",
+    "country": "Croácia",
+    "flag": "🇭🇷",
+    "name": "Jogador 15",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "CRO18",
+    "teamCode": "CRO",
+    "country": "Croácia",
+    "flag": "🇭🇷",
+    "name": "Jogador 16",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "CRO19",
+    "teamCode": "CRO",
+    "country": "Croácia",
+    "flag": "🇭🇷",
+    "name": "Jogador 17",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "CRO20",
+    "teamCode": "CRO",
+    "country": "Croácia",
+    "flag": "🇭🇷",
+    "name": "Jogador 18",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "DEN01",
+    "teamCode": "DEN",
+    "country": "Dinamarca",
+    "flag": "🇩🇰",
+    "name": "Escudo / Federação",
+    "type": "escudo",
+    "photo": ""
+  },
+  {
+    "id": "DEN02",
+    "teamCode": "DEN",
+    "country": "Dinamarca",
+    "flag": "🇩🇰",
+    "name": "Foto de equipa",
+    "type": "equipa",
+    "photo": ""
+  },
+  {
+    "id": "DEN03",
+    "teamCode": "DEN",
+    "country": "Dinamarca",
+    "flag": "🇩🇰",
+    "name": "Jogador 1",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "DEN04",
+    "teamCode": "DEN",
+    "country": "Dinamarca",
+    "flag": "🇩🇰",
+    "name": "Jogador 2",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "DEN05",
+    "teamCode": "DEN",
+    "country": "Dinamarca",
+    "flag": "🇩🇰",
+    "name": "Jogador 3",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "DEN06",
+    "teamCode": "DEN",
+    "country": "Dinamarca",
+    "flag": "🇩🇰",
+    "name": "Jogador 4",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "DEN07",
+    "teamCode": "DEN",
+    "country": "Dinamarca",
+    "flag": "🇩🇰",
+    "name": "Jogador 5",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "DEN08",
+    "teamCode": "DEN",
+    "country": "Dinamarca",
+    "flag": "🇩🇰",
+    "name": "Jogador 6",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "DEN09",
+    "teamCode": "DEN",
+    "country": "Dinamarca",
+    "flag": "🇩🇰",
+    "name": "Jogador 7",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "DEN10",
+    "teamCode": "DEN",
+    "country": "Dinamarca",
+    "flag": "🇩🇰",
+    "name": "Jogador 8",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "DEN11",
+    "teamCode": "DEN",
+    "country": "Dinamarca",
+    "flag": "🇩🇰",
+    "name": "Jogador 9",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "DEN12",
+    "teamCode": "DEN",
+    "country": "Dinamarca",
+    "flag": "🇩🇰",
+    "name": "Jogador 10",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "DEN13",
+    "teamCode": "DEN",
+    "country": "Dinamarca",
+    "flag": "🇩🇰",
+    "name": "Jogador 11",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "DEN14",
+    "teamCode": "DEN",
+    "country": "Dinamarca",
+    "flag": "🇩🇰",
+    "name": "Jogador 12",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "DEN15",
+    "teamCode": "DEN",
+    "country": "Dinamarca",
+    "flag": "🇩🇰",
+    "name": "Jogador 13",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "DEN16",
+    "teamCode": "DEN",
+    "country": "Dinamarca",
+    "flag": "🇩🇰",
+    "name": "Jogador 14",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "DEN17",
+    "teamCode": "DEN",
+    "country": "Dinamarca",
+    "flag": "🇩🇰",
+    "name": "Jogador 15",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "DEN18",
+    "teamCode": "DEN",
+    "country": "Dinamarca",
+    "flag": "🇩🇰",
+    "name": "Jogador 16",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "DEN19",
+    "teamCode": "DEN",
+    "country": "Dinamarca",
+    "flag": "🇩🇰",
+    "name": "Jogador 17",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "DEN20",
+    "teamCode": "DEN",
+    "country": "Dinamarca",
+    "flag": "🇩🇰",
+    "name": "Jogador 18",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "ECU01",
+    "teamCode": "ECU",
+    "country": "Equador",
+    "flag": "🇪🇨",
+    "name": "Escudo / Federação",
+    "type": "escudo",
+    "photo": ""
+  },
+  {
+    "id": "ECU02",
+    "teamCode": "ECU",
+    "country": "Equador",
+    "flag": "🇪🇨",
+    "name": "Foto de equipa",
+    "type": "equipa",
+    "photo": ""
+  },
+  {
+    "id": "ECU03",
+    "teamCode": "ECU",
+    "country": "Equador",
+    "flag": "🇪🇨",
+    "name": "Jogador 1",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "ECU04",
+    "teamCode": "ECU",
+    "country": "Equador",
+    "flag": "🇪🇨",
+    "name": "Jogador 2",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "ECU05",
+    "teamCode": "ECU",
+    "country": "Equador",
+    "flag": "🇪🇨",
+    "name": "Jogador 3",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "ECU06",
+    "teamCode": "ECU",
+    "country": "Equador",
+    "flag": "🇪🇨",
+    "name": "Jogador 4",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "ECU07",
+    "teamCode": "ECU",
+    "country": "Equador",
+    "flag": "🇪🇨",
+    "name": "Jogador 5",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "ECU08",
+    "teamCode": "ECU",
+    "country": "Equador",
+    "flag": "🇪🇨",
+    "name": "Jogador 6",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "ECU09",
+    "teamCode": "ECU",
+    "country": "Equador",
+    "flag": "🇪🇨",
+    "name": "Jogador 7",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "ECU10",
+    "teamCode": "ECU",
+    "country": "Equador",
+    "flag": "🇪🇨",
+    "name": "Jogador 8",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "ECU11",
+    "teamCode": "ECU",
+    "country": "Equador",
+    "flag": "🇪🇨",
+    "name": "Jogador 9",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "ECU12",
+    "teamCode": "ECU",
+    "country": "Equador",
+    "flag": "🇪🇨",
+    "name": "Jogador 10",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "ECU13",
+    "teamCode": "ECU",
+    "country": "Equador",
+    "flag": "🇪🇨",
+    "name": "Jogador 11",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "ECU14",
+    "teamCode": "ECU",
+    "country": "Equador",
+    "flag": "🇪🇨",
+    "name": "Jogador 12",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "ECU15",
+    "teamCode": "ECU",
+    "country": "Equador",
+    "flag": "🇪🇨",
+    "name": "Jogador 13",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "ECU16",
+    "teamCode": "ECU",
+    "country": "Equador",
+    "flag": "🇪🇨",
+    "name": "Jogador 14",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "ECU17",
+    "teamCode": "ECU",
+    "country": "Equador",
+    "flag": "🇪🇨",
+    "name": "Jogador 15",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "ECU18",
+    "teamCode": "ECU",
+    "country": "Equador",
+    "flag": "🇪🇨",
+    "name": "Jogador 16",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "ECU19",
+    "teamCode": "ECU",
+    "country": "Equador",
+    "flag": "🇪🇨",
+    "name": "Jogador 17",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "ECU20",
+    "teamCode": "ECU",
+    "country": "Equador",
+    "flag": "🇪🇨",
+    "name": "Jogador 18",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "EGY01",
+    "teamCode": "EGY",
+    "country": "Egipto",
+    "flag": "🇪🇬",
+    "name": "Escudo / Federação",
+    "type": "escudo",
+    "photo": ""
+  },
+  {
+    "id": "EGY02",
+    "teamCode": "EGY",
+    "country": "Egipto",
+    "flag": "🇪🇬",
+    "name": "Foto de equipa",
+    "type": "equipa",
+    "photo": ""
+  },
+  {
+    "id": "EGY03",
+    "teamCode": "EGY",
+    "country": "Egipto",
+    "flag": "🇪🇬",
+    "name": "Jogador 1",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "EGY04",
+    "teamCode": "EGY",
+    "country": "Egipto",
+    "flag": "🇪🇬",
+    "name": "Jogador 2",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "EGY05",
+    "teamCode": "EGY",
+    "country": "Egipto",
+    "flag": "🇪🇬",
+    "name": "Jogador 3",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "EGY06",
+    "teamCode": "EGY",
+    "country": "Egipto",
+    "flag": "🇪🇬",
+    "name": "Jogador 4",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "EGY07",
+    "teamCode": "EGY",
+    "country": "Egipto",
+    "flag": "🇪🇬",
+    "name": "Jogador 5",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "EGY08",
+    "teamCode": "EGY",
+    "country": "Egipto",
+    "flag": "🇪🇬",
+    "name": "Jogador 6",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "EGY09",
+    "teamCode": "EGY",
+    "country": "Egipto",
+    "flag": "🇪🇬",
+    "name": "Jogador 7",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "EGY10",
+    "teamCode": "EGY",
+    "country": "Egipto",
+    "flag": "🇪🇬",
+    "name": "Jogador 8",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "EGY11",
+    "teamCode": "EGY",
+    "country": "Egipto",
+    "flag": "🇪🇬",
+    "name": "Jogador 9",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "EGY12",
+    "teamCode": "EGY",
+    "country": "Egipto",
+    "flag": "🇪🇬",
+    "name": "Jogador 10",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "EGY13",
+    "teamCode": "EGY",
+    "country": "Egipto",
+    "flag": "🇪🇬",
+    "name": "Jogador 11",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "EGY14",
+    "teamCode": "EGY",
+    "country": "Egipto",
+    "flag": "🇪🇬",
+    "name": "Jogador 12",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "EGY15",
+    "teamCode": "EGY",
+    "country": "Egipto",
+    "flag": "🇪🇬",
+    "name": "Jogador 13",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "EGY16",
+    "teamCode": "EGY",
+    "country": "Egipto",
+    "flag": "🇪🇬",
+    "name": "Jogador 14",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "EGY17",
+    "teamCode": "EGY",
+    "country": "Egipto",
+    "flag": "🇪🇬",
+    "name": "Jogador 15",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "EGY18",
+    "teamCode": "EGY",
+    "country": "Egipto",
+    "flag": "🇪🇬",
+    "name": "Jogador 16",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "EGY19",
+    "teamCode": "EGY",
+    "country": "Egipto",
+    "flag": "🇪🇬",
+    "name": "Jogador 17",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "EGY20",
+    "teamCode": "EGY",
+    "country": "Egipto",
+    "flag": "🇪🇬",
+    "name": "Jogador 18",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "ENG01",
+    "teamCode": "ENG",
+    "country": "Inglaterra",
+    "flag": "🏴",
+    "name": "Escudo / Federação",
+    "type": "escudo",
+    "photo": ""
+  },
+  {
+    "id": "ENG02",
+    "teamCode": "ENG",
+    "country": "Inglaterra",
+    "flag": "🏴",
+    "name": "Foto de equipa",
+    "type": "equipa",
+    "photo": ""
+  },
+  {
+    "id": "ENG03",
+    "teamCode": "ENG",
+    "country": "Inglaterra",
+    "flag": "🏴",
+    "name": "Jude Bellingham",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "ENG04",
+    "teamCode": "ENG",
+    "country": "Inglaterra",
+    "flag": "🏴",
+    "name": "Harry Kane",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "ENG05",
+    "teamCode": "ENG",
+    "country": "Inglaterra",
+    "flag": "🏴",
+    "name": "Phil Foden",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "ENG06",
+    "teamCode": "ENG",
+    "country": "Inglaterra",
+    "flag": "🏴",
+    "name": "Bukayo Saka",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "ENG07",
+    "teamCode": "ENG",
+    "country": "Inglaterra",
+    "flag": "🏴",
+    "name": "Declan Rice",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "ENG08",
+    "teamCode": "ENG",
+    "country": "Inglaterra",
+    "flag": "🏴",
+    "name": "Jordan Pickford",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "ENG09",
+    "teamCode": "ENG",
+    "country": "Inglaterra",
+    "flag": "🏴",
+    "name": "Kyle Walker",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "ENG10",
+    "teamCode": "ENG",
+    "country": "Inglaterra",
+    "flag": "🏴",
+    "name": "John Stones",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "ENG11",
+    "teamCode": "ENG",
+    "country": "Inglaterra",
+    "flag": "🏴",
+    "name": "Trent Alexander-Arnold",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "ENG12",
+    "teamCode": "ENG",
+    "country": "Inglaterra",
+    "flag": "🏴",
+    "name": "Cole Palmer",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "ENG13",
+    "teamCode": "ENG",
+    "country": "Inglaterra",
+    "flag": "🏴",
+    "name": "Marcus Rashford",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "ENG14",
+    "teamCode": "ENG",
+    "country": "Inglaterra",
+    "flag": "🏴",
+    "name": "Jack Grealish",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "ENG15",
+    "teamCode": "ENG",
+    "country": "Inglaterra",
+    "flag": "🏴",
+    "name": "Mason Mount",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "ENG16",
+    "teamCode": "ENG",
+    "country": "Inglaterra",
+    "flag": "🏴",
+    "name": "Luke Shaw",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "ENG17",
+    "teamCode": "ENG",
+    "country": "Inglaterra",
+    "flag": "🏴",
+    "name": "James Maddison",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "ENG18",
+    "teamCode": "ENG",
+    "country": "Inglaterra",
+    "flag": "🏴",
+    "name": "Ollie Watkins",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "ENG19",
+    "teamCode": "ENG",
+    "country": "Inglaterra",
+    "flag": "🏴",
+    "name": "Kobbie Mainoo",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "ENG20",
+    "teamCode": "ENG",
+    "country": "Inglaterra",
+    "flag": "🏴",
+    "name": "Marc Guéhi",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "FRA01",
+    "teamCode": "FRA",
+    "country": "França",
+    "flag": "🇫🇷",
+    "name": "Escudo / Federação",
+    "type": "escudo",
+    "photo": ""
+  },
+  {
+    "id": "FRA02",
+    "teamCode": "FRA",
+    "country": "França",
+    "flag": "🇫🇷",
+    "name": "Foto de equipa",
+    "type": "equipa",
+    "photo": ""
+  },
+  {
+    "id": "FRA03",
+    "teamCode": "FRA",
+    "country": "França",
+    "flag": "🇫🇷",
+    "name": "Kylian Mbappé",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "FRA04",
+    "teamCode": "FRA",
+    "country": "França",
+    "flag": "🇫🇷",
+    "name": "Antoine Griezmann",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "FRA05",
+    "teamCode": "FRA",
+    "country": "França",
+    "flag": "🇫🇷",
+    "name": "Ousmane Dembélé",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "FRA06",
+    "teamCode": "FRA",
+    "country": "França",
+    "flag": "🇫🇷",
+    "name": "Aurélien Tchouaméni",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "FRA07",
+    "teamCode": "FRA",
+    "country": "França",
+    "flag": "🇫🇷",
+    "name": "Eduardo Camavinga",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "FRA08",
+    "teamCode": "FRA",
+    "country": "França",
+    "flag": "🇫🇷",
+    "name": "Mike Maignan",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "FRA09",
+    "teamCode": "FRA",
+    "country": "França",
+    "flag": "🇫🇷",
+    "name": "William Saliba",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "FRA10",
+    "teamCode": "FRA",
+    "country": "França",
+    "flag": "🇫🇷",
+    "name": "Jules Koundé",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "FRA11",
+    "teamCode": "FRA",
+    "country": "França",
+    "flag": "🇫🇷",
+    "name": "Dayot Upamecano",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "FRA12",
+    "teamCode": "FRA",
+    "country": "França",
+    "flag": "🇫🇷",
+    "name": "Adrien Rabiot",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "FRA13",
+    "teamCode": "FRA",
+    "country": "França",
+    "flag": "🇫🇷",
+    "name": "Kingsley Coman",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "FRA14",
+    "teamCode": "FRA",
+    "country": "França",
+    "flag": "🇫🇷",
+    "name": "Marcus Thuram",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "FRA15",
+    "teamCode": "FRA",
+    "country": "França",
+    "flag": "🇫🇷",
+    "name": "Randal Kolo Muani",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "FRA16",
+    "teamCode": "FRA",
+    "country": "França",
+    "flag": "🇫🇷",
+    "name": "Theo Hernández",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "FRA17",
+    "teamCode": "FRA",
+    "country": "França",
+    "flag": "🇫🇷",
+    "name": "Ibrahima Konaté",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "FRA18",
+    "teamCode": "FRA",
+    "country": "França",
+    "flag": "🇫🇷",
+    "name": "Bradley Barcola",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "FRA19",
+    "teamCode": "FRA",
+    "country": "França",
+    "flag": "🇫🇷",
+    "name": "Warren Zaïre-Emery",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "FRA20",
+    "teamCode": "FRA",
+    "country": "França",
+    "flag": "🇫🇷",
+    "name": "Benjamin Pavard",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "GER01",
+    "teamCode": "GER",
+    "country": "Alemanha",
+    "flag": "🇩🇪",
+    "name": "Escudo / Federação",
+    "type": "escudo",
+    "photo": ""
+  },
+  {
+    "id": "GER02",
+    "teamCode": "GER",
+    "country": "Alemanha",
+    "flag": "🇩🇪",
+    "name": "Foto de equipa",
+    "type": "equipa",
+    "photo": ""
+  },
+  {
+    "id": "GER03",
+    "teamCode": "GER",
+    "country": "Alemanha",
+    "flag": "🇩🇪",
+    "name": "Florian Wirtz",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "GER04",
+    "teamCode": "GER",
+    "country": "Alemanha",
+    "flag": "🇩🇪",
+    "name": "Jamal Musiala",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "GER05",
+    "teamCode": "GER",
+    "country": "Alemanha",
+    "flag": "🇩🇪",
+    "name": "Joshua Kimmich",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "GER06",
+    "teamCode": "GER",
+    "country": "Alemanha",
+    "flag": "🇩🇪",
+    "name": "Kai Havertz",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "GER07",
+    "teamCode": "GER",
+    "country": "Alemanha",
+    "flag": "🇩🇪",
+    "name": "Manuel Neuer",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "GER08",
+    "teamCode": "GER",
+    "country": "Alemanha",
+    "flag": "🇩🇪",
+    "name": "Antonio Rüdiger",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "GER09",
+    "teamCode": "GER",
+    "country": "Alemanha",
+    "flag": "🇩🇪",
+    "name": "İlkay Gündoğan",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "GER10",
+    "teamCode": "GER",
+    "country": "Alemanha",
+    "flag": "🇩🇪",
+    "name": "Leroy Sané",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "GER11",
+    "teamCode": "GER",
+    "country": "Alemanha",
+    "flag": "🇩🇪",
+    "name": "Serge Gnabry",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "GER12",
+    "teamCode": "GER",
+    "country": "Alemanha",
+    "flag": "🇩🇪",
+    "name": "Niclas Füllkrug",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "GER13",
+    "teamCode": "GER",
+    "country": "Alemanha",
+    "flag": "🇩🇪",
+    "name": "Jonathan Tah",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "GER14",
+    "teamCode": "GER",
+    "country": "Alemanha",
+    "flag": "🇩🇪",
+    "name": "David Raum",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "GER15",
+    "teamCode": "GER",
+    "country": "Alemanha",
+    "flag": "🇩🇪",
+    "name": "Robert Andrich",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "GER16",
+    "teamCode": "GER",
+    "country": "Alemanha",
+    "flag": "🇩🇪",
+    "name": "Marc-André ter Stegen",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "GER17",
+    "teamCode": "GER",
+    "country": "Alemanha",
+    "flag": "🇩🇪",
+    "name": "Maximilian Mittelstädt",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "GER18",
+    "teamCode": "GER",
+    "country": "Alemanha",
+    "flag": "🇩🇪",
+    "name": "Emre Can",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "GER19",
+    "teamCode": "GER",
+    "country": "Alemanha",
+    "flag": "🇩🇪",
+    "name": "Aleksandar Pavlović",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "GER20",
+    "teamCode": "GER",
+    "country": "Alemanha",
+    "flag": "🇩🇪",
+    "name": "Jonathan Burkardt",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "GHA01",
+    "teamCode": "GHA",
+    "country": "Gana",
+    "flag": "🇬🇭",
+    "name": "Escudo / Federação",
+    "type": "escudo",
+    "photo": ""
+  },
+  {
+    "id": "GHA02",
+    "teamCode": "GHA",
+    "country": "Gana",
+    "flag": "🇬🇭",
+    "name": "Foto de equipa",
+    "type": "equipa",
+    "photo": ""
+  },
+  {
+    "id": "GHA03",
+    "teamCode": "GHA",
+    "country": "Gana",
+    "flag": "🇬🇭",
+    "name": "Jogador 1",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "GHA04",
+    "teamCode": "GHA",
+    "country": "Gana",
+    "flag": "🇬🇭",
+    "name": "Jogador 2",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "GHA05",
+    "teamCode": "GHA",
+    "country": "Gana",
+    "flag": "🇬🇭",
+    "name": "Jogador 3",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "GHA06",
+    "teamCode": "GHA",
+    "country": "Gana",
+    "flag": "🇬🇭",
+    "name": "Jogador 4",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "GHA07",
+    "teamCode": "GHA",
+    "country": "Gana",
+    "flag": "🇬🇭",
+    "name": "Jogador 5",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "GHA08",
+    "teamCode": "GHA",
+    "country": "Gana",
+    "flag": "🇬🇭",
+    "name": "Jogador 6",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "GHA09",
+    "teamCode": "GHA",
+    "country": "Gana",
+    "flag": "🇬🇭",
+    "name": "Jogador 7",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "GHA10",
+    "teamCode": "GHA",
+    "country": "Gana",
+    "flag": "🇬🇭",
+    "name": "Jogador 8",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "GHA11",
+    "teamCode": "GHA",
+    "country": "Gana",
+    "flag": "🇬🇭",
+    "name": "Jogador 9",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "GHA12",
+    "teamCode": "GHA",
+    "country": "Gana",
+    "flag": "🇬🇭",
+    "name": "Jogador 10",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "GHA13",
+    "teamCode": "GHA",
+    "country": "Gana",
+    "flag": "🇬🇭",
+    "name": "Jogador 11",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "GHA14",
+    "teamCode": "GHA",
+    "country": "Gana",
+    "flag": "🇬🇭",
+    "name": "Jogador 12",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "GHA15",
+    "teamCode": "GHA",
+    "country": "Gana",
+    "flag": "🇬🇭",
+    "name": "Jogador 13",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "GHA16",
+    "teamCode": "GHA",
+    "country": "Gana",
+    "flag": "🇬🇭",
+    "name": "Jogador 14",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "GHA17",
+    "teamCode": "GHA",
+    "country": "Gana",
+    "flag": "🇬🇭",
+    "name": "Jogador 15",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "GHA18",
+    "teamCode": "GHA",
+    "country": "Gana",
+    "flag": "🇬🇭",
+    "name": "Jogador 16",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "GHA19",
+    "teamCode": "GHA",
+    "country": "Gana",
+    "flag": "🇬🇭",
+    "name": "Jogador 17",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "GHA20",
+    "teamCode": "GHA",
+    "country": "Gana",
+    "flag": "🇬🇭",
+    "name": "Jogador 18",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "IRN01",
+    "teamCode": "IRN",
+    "country": "Irão",
+    "flag": "🇮🇷",
+    "name": "Escudo / Federação",
+    "type": "escudo",
+    "photo": ""
+  },
+  {
+    "id": "IRN02",
+    "teamCode": "IRN",
+    "country": "Irão",
+    "flag": "🇮🇷",
+    "name": "Foto de equipa",
+    "type": "equipa",
+    "photo": ""
+  },
+  {
+    "id": "IRN03",
+    "teamCode": "IRN",
+    "country": "Irão",
+    "flag": "🇮🇷",
+    "name": "Jogador 1",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "IRN04",
+    "teamCode": "IRN",
+    "country": "Irão",
+    "flag": "🇮🇷",
+    "name": "Jogador 2",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "IRN05",
+    "teamCode": "IRN",
+    "country": "Irão",
+    "flag": "🇮🇷",
+    "name": "Jogador 3",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "IRN06",
+    "teamCode": "IRN",
+    "country": "Irão",
+    "flag": "🇮🇷",
+    "name": "Jogador 4",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "IRN07",
+    "teamCode": "IRN",
+    "country": "Irão",
+    "flag": "🇮🇷",
+    "name": "Jogador 5",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "IRN08",
+    "teamCode": "IRN",
+    "country": "Irão",
+    "flag": "🇮🇷",
+    "name": "Jogador 6",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "IRN09",
+    "teamCode": "IRN",
+    "country": "Irão",
+    "flag": "🇮🇷",
+    "name": "Jogador 7",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "IRN10",
+    "teamCode": "IRN",
+    "country": "Irão",
+    "flag": "🇮🇷",
+    "name": "Jogador 8",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "IRN11",
+    "teamCode": "IRN",
+    "country": "Irão",
+    "flag": "🇮🇷",
+    "name": "Jogador 9",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "IRN12",
+    "teamCode": "IRN",
+    "country": "Irão",
+    "flag": "🇮🇷",
+    "name": "Jogador 10",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "IRN13",
+    "teamCode": "IRN",
+    "country": "Irão",
+    "flag": "🇮🇷",
+    "name": "Jogador 11",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "IRN14",
+    "teamCode": "IRN",
+    "country": "Irão",
+    "flag": "🇮🇷",
+    "name": "Jogador 12",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "IRN15",
+    "teamCode": "IRN",
+    "country": "Irão",
+    "flag": "🇮🇷",
+    "name": "Jogador 13",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "IRN16",
+    "teamCode": "IRN",
+    "country": "Irão",
+    "flag": "🇮🇷",
+    "name": "Jogador 14",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "IRN17",
+    "teamCode": "IRN",
+    "country": "Irão",
+    "flag": "🇮🇷",
+    "name": "Jogador 15",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "IRN18",
+    "teamCode": "IRN",
+    "country": "Irão",
+    "flag": "🇮🇷",
+    "name": "Jogador 16",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "IRN19",
+    "teamCode": "IRN",
+    "country": "Irão",
+    "flag": "🇮🇷",
+    "name": "Jogador 17",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "IRN20",
+    "teamCode": "IRN",
+    "country": "Irão",
+    "flag": "🇮🇷",
+    "name": "Jogador 18",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "ITA01",
+    "teamCode": "ITA",
+    "country": "Itália",
+    "flag": "🇮🇹",
+    "name": "Escudo / Federação",
+    "type": "escudo",
+    "photo": ""
+  },
+  {
+    "id": "ITA02",
+    "teamCode": "ITA",
+    "country": "Itália",
+    "flag": "🇮🇹",
+    "name": "Foto de equipa",
+    "type": "equipa",
+    "photo": ""
+  },
+  {
+    "id": "ITA03",
+    "teamCode": "ITA",
+    "country": "Itália",
+    "flag": "🇮🇹",
+    "name": "Jogador 1",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "ITA04",
+    "teamCode": "ITA",
+    "country": "Itália",
+    "flag": "🇮🇹",
+    "name": "Jogador 2",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "ITA05",
+    "teamCode": "ITA",
+    "country": "Itália",
+    "flag": "🇮🇹",
+    "name": "Jogador 3",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "ITA06",
+    "teamCode": "ITA",
+    "country": "Itália",
+    "flag": "🇮🇹",
+    "name": "Jogador 4",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "ITA07",
+    "teamCode": "ITA",
+    "country": "Itália",
+    "flag": "🇮🇹",
+    "name": "Jogador 5",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "ITA08",
+    "teamCode": "ITA",
+    "country": "Itália",
+    "flag": "🇮🇹",
+    "name": "Jogador 6",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "ITA09",
+    "teamCode": "ITA",
+    "country": "Itália",
+    "flag": "🇮🇹",
+    "name": "Jogador 7",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "ITA10",
+    "teamCode": "ITA",
+    "country": "Itália",
+    "flag": "🇮🇹",
+    "name": "Jogador 8",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "ITA11",
+    "teamCode": "ITA",
+    "country": "Itália",
+    "flag": "🇮🇹",
+    "name": "Jogador 9",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "ITA12",
+    "teamCode": "ITA",
+    "country": "Itália",
+    "flag": "🇮🇹",
+    "name": "Jogador 10",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "ITA13",
+    "teamCode": "ITA",
+    "country": "Itália",
+    "flag": "🇮🇹",
+    "name": "Jogador 11",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "ITA14",
+    "teamCode": "ITA",
+    "country": "Itália",
+    "flag": "🇮🇹",
+    "name": "Jogador 12",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "ITA15",
+    "teamCode": "ITA",
+    "country": "Itália",
+    "flag": "🇮🇹",
+    "name": "Jogador 13",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "ITA16",
+    "teamCode": "ITA",
+    "country": "Itália",
+    "flag": "🇮🇹",
+    "name": "Jogador 14",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "ITA17",
+    "teamCode": "ITA",
+    "country": "Itália",
+    "flag": "🇮🇹",
+    "name": "Jogador 15",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "ITA18",
+    "teamCode": "ITA",
+    "country": "Itália",
+    "flag": "🇮🇹",
+    "name": "Jogador 16",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "ITA19",
+    "teamCode": "ITA",
+    "country": "Itália",
+    "flag": "🇮🇹",
+    "name": "Jogador 17",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "ITA20",
+    "teamCode": "ITA",
+    "country": "Itália",
+    "flag": "🇮🇹",
+    "name": "Jogador 18",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "JPN01",
+    "teamCode": "JPN",
+    "country": "Japão",
+    "flag": "🇯🇵",
+    "name": "Escudo / Federação",
+    "type": "escudo",
+    "photo": ""
+  },
+  {
+    "id": "JPN02",
+    "teamCode": "JPN",
+    "country": "Japão",
+    "flag": "🇯🇵",
+    "name": "Foto de equipa",
+    "type": "equipa",
+    "photo": ""
+  },
+  {
+    "id": "JPN03",
+    "teamCode": "JPN",
+    "country": "Japão",
+    "flag": "🇯🇵",
+    "name": "Jogador 1",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "JPN04",
+    "teamCode": "JPN",
+    "country": "Japão",
+    "flag": "🇯🇵",
+    "name": "Jogador 2",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "JPN05",
+    "teamCode": "JPN",
+    "country": "Japão",
+    "flag": "🇯🇵",
+    "name": "Jogador 3",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "JPN06",
+    "teamCode": "JPN",
+    "country": "Japão",
+    "flag": "🇯🇵",
+    "name": "Jogador 4",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "JPN07",
+    "teamCode": "JPN",
+    "country": "Japão",
+    "flag": "🇯🇵",
+    "name": "Jogador 5",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "JPN08",
+    "teamCode": "JPN",
+    "country": "Japão",
+    "flag": "🇯🇵",
+    "name": "Jogador 6",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "JPN09",
+    "teamCode": "JPN",
+    "country": "Japão",
+    "flag": "🇯🇵",
+    "name": "Jogador 7",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "JPN10",
+    "teamCode": "JPN",
+    "country": "Japão",
+    "flag": "🇯🇵",
+    "name": "Jogador 8",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "JPN11",
+    "teamCode": "JPN",
+    "country": "Japão",
+    "flag": "🇯🇵",
+    "name": "Jogador 9",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "JPN12",
+    "teamCode": "JPN",
+    "country": "Japão",
+    "flag": "🇯🇵",
+    "name": "Jogador 10",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "JPN13",
+    "teamCode": "JPN",
+    "country": "Japão",
+    "flag": "🇯🇵",
+    "name": "Jogador 11",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "JPN14",
+    "teamCode": "JPN",
+    "country": "Japão",
+    "flag": "🇯🇵",
+    "name": "Jogador 12",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "JPN15",
+    "teamCode": "JPN",
+    "country": "Japão",
+    "flag": "🇯🇵",
+    "name": "Jogador 13",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "JPN16",
+    "teamCode": "JPN",
+    "country": "Japão",
+    "flag": "🇯🇵",
+    "name": "Jogador 14",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "JPN17",
+    "teamCode": "JPN",
+    "country": "Japão",
+    "flag": "🇯🇵",
+    "name": "Jogador 15",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "JPN18",
+    "teamCode": "JPN",
+    "country": "Japão",
+    "flag": "🇯🇵",
+    "name": "Jogador 16",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "JPN19",
+    "teamCode": "JPN",
+    "country": "Japão",
+    "flag": "🇯🇵",
+    "name": "Jogador 17",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "JPN20",
+    "teamCode": "JPN",
+    "country": "Japão",
+    "flag": "🇯🇵",
+    "name": "Jogador 18",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "KOR01",
+    "teamCode": "KOR",
+    "country": "Coreia do Sul",
+    "flag": "🇰🇷",
+    "name": "Escudo / Federação",
+    "type": "escudo",
+    "photo": ""
+  },
+  {
+    "id": "KOR02",
+    "teamCode": "KOR",
+    "country": "Coreia do Sul",
+    "flag": "🇰🇷",
+    "name": "Foto de equipa",
+    "type": "equipa",
+    "photo": ""
+  },
+  {
+    "id": "KOR03",
+    "teamCode": "KOR",
+    "country": "Coreia do Sul",
+    "flag": "🇰🇷",
+    "name": "Jogador 1",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "KOR04",
+    "teamCode": "KOR",
+    "country": "Coreia do Sul",
+    "flag": "🇰🇷",
+    "name": "Jogador 2",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "KOR05",
+    "teamCode": "KOR",
+    "country": "Coreia do Sul",
+    "flag": "🇰🇷",
+    "name": "Jogador 3",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "KOR06",
+    "teamCode": "KOR",
+    "country": "Coreia do Sul",
+    "flag": "🇰🇷",
+    "name": "Jogador 4",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "KOR07",
+    "teamCode": "KOR",
+    "country": "Coreia do Sul",
+    "flag": "🇰🇷",
+    "name": "Jogador 5",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "KOR08",
+    "teamCode": "KOR",
+    "country": "Coreia do Sul",
+    "flag": "🇰🇷",
+    "name": "Jogador 6",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "KOR09",
+    "teamCode": "KOR",
+    "country": "Coreia do Sul",
+    "flag": "🇰🇷",
+    "name": "Jogador 7",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "KOR10",
+    "teamCode": "KOR",
+    "country": "Coreia do Sul",
+    "flag": "🇰🇷",
+    "name": "Jogador 8",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "KOR11",
+    "teamCode": "KOR",
+    "country": "Coreia do Sul",
+    "flag": "🇰🇷",
+    "name": "Jogador 9",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "KOR12",
+    "teamCode": "KOR",
+    "country": "Coreia do Sul",
+    "flag": "🇰🇷",
+    "name": "Jogador 10",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "KOR13",
+    "teamCode": "KOR",
+    "country": "Coreia do Sul",
+    "flag": "🇰🇷",
+    "name": "Jogador 11",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "KOR14",
+    "teamCode": "KOR",
+    "country": "Coreia do Sul",
+    "flag": "🇰🇷",
+    "name": "Jogador 12",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "KOR15",
+    "teamCode": "KOR",
+    "country": "Coreia do Sul",
+    "flag": "🇰🇷",
+    "name": "Jogador 13",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "KOR16",
+    "teamCode": "KOR",
+    "country": "Coreia do Sul",
+    "flag": "🇰🇷",
+    "name": "Jogador 14",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "KOR17",
+    "teamCode": "KOR",
+    "country": "Coreia do Sul",
+    "flag": "🇰🇷",
+    "name": "Jogador 15",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "KOR18",
+    "teamCode": "KOR",
+    "country": "Coreia do Sul",
+    "flag": "🇰🇷",
+    "name": "Jogador 16",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "KOR19",
+    "teamCode": "KOR",
+    "country": "Coreia do Sul",
+    "flag": "🇰🇷",
+    "name": "Jogador 17",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "KOR20",
+    "teamCode": "KOR",
+    "country": "Coreia do Sul",
+    "flag": "🇰🇷",
+    "name": "Jogador 18",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "MAR01",
+    "teamCode": "MAR",
+    "country": "Marrocos",
+    "flag": "🇲🇦",
+    "name": "Escudo / Federação",
+    "type": "escudo",
+    "photo": ""
+  },
+  {
+    "id": "MAR02",
+    "teamCode": "MAR",
+    "country": "Marrocos",
+    "flag": "🇲🇦",
+    "name": "Foto de equipa",
+    "type": "equipa",
+    "photo": ""
+  },
+  {
+    "id": "MAR03",
+    "teamCode": "MAR",
+    "country": "Marrocos",
+    "flag": "🇲🇦",
+    "name": "Jogador 1",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "MAR04",
+    "teamCode": "MAR",
+    "country": "Marrocos",
+    "flag": "🇲🇦",
+    "name": "Jogador 2",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "MAR05",
+    "teamCode": "MAR",
+    "country": "Marrocos",
+    "flag": "🇲🇦",
+    "name": "Jogador 3",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "MAR06",
+    "teamCode": "MAR",
+    "country": "Marrocos",
+    "flag": "🇲🇦",
+    "name": "Jogador 4",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "MAR07",
+    "teamCode": "MAR",
+    "country": "Marrocos",
+    "flag": "🇲🇦",
+    "name": "Jogador 5",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "MAR08",
+    "teamCode": "MAR",
+    "country": "Marrocos",
+    "flag": "🇲🇦",
+    "name": "Jogador 6",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "MAR09",
+    "teamCode": "MAR",
+    "country": "Marrocos",
+    "flag": "🇲🇦",
+    "name": "Jogador 7",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "MAR10",
+    "teamCode": "MAR",
+    "country": "Marrocos",
+    "flag": "🇲🇦",
+    "name": "Jogador 8",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "MAR11",
+    "teamCode": "MAR",
+    "country": "Marrocos",
+    "flag": "🇲🇦",
+    "name": "Jogador 9",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "MAR12",
+    "teamCode": "MAR",
+    "country": "Marrocos",
+    "flag": "🇲🇦",
+    "name": "Jogador 10",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "MAR13",
+    "teamCode": "MAR",
+    "country": "Marrocos",
+    "flag": "🇲🇦",
+    "name": "Jogador 11",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "MAR14",
+    "teamCode": "MAR",
+    "country": "Marrocos",
+    "flag": "🇲🇦",
+    "name": "Jogador 12",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "MAR15",
+    "teamCode": "MAR",
+    "country": "Marrocos",
+    "flag": "🇲🇦",
+    "name": "Jogador 13",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "MAR16",
+    "teamCode": "MAR",
+    "country": "Marrocos",
+    "flag": "🇲🇦",
+    "name": "Jogador 14",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "MAR17",
+    "teamCode": "MAR",
+    "country": "Marrocos",
+    "flag": "🇲🇦",
+    "name": "Jogador 15",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "MAR18",
+    "teamCode": "MAR",
+    "country": "Marrocos",
+    "flag": "🇲🇦",
+    "name": "Jogador 16",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "MAR19",
+    "teamCode": "MAR",
+    "country": "Marrocos",
+    "flag": "🇲🇦",
+    "name": "Jogador 17",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "MAR20",
+    "teamCode": "MAR",
+    "country": "Marrocos",
+    "flag": "🇲🇦",
+    "name": "Jogador 18",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "MEX01",
+    "teamCode": "MEX",
+    "country": "México",
+    "flag": "🇲🇽",
+    "name": "Escudo / Federação",
+    "type": "escudo",
+    "photo": ""
+  },
+  {
+    "id": "MEX02",
+    "teamCode": "MEX",
+    "country": "México",
+    "flag": "🇲🇽",
+    "name": "Foto de equipa",
+    "type": "equipa",
+    "photo": ""
+  },
+  {
+    "id": "MEX03",
+    "teamCode": "MEX",
+    "country": "México",
+    "flag": "🇲🇽",
+    "name": "Jogador 1",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "MEX04",
+    "teamCode": "MEX",
+    "country": "México",
+    "flag": "🇲🇽",
+    "name": "Jogador 2",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "MEX05",
+    "teamCode": "MEX",
+    "country": "México",
+    "flag": "🇲🇽",
+    "name": "Jogador 3",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "MEX06",
+    "teamCode": "MEX",
+    "country": "México",
+    "flag": "🇲🇽",
+    "name": "Jogador 4",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "MEX07",
+    "teamCode": "MEX",
+    "country": "México",
+    "flag": "🇲🇽",
+    "name": "Jogador 5",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "MEX08",
+    "teamCode": "MEX",
+    "country": "México",
+    "flag": "🇲🇽",
+    "name": "Jogador 6",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "MEX09",
+    "teamCode": "MEX",
+    "country": "México",
+    "flag": "🇲🇽",
+    "name": "Jogador 7",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "MEX10",
+    "teamCode": "MEX",
+    "country": "México",
+    "flag": "🇲🇽",
+    "name": "Jogador 8",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "MEX11",
+    "teamCode": "MEX",
+    "country": "México",
+    "flag": "🇲🇽",
+    "name": "Jogador 9",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "MEX12",
+    "teamCode": "MEX",
+    "country": "México",
+    "flag": "🇲🇽",
+    "name": "Jogador 10",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "MEX13",
+    "teamCode": "MEX",
+    "country": "México",
+    "flag": "🇲🇽",
+    "name": "Jogador 11",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "MEX14",
+    "teamCode": "MEX",
+    "country": "México",
+    "flag": "🇲🇽",
+    "name": "Jogador 12",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "MEX15",
+    "teamCode": "MEX",
+    "country": "México",
+    "flag": "🇲🇽",
+    "name": "Jogador 13",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "MEX16",
+    "teamCode": "MEX",
+    "country": "México",
+    "flag": "🇲🇽",
+    "name": "Jogador 14",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "MEX17",
+    "teamCode": "MEX",
+    "country": "México",
+    "flag": "🇲🇽",
+    "name": "Jogador 15",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "MEX18",
+    "teamCode": "MEX",
+    "country": "México",
+    "flag": "🇲🇽",
+    "name": "Jogador 16",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "MEX19",
+    "teamCode": "MEX",
+    "country": "México",
+    "flag": "🇲🇽",
+    "name": "Jogador 17",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "MEX20",
+    "teamCode": "MEX",
+    "country": "México",
+    "flag": "🇲🇽",
+    "name": "Jogador 18",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "NED01",
+    "teamCode": "NED",
+    "country": "Países Baixos",
+    "flag": "🇳🇱",
+    "name": "Escudo / Federação",
+    "type": "escudo",
+    "photo": ""
+  },
+  {
+    "id": "NED02",
+    "teamCode": "NED",
+    "country": "Países Baixos",
+    "flag": "🇳🇱",
+    "name": "Foto de equipa",
+    "type": "equipa",
+    "photo": ""
+  },
+  {
+    "id": "NED03",
+    "teamCode": "NED",
+    "country": "Países Baixos",
+    "flag": "🇳🇱",
+    "name": "Jogador 1",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "NED04",
+    "teamCode": "NED",
+    "country": "Países Baixos",
+    "flag": "🇳🇱",
+    "name": "Jogador 2",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "NED05",
+    "teamCode": "NED",
+    "country": "Países Baixos",
+    "flag": "🇳🇱",
+    "name": "Jogador 3",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "NED06",
+    "teamCode": "NED",
+    "country": "Países Baixos",
+    "flag": "🇳🇱",
+    "name": "Jogador 4",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "NED07",
+    "teamCode": "NED",
+    "country": "Países Baixos",
+    "flag": "🇳🇱",
+    "name": "Jogador 5",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "NED08",
+    "teamCode": "NED",
+    "country": "Países Baixos",
+    "flag": "🇳🇱",
+    "name": "Jogador 6",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "NED09",
+    "teamCode": "NED",
+    "country": "Países Baixos",
+    "flag": "🇳🇱",
+    "name": "Jogador 7",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "NED10",
+    "teamCode": "NED",
+    "country": "Países Baixos",
+    "flag": "🇳🇱",
+    "name": "Jogador 8",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "NED11",
+    "teamCode": "NED",
+    "country": "Países Baixos",
+    "flag": "🇳🇱",
+    "name": "Jogador 9",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "NED12",
+    "teamCode": "NED",
+    "country": "Países Baixos",
+    "flag": "🇳🇱",
+    "name": "Jogador 10",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "NED13",
+    "teamCode": "NED",
+    "country": "Países Baixos",
+    "flag": "🇳🇱",
+    "name": "Jogador 11",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "NED14",
+    "teamCode": "NED",
+    "country": "Países Baixos",
+    "flag": "🇳🇱",
+    "name": "Jogador 12",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "NED15",
+    "teamCode": "NED",
+    "country": "Países Baixos",
+    "flag": "🇳🇱",
+    "name": "Jogador 13",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "NED16",
+    "teamCode": "NED",
+    "country": "Países Baixos",
+    "flag": "🇳🇱",
+    "name": "Jogador 14",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "NED17",
+    "teamCode": "NED",
+    "country": "Países Baixos",
+    "flag": "🇳🇱",
+    "name": "Jogador 15",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "NED18",
+    "teamCode": "NED",
+    "country": "Países Baixos",
+    "flag": "🇳🇱",
+    "name": "Jogador 16",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "NED19",
+    "teamCode": "NED",
+    "country": "Países Baixos",
+    "flag": "🇳🇱",
+    "name": "Jogador 17",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "NED20",
+    "teamCode": "NED",
+    "country": "Países Baixos",
+    "flag": "🇳🇱",
+    "name": "Jogador 18",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "NZL01",
+    "teamCode": "NZL",
+    "country": "Nova Zelândia",
+    "flag": "🇳🇿",
+    "name": "Escudo / Federação",
+    "type": "escudo",
+    "photo": ""
+  },
+  {
+    "id": "NZL02",
+    "teamCode": "NZL",
+    "country": "Nova Zelândia",
+    "flag": "🇳🇿",
+    "name": "Foto de equipa",
+    "type": "equipa",
+    "photo": ""
+  },
+  {
+    "id": "NZL03",
+    "teamCode": "NZL",
+    "country": "Nova Zelândia",
+    "flag": "🇳🇿",
+    "name": "Jogador 1",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "NZL04",
+    "teamCode": "NZL",
+    "country": "Nova Zelândia",
+    "flag": "🇳🇿",
+    "name": "Jogador 2",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "NZL05",
+    "teamCode": "NZL",
+    "country": "Nova Zelândia",
+    "flag": "🇳🇿",
+    "name": "Jogador 3",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "NZL06",
+    "teamCode": "NZL",
+    "country": "Nova Zelândia",
+    "flag": "🇳🇿",
+    "name": "Jogador 4",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "NZL07",
+    "teamCode": "NZL",
+    "country": "Nova Zelândia",
+    "flag": "🇳🇿",
+    "name": "Jogador 5",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "NZL08",
+    "teamCode": "NZL",
+    "country": "Nova Zelândia",
+    "flag": "🇳🇿",
+    "name": "Jogador 6",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "NZL09",
+    "teamCode": "NZL",
+    "country": "Nova Zelândia",
+    "flag": "🇳🇿",
+    "name": "Jogador 7",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "NZL10",
+    "teamCode": "NZL",
+    "country": "Nova Zelândia",
+    "flag": "🇳🇿",
+    "name": "Jogador 8",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "NZL11",
+    "teamCode": "NZL",
+    "country": "Nova Zelândia",
+    "flag": "🇳🇿",
+    "name": "Jogador 9",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "NZL12",
+    "teamCode": "NZL",
+    "country": "Nova Zelândia",
+    "flag": "🇳🇿",
+    "name": "Jogador 10",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "NZL13",
+    "teamCode": "NZL",
+    "country": "Nova Zelândia",
+    "flag": "🇳🇿",
+    "name": "Jogador 11",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "NZL14",
+    "teamCode": "NZL",
+    "country": "Nova Zelândia",
+    "flag": "🇳🇿",
+    "name": "Jogador 12",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "NZL15",
+    "teamCode": "NZL",
+    "country": "Nova Zelândia",
+    "flag": "🇳🇿",
+    "name": "Jogador 13",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "NZL16",
+    "teamCode": "NZL",
+    "country": "Nova Zelândia",
+    "flag": "🇳🇿",
+    "name": "Jogador 14",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "NZL17",
+    "teamCode": "NZL",
+    "country": "Nova Zelândia",
+    "flag": "🇳🇿",
+    "name": "Jogador 15",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "NZL18",
+    "teamCode": "NZL",
+    "country": "Nova Zelândia",
+    "flag": "🇳🇿",
+    "name": "Jogador 16",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "NZL19",
+    "teamCode": "NZL",
+    "country": "Nova Zelândia",
+    "flag": "🇳🇿",
+    "name": "Jogador 17",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "NZL20",
+    "teamCode": "NZL",
+    "country": "Nova Zelândia",
+    "flag": "🇳🇿",
+    "name": "Jogador 18",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "NGA01",
+    "teamCode": "NGA",
+    "country": "Nigéria",
+    "flag": "🇳🇬",
+    "name": "Escudo / Federação",
+    "type": "escudo",
+    "photo": ""
+  },
+  {
+    "id": "NGA02",
+    "teamCode": "NGA",
+    "country": "Nigéria",
+    "flag": "🇳🇬",
+    "name": "Foto de equipa",
+    "type": "equipa",
+    "photo": ""
+  },
+  {
+    "id": "NGA03",
+    "teamCode": "NGA",
+    "country": "Nigéria",
+    "flag": "🇳🇬",
+    "name": "Jogador 1",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "NGA04",
+    "teamCode": "NGA",
+    "country": "Nigéria",
+    "flag": "🇳🇬",
+    "name": "Jogador 2",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "NGA05",
+    "teamCode": "NGA",
+    "country": "Nigéria",
+    "flag": "🇳🇬",
+    "name": "Jogador 3",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "NGA06",
+    "teamCode": "NGA",
+    "country": "Nigéria",
+    "flag": "🇳🇬",
+    "name": "Jogador 4",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "NGA07",
+    "teamCode": "NGA",
+    "country": "Nigéria",
+    "flag": "🇳🇬",
+    "name": "Jogador 5",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "NGA08",
+    "teamCode": "NGA",
+    "country": "Nigéria",
+    "flag": "🇳🇬",
+    "name": "Jogador 6",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "NGA09",
+    "teamCode": "NGA",
+    "country": "Nigéria",
+    "flag": "🇳🇬",
+    "name": "Jogador 7",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "NGA10",
+    "teamCode": "NGA",
+    "country": "Nigéria",
+    "flag": "🇳🇬",
+    "name": "Jogador 8",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "NGA11",
+    "teamCode": "NGA",
+    "country": "Nigéria",
+    "flag": "🇳🇬",
+    "name": "Jogador 9",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "NGA12",
+    "teamCode": "NGA",
+    "country": "Nigéria",
+    "flag": "🇳🇬",
+    "name": "Jogador 10",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "NGA13",
+    "teamCode": "NGA",
+    "country": "Nigéria",
+    "flag": "🇳🇬",
+    "name": "Jogador 11",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "NGA14",
+    "teamCode": "NGA",
+    "country": "Nigéria",
+    "flag": "🇳🇬",
+    "name": "Jogador 12",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "NGA15",
+    "teamCode": "NGA",
+    "country": "Nigéria",
+    "flag": "🇳🇬",
+    "name": "Jogador 13",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "NGA16",
+    "teamCode": "NGA",
+    "country": "Nigéria",
+    "flag": "🇳🇬",
+    "name": "Jogador 14",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "NGA17",
+    "teamCode": "NGA",
+    "country": "Nigéria",
+    "flag": "🇳🇬",
+    "name": "Jogador 15",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "NGA18",
+    "teamCode": "NGA",
+    "country": "Nigéria",
+    "flag": "🇳🇬",
+    "name": "Jogador 16",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "NGA19",
+    "teamCode": "NGA",
+    "country": "Nigéria",
+    "flag": "🇳🇬",
+    "name": "Jogador 17",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "NGA20",
+    "teamCode": "NGA",
+    "country": "Nigéria",
+    "flag": "🇳🇬",
+    "name": "Jogador 18",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "NOR01",
+    "teamCode": "NOR",
+    "country": "Noruega",
+    "flag": "🇳🇴",
+    "name": "Escudo / Federação",
+    "type": "escudo",
+    "photo": ""
+  },
+  {
+    "id": "NOR02",
+    "teamCode": "NOR",
+    "country": "Noruega",
+    "flag": "🇳🇴",
+    "name": "Foto de equipa",
+    "type": "equipa",
+    "photo": ""
+  },
+  {
+    "id": "NOR03",
+    "teamCode": "NOR",
+    "country": "Noruega",
+    "flag": "🇳🇴",
+    "name": "Jogador 1",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "NOR04",
+    "teamCode": "NOR",
+    "country": "Noruega",
+    "flag": "🇳🇴",
+    "name": "Jogador 2",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "NOR05",
+    "teamCode": "NOR",
+    "country": "Noruega",
+    "flag": "🇳🇴",
+    "name": "Jogador 3",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "NOR06",
+    "teamCode": "NOR",
+    "country": "Noruega",
+    "flag": "🇳🇴",
+    "name": "Jogador 4",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "NOR07",
+    "teamCode": "NOR",
+    "country": "Noruega",
+    "flag": "🇳🇴",
+    "name": "Jogador 5",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "NOR08",
+    "teamCode": "NOR",
+    "country": "Noruega",
+    "flag": "🇳🇴",
+    "name": "Jogador 6",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "NOR09",
+    "teamCode": "NOR",
+    "country": "Noruega",
+    "flag": "🇳🇴",
+    "name": "Jogador 7",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "NOR10",
+    "teamCode": "NOR",
+    "country": "Noruega",
+    "flag": "🇳🇴",
+    "name": "Jogador 8",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "NOR11",
+    "teamCode": "NOR",
+    "country": "Noruega",
+    "flag": "🇳🇴",
+    "name": "Jogador 9",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "NOR12",
+    "teamCode": "NOR",
+    "country": "Noruega",
+    "flag": "🇳🇴",
+    "name": "Jogador 10",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "NOR13",
+    "teamCode": "NOR",
+    "country": "Noruega",
+    "flag": "🇳🇴",
+    "name": "Jogador 11",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "NOR14",
+    "teamCode": "NOR",
+    "country": "Noruega",
+    "flag": "🇳🇴",
+    "name": "Jogador 12",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "NOR15",
+    "teamCode": "NOR",
+    "country": "Noruega",
+    "flag": "🇳🇴",
+    "name": "Jogador 13",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "NOR16",
+    "teamCode": "NOR",
+    "country": "Noruega",
+    "flag": "🇳🇴",
+    "name": "Jogador 14",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "NOR17",
+    "teamCode": "NOR",
+    "country": "Noruega",
+    "flag": "🇳🇴",
+    "name": "Jogador 15",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "NOR18",
+    "teamCode": "NOR",
+    "country": "Noruega",
+    "flag": "🇳🇴",
+    "name": "Jogador 16",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "NOR19",
+    "teamCode": "NOR",
+    "country": "Noruega",
+    "flag": "🇳🇴",
+    "name": "Jogador 17",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "NOR20",
+    "teamCode": "NOR",
+    "country": "Noruega",
+    "flag": "🇳🇴",
+    "name": "Jogador 18",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "PAR01",
+    "teamCode": "PAR",
+    "country": "Paraguai",
+    "flag": "🇵🇾",
+    "name": "Escudo / Federação",
+    "type": "escudo",
+    "photo": ""
+  },
+  {
+    "id": "PAR02",
+    "teamCode": "PAR",
+    "country": "Paraguai",
+    "flag": "🇵🇾",
+    "name": "Foto de equipa",
+    "type": "equipa",
+    "photo": ""
+  },
+  {
+    "id": "PAR03",
+    "teamCode": "PAR",
+    "country": "Paraguai",
+    "flag": "🇵🇾",
+    "name": "Jogador 1",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "PAR04",
+    "teamCode": "PAR",
+    "country": "Paraguai",
+    "flag": "🇵🇾",
+    "name": "Jogador 2",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "PAR05",
+    "teamCode": "PAR",
+    "country": "Paraguai",
+    "flag": "🇵🇾",
+    "name": "Jogador 3",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "PAR06",
+    "teamCode": "PAR",
+    "country": "Paraguai",
+    "flag": "🇵🇾",
+    "name": "Jogador 4",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "PAR07",
+    "teamCode": "PAR",
+    "country": "Paraguai",
+    "flag": "🇵🇾",
+    "name": "Jogador 5",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "PAR08",
+    "teamCode": "PAR",
+    "country": "Paraguai",
+    "flag": "🇵🇾",
+    "name": "Jogador 6",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "PAR09",
+    "teamCode": "PAR",
+    "country": "Paraguai",
+    "flag": "🇵🇾",
+    "name": "Jogador 7",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "PAR10",
+    "teamCode": "PAR",
+    "country": "Paraguai",
+    "flag": "🇵🇾",
+    "name": "Jogador 8",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "PAR11",
+    "teamCode": "PAR",
+    "country": "Paraguai",
+    "flag": "🇵🇾",
+    "name": "Jogador 9",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "PAR12",
+    "teamCode": "PAR",
+    "country": "Paraguai",
+    "flag": "🇵🇾",
+    "name": "Jogador 10",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "PAR13",
+    "teamCode": "PAR",
+    "country": "Paraguai",
+    "flag": "🇵🇾",
+    "name": "Jogador 11",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "PAR14",
+    "teamCode": "PAR",
+    "country": "Paraguai",
+    "flag": "🇵🇾",
+    "name": "Jogador 12",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "PAR15",
+    "teamCode": "PAR",
+    "country": "Paraguai",
+    "flag": "🇵🇾",
+    "name": "Jogador 13",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "PAR16",
+    "teamCode": "PAR",
+    "country": "Paraguai",
+    "flag": "🇵🇾",
+    "name": "Jogador 14",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "PAR17",
+    "teamCode": "PAR",
+    "country": "Paraguai",
+    "flag": "🇵🇾",
+    "name": "Jogador 15",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "PAR18",
+    "teamCode": "PAR",
+    "country": "Paraguai",
+    "flag": "🇵🇾",
+    "name": "Jogador 16",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "PAR19",
+    "teamCode": "PAR",
+    "country": "Paraguai",
+    "flag": "🇵🇾",
+    "name": "Jogador 17",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "PAR20",
+    "teamCode": "PAR",
+    "country": "Paraguai",
+    "flag": "🇵🇾",
+    "name": "Jogador 18",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "PER01",
+    "teamCode": "PER",
+    "country": "Peru",
+    "flag": "🇵🇪",
+    "name": "Escudo / Federação",
+    "type": "escudo",
+    "photo": ""
+  },
+  {
+    "id": "PER02",
+    "teamCode": "PER",
+    "country": "Peru",
+    "flag": "🇵🇪",
+    "name": "Foto de equipa",
+    "type": "equipa",
+    "photo": ""
+  },
+  {
+    "id": "PER03",
+    "teamCode": "PER",
+    "country": "Peru",
+    "flag": "🇵🇪",
+    "name": "Jogador 1",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "PER04",
+    "teamCode": "PER",
+    "country": "Peru",
+    "flag": "🇵🇪",
+    "name": "Jogador 2",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "PER05",
+    "teamCode": "PER",
+    "country": "Peru",
+    "flag": "🇵🇪",
+    "name": "Jogador 3",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "PER06",
+    "teamCode": "PER",
+    "country": "Peru",
+    "flag": "🇵🇪",
+    "name": "Jogador 4",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "PER07",
+    "teamCode": "PER",
+    "country": "Peru",
+    "flag": "🇵🇪",
+    "name": "Jogador 5",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "PER08",
+    "teamCode": "PER",
+    "country": "Peru",
+    "flag": "🇵🇪",
+    "name": "Jogador 6",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "PER09",
+    "teamCode": "PER",
+    "country": "Peru",
+    "flag": "🇵🇪",
+    "name": "Jogador 7",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "PER10",
+    "teamCode": "PER",
+    "country": "Peru",
+    "flag": "🇵🇪",
+    "name": "Jogador 8",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "PER11",
+    "teamCode": "PER",
+    "country": "Peru",
+    "flag": "🇵🇪",
+    "name": "Jogador 9",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "PER12",
+    "teamCode": "PER",
+    "country": "Peru",
+    "flag": "🇵🇪",
+    "name": "Jogador 10",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "PER13",
+    "teamCode": "PER",
+    "country": "Peru",
+    "flag": "🇵🇪",
+    "name": "Jogador 11",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "PER14",
+    "teamCode": "PER",
+    "country": "Peru",
+    "flag": "🇵🇪",
+    "name": "Jogador 12",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "PER15",
+    "teamCode": "PER",
+    "country": "Peru",
+    "flag": "🇵🇪",
+    "name": "Jogador 13",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "PER16",
+    "teamCode": "PER",
+    "country": "Peru",
+    "flag": "🇵🇪",
+    "name": "Jogador 14",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "PER17",
+    "teamCode": "PER",
+    "country": "Peru",
+    "flag": "🇵🇪",
+    "name": "Jogador 15",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "PER18",
+    "teamCode": "PER",
+    "country": "Peru",
+    "flag": "🇵🇪",
+    "name": "Jogador 16",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "PER19",
+    "teamCode": "PER",
+    "country": "Peru",
+    "flag": "🇵🇪",
+    "name": "Jogador 17",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "PER20",
+    "teamCode": "PER",
+    "country": "Peru",
+    "flag": "🇵🇪",
+    "name": "Jogador 18",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "POL01",
+    "teamCode": "POL",
+    "country": "Polónia",
+    "flag": "🇵🇱",
+    "name": "Escudo / Federação",
+    "type": "escudo",
+    "photo": ""
+  },
+  {
+    "id": "POL02",
+    "teamCode": "POL",
+    "country": "Polónia",
+    "flag": "🇵🇱",
+    "name": "Foto de equipa",
+    "type": "equipa",
+    "photo": ""
+  },
+  {
+    "id": "POL03",
+    "teamCode": "POL",
+    "country": "Polónia",
+    "flag": "🇵🇱",
+    "name": "Jogador 1",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "POL04",
+    "teamCode": "POL",
+    "country": "Polónia",
+    "flag": "🇵🇱",
+    "name": "Jogador 2",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "POL05",
+    "teamCode": "POL",
+    "country": "Polónia",
+    "flag": "🇵🇱",
+    "name": "Jogador 3",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "POL06",
+    "teamCode": "POL",
+    "country": "Polónia",
+    "flag": "🇵🇱",
+    "name": "Jogador 4",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "POL07",
+    "teamCode": "POL",
+    "country": "Polónia",
+    "flag": "🇵🇱",
+    "name": "Jogador 5",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "POL08",
+    "teamCode": "POL",
+    "country": "Polónia",
+    "flag": "🇵🇱",
+    "name": "Jogador 6",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "POL09",
+    "teamCode": "POL",
+    "country": "Polónia",
+    "flag": "🇵🇱",
+    "name": "Jogador 7",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "POL10",
+    "teamCode": "POL",
+    "country": "Polónia",
+    "flag": "🇵🇱",
+    "name": "Jogador 8",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "POL11",
+    "teamCode": "POL",
+    "country": "Polónia",
+    "flag": "🇵🇱",
+    "name": "Jogador 9",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "POL12",
+    "teamCode": "POL",
+    "country": "Polónia",
+    "flag": "🇵🇱",
+    "name": "Jogador 10",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "POL13",
+    "teamCode": "POL",
+    "country": "Polónia",
+    "flag": "🇵🇱",
+    "name": "Jogador 11",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "POL14",
+    "teamCode": "POL",
+    "country": "Polónia",
+    "flag": "🇵🇱",
+    "name": "Jogador 12",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "POL15",
+    "teamCode": "POL",
+    "country": "Polónia",
+    "flag": "🇵🇱",
+    "name": "Jogador 13",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "POL16",
+    "teamCode": "POL",
+    "country": "Polónia",
+    "flag": "🇵🇱",
+    "name": "Jogador 14",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "POL17",
+    "teamCode": "POL",
+    "country": "Polónia",
+    "flag": "🇵🇱",
+    "name": "Jogador 15",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "POL18",
+    "teamCode": "POL",
+    "country": "Polónia",
+    "flag": "🇵🇱",
+    "name": "Jogador 16",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "POL19",
+    "teamCode": "POL",
+    "country": "Polónia",
+    "flag": "🇵🇱",
+    "name": "Jogador 17",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "POL20",
+    "teamCode": "POL",
+    "country": "Polónia",
+    "flag": "🇵🇱",
+    "name": "Jogador 18",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "POR01",
+    "teamCode": "POR",
+    "country": "Portugal",
+    "flag": "🇵🇹",
+    "name": "Escudo / Federação",
+    "type": "escudo",
+    "photo": ""
+  },
+  {
+    "id": "POR02",
+    "teamCode": "POR",
+    "country": "Portugal",
+    "flag": "🇵🇹",
+    "name": "Foto de equipa",
+    "type": "equipa",
+    "photo": ""
+  },
+  {
+    "id": "POR03",
+    "teamCode": "POR",
+    "country": "Portugal",
+    "flag": "🇵🇹",
+    "name": "Cristiano Ronaldo",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "POR04",
+    "teamCode": "POR",
+    "country": "Portugal",
+    "flag": "🇵🇹",
+    "name": "Bruno Fernandes",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "POR05",
+    "teamCode": "POR",
+    "country": "Portugal",
+    "flag": "🇵🇹",
+    "name": "Rúben Dias",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "POR06",
+    "teamCode": "POR",
+    "country": "Portugal",
+    "flag": "🇵🇹",
+    "name": "Bernardo Silva",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "POR07",
+    "teamCode": "POR",
+    "country": "Portugal",
+    "flag": "🇵🇹",
+    "name": "João Cancelo",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "POR08",
+    "teamCode": "POR",
+    "country": "Portugal",
+    "flag": "🇵🇹",
+    "name": "Diogo Costa",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "POR09",
+    "teamCode": "POR",
+    "country": "Portugal",
+    "flag": "🇵🇹",
+    "name": "Vitinha",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "POR10",
+    "teamCode": "POR",
+    "country": "Portugal",
+    "flag": "🇵🇹",
+    "name": "Rafael Leão",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "POR11",
+    "teamCode": "POR",
+    "country": "Portugal",
+    "flag": "🇵🇹",
+    "name": "João Félix",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "POR12",
+    "teamCode": "POR",
+    "country": "Portugal",
+    "flag": "🇵🇹",
+    "name": "Gonçalo Ramos",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "POR13",
+    "teamCode": "POR",
+    "country": "Portugal",
+    "flag": "🇵🇹",
+    "name": "Nuno Mendes",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "POR14",
+    "teamCode": "POR",
+    "country": "Portugal",
+    "flag": "🇵🇹",
+    "name": "João Palhinha",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "POR15",
+    "teamCode": "POR",
+    "country": "Portugal",
+    "flag": "🇵🇹",
+    "name": "Diogo Jota",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "POR16",
+    "teamCode": "POR",
+    "country": "Portugal",
+    "flag": "🇵🇹",
+    "name": "Francisco Conceição",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "POR17",
+    "teamCode": "POR",
+    "country": "Portugal",
+    "flag": "🇵🇹",
+    "name": "Pedro Neto",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "POR18",
+    "teamCode": "POR",
+    "country": "Portugal",
+    "flag": "🇵🇹",
+    "name": "João Neves",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "POR19",
+    "teamCode": "POR",
+    "country": "Portugal",
+    "flag": "🇵🇹",
+    "name": "António Silva",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "POR20",
+    "teamCode": "POR",
+    "country": "Portugal",
+    "flag": "🇵🇹",
+    "name": "Pepe",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "QAT01",
+    "teamCode": "QAT",
+    "country": "Catar",
+    "flag": "🇶🇦",
+    "name": "Escudo / Federação",
+    "type": "escudo",
+    "photo": ""
+  },
+  {
+    "id": "QAT02",
+    "teamCode": "QAT",
+    "country": "Catar",
+    "flag": "🇶🇦",
+    "name": "Foto de equipa",
+    "type": "equipa",
+    "photo": ""
+  },
+  {
+    "id": "QAT03",
+    "teamCode": "QAT",
+    "country": "Catar",
+    "flag": "🇶🇦",
+    "name": "Jogador 1",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "QAT04",
+    "teamCode": "QAT",
+    "country": "Catar",
+    "flag": "🇶🇦",
+    "name": "Jogador 2",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "QAT05",
+    "teamCode": "QAT",
+    "country": "Catar",
+    "flag": "🇶🇦",
+    "name": "Jogador 3",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "QAT06",
+    "teamCode": "QAT",
+    "country": "Catar",
+    "flag": "🇶🇦",
+    "name": "Jogador 4",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "QAT07",
+    "teamCode": "QAT",
+    "country": "Catar",
+    "flag": "🇶🇦",
+    "name": "Jogador 5",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "QAT08",
+    "teamCode": "QAT",
+    "country": "Catar",
+    "flag": "🇶🇦",
+    "name": "Jogador 6",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "QAT09",
+    "teamCode": "QAT",
+    "country": "Catar",
+    "flag": "🇶🇦",
+    "name": "Jogador 7",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "QAT10",
+    "teamCode": "QAT",
+    "country": "Catar",
+    "flag": "🇶🇦",
+    "name": "Jogador 8",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "QAT11",
+    "teamCode": "QAT",
+    "country": "Catar",
+    "flag": "🇶🇦",
+    "name": "Jogador 9",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "QAT12",
+    "teamCode": "QAT",
+    "country": "Catar",
+    "flag": "🇶🇦",
+    "name": "Jogador 10",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "QAT13",
+    "teamCode": "QAT",
+    "country": "Catar",
+    "flag": "🇶🇦",
+    "name": "Jogador 11",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "QAT14",
+    "teamCode": "QAT",
+    "country": "Catar",
+    "flag": "🇶🇦",
+    "name": "Jogador 12",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "QAT15",
+    "teamCode": "QAT",
+    "country": "Catar",
+    "flag": "🇶🇦",
+    "name": "Jogador 13",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "QAT16",
+    "teamCode": "QAT",
+    "country": "Catar",
+    "flag": "🇶🇦",
+    "name": "Jogador 14",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "QAT17",
+    "teamCode": "QAT",
+    "country": "Catar",
+    "flag": "🇶🇦",
+    "name": "Jogador 15",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "QAT18",
+    "teamCode": "QAT",
+    "country": "Catar",
+    "flag": "🇶🇦",
+    "name": "Jogador 16",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "QAT19",
+    "teamCode": "QAT",
+    "country": "Catar",
+    "flag": "🇶🇦",
+    "name": "Jogador 17",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "QAT20",
+    "teamCode": "QAT",
+    "country": "Catar",
+    "flag": "🇶🇦",
+    "name": "Jogador 18",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "KSA01",
+    "teamCode": "KSA",
+    "country": "Arábia Saudita",
+    "flag": "🇸🇦",
+    "name": "Escudo / Federação",
+    "type": "escudo",
+    "photo": ""
+  },
+  {
+    "id": "KSA02",
+    "teamCode": "KSA",
+    "country": "Arábia Saudita",
+    "flag": "🇸🇦",
+    "name": "Foto de equipa",
+    "type": "equipa",
+    "photo": ""
+  },
+  {
+    "id": "KSA03",
+    "teamCode": "KSA",
+    "country": "Arábia Saudita",
+    "flag": "🇸🇦",
+    "name": "Jogador 1",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "KSA04",
+    "teamCode": "KSA",
+    "country": "Arábia Saudita",
+    "flag": "🇸🇦",
+    "name": "Jogador 2",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "KSA05",
+    "teamCode": "KSA",
+    "country": "Arábia Saudita",
+    "flag": "🇸🇦",
+    "name": "Jogador 3",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "KSA06",
+    "teamCode": "KSA",
+    "country": "Arábia Saudita",
+    "flag": "🇸🇦",
+    "name": "Jogador 4",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "KSA07",
+    "teamCode": "KSA",
+    "country": "Arábia Saudita",
+    "flag": "🇸🇦",
+    "name": "Jogador 5",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "KSA08",
+    "teamCode": "KSA",
+    "country": "Arábia Saudita",
+    "flag": "🇸🇦",
+    "name": "Jogador 6",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "KSA09",
+    "teamCode": "KSA",
+    "country": "Arábia Saudita",
+    "flag": "🇸🇦",
+    "name": "Jogador 7",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "KSA10",
+    "teamCode": "KSA",
+    "country": "Arábia Saudita",
+    "flag": "🇸🇦",
+    "name": "Jogador 8",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "KSA11",
+    "teamCode": "KSA",
+    "country": "Arábia Saudita",
+    "flag": "🇸🇦",
+    "name": "Jogador 9",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "KSA12",
+    "teamCode": "KSA",
+    "country": "Arábia Saudita",
+    "flag": "🇸🇦",
+    "name": "Jogador 10",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "KSA13",
+    "teamCode": "KSA",
+    "country": "Arábia Saudita",
+    "flag": "🇸🇦",
+    "name": "Jogador 11",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "KSA14",
+    "teamCode": "KSA",
+    "country": "Arábia Saudita",
+    "flag": "🇸🇦",
+    "name": "Jogador 12",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "KSA15",
+    "teamCode": "KSA",
+    "country": "Arábia Saudita",
+    "flag": "🇸🇦",
+    "name": "Jogador 13",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "KSA16",
+    "teamCode": "KSA",
+    "country": "Arábia Saudita",
+    "flag": "🇸🇦",
+    "name": "Jogador 14",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "KSA17",
+    "teamCode": "KSA",
+    "country": "Arábia Saudita",
+    "flag": "🇸🇦",
+    "name": "Jogador 15",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "KSA18",
+    "teamCode": "KSA",
+    "country": "Arábia Saudita",
+    "flag": "🇸🇦",
+    "name": "Jogador 16",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "KSA19",
+    "teamCode": "KSA",
+    "country": "Arábia Saudita",
+    "flag": "🇸🇦",
+    "name": "Jogador 17",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "KSA20",
+    "teamCode": "KSA",
+    "country": "Arábia Saudita",
+    "flag": "🇸🇦",
+    "name": "Jogador 18",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "SCO01",
+    "teamCode": "SCO",
+    "country": "Escócia",
+    "flag": "🏴",
+    "name": "Escudo / Federação",
+    "type": "escudo",
+    "photo": ""
+  },
+  {
+    "id": "SCO02",
+    "teamCode": "SCO",
+    "country": "Escócia",
+    "flag": "🏴",
+    "name": "Foto de equipa",
+    "type": "equipa",
+    "photo": ""
+  },
+  {
+    "id": "SCO03",
+    "teamCode": "SCO",
+    "country": "Escócia",
+    "flag": "🏴",
+    "name": "Jogador 1",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "SCO04",
+    "teamCode": "SCO",
+    "country": "Escócia",
+    "flag": "🏴",
+    "name": "Jogador 2",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "SCO05",
+    "teamCode": "SCO",
+    "country": "Escócia",
+    "flag": "🏴",
+    "name": "Jogador 3",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "SCO06",
+    "teamCode": "SCO",
+    "country": "Escócia",
+    "flag": "🏴",
+    "name": "Jogador 4",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "SCO07",
+    "teamCode": "SCO",
+    "country": "Escócia",
+    "flag": "🏴",
+    "name": "Jogador 5",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "SCO08",
+    "teamCode": "SCO",
+    "country": "Escócia",
+    "flag": "🏴",
+    "name": "Jogador 6",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "SCO09",
+    "teamCode": "SCO",
+    "country": "Escócia",
+    "flag": "🏴",
+    "name": "Jogador 7",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "SCO10",
+    "teamCode": "SCO",
+    "country": "Escócia",
+    "flag": "🏴",
+    "name": "Jogador 8",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "SCO11",
+    "teamCode": "SCO",
+    "country": "Escócia",
+    "flag": "🏴",
+    "name": "Jogador 9",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "SCO12",
+    "teamCode": "SCO",
+    "country": "Escócia",
+    "flag": "🏴",
+    "name": "Jogador 10",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "SCO13",
+    "teamCode": "SCO",
+    "country": "Escócia",
+    "flag": "🏴",
+    "name": "Jogador 11",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "SCO14",
+    "teamCode": "SCO",
+    "country": "Escócia",
+    "flag": "🏴",
+    "name": "Jogador 12",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "SCO15",
+    "teamCode": "SCO",
+    "country": "Escócia",
+    "flag": "🏴",
+    "name": "Jogador 13",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "SCO16",
+    "teamCode": "SCO",
+    "country": "Escócia",
+    "flag": "🏴",
+    "name": "Jogador 14",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "SCO17",
+    "teamCode": "SCO",
+    "country": "Escócia",
+    "flag": "🏴",
+    "name": "Jogador 15",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "SCO18",
+    "teamCode": "SCO",
+    "country": "Escócia",
+    "flag": "🏴",
+    "name": "Jogador 16",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "SCO19",
+    "teamCode": "SCO",
+    "country": "Escócia",
+    "flag": "🏴",
+    "name": "Jogador 17",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "SCO20",
+    "teamCode": "SCO",
+    "country": "Escócia",
+    "flag": "🏴",
+    "name": "Jogador 18",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "SEN01",
+    "teamCode": "SEN",
+    "country": "Senegal",
+    "flag": "🇸🇳",
+    "name": "Escudo / Federação",
+    "type": "escudo",
+    "photo": ""
+  },
+  {
+    "id": "SEN02",
+    "teamCode": "SEN",
+    "country": "Senegal",
+    "flag": "🇸🇳",
+    "name": "Foto de equipa",
+    "type": "equipa",
+    "photo": ""
+  },
+  {
+    "id": "SEN03",
+    "teamCode": "SEN",
+    "country": "Senegal",
+    "flag": "🇸🇳",
+    "name": "Jogador 1",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "SEN04",
+    "teamCode": "SEN",
+    "country": "Senegal",
+    "flag": "🇸🇳",
+    "name": "Jogador 2",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "SEN05",
+    "teamCode": "SEN",
+    "country": "Senegal",
+    "flag": "🇸🇳",
+    "name": "Jogador 3",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "SEN06",
+    "teamCode": "SEN",
+    "country": "Senegal",
+    "flag": "🇸🇳",
+    "name": "Jogador 4",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "SEN07",
+    "teamCode": "SEN",
+    "country": "Senegal",
+    "flag": "🇸🇳",
+    "name": "Jogador 5",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "SEN08",
+    "teamCode": "SEN",
+    "country": "Senegal",
+    "flag": "🇸🇳",
+    "name": "Jogador 6",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "SEN09",
+    "teamCode": "SEN",
+    "country": "Senegal",
+    "flag": "🇸🇳",
+    "name": "Jogador 7",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "SEN10",
+    "teamCode": "SEN",
+    "country": "Senegal",
+    "flag": "🇸🇳",
+    "name": "Jogador 8",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "SEN11",
+    "teamCode": "SEN",
+    "country": "Senegal",
+    "flag": "🇸🇳",
+    "name": "Jogador 9",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "SEN12",
+    "teamCode": "SEN",
+    "country": "Senegal",
+    "flag": "🇸🇳",
+    "name": "Jogador 10",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "SEN13",
+    "teamCode": "SEN",
+    "country": "Senegal",
+    "flag": "🇸🇳",
+    "name": "Jogador 11",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "SEN14",
+    "teamCode": "SEN",
+    "country": "Senegal",
+    "flag": "🇸🇳",
+    "name": "Jogador 12",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "SEN15",
+    "teamCode": "SEN",
+    "country": "Senegal",
+    "flag": "🇸🇳",
+    "name": "Jogador 13",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "SEN16",
+    "teamCode": "SEN",
+    "country": "Senegal",
+    "flag": "🇸🇳",
+    "name": "Jogador 14",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "SEN17",
+    "teamCode": "SEN",
+    "country": "Senegal",
+    "flag": "🇸🇳",
+    "name": "Jogador 15",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "SEN18",
+    "teamCode": "SEN",
+    "country": "Senegal",
+    "flag": "🇸🇳",
+    "name": "Jogador 16",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "SEN19",
+    "teamCode": "SEN",
+    "country": "Senegal",
+    "flag": "🇸🇳",
+    "name": "Jogador 17",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "SEN20",
+    "teamCode": "SEN",
+    "country": "Senegal",
+    "flag": "🇸🇳",
+    "name": "Jogador 18",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "SRB01",
+    "teamCode": "SRB",
+    "country": "Sérvia",
+    "flag": "🇷🇸",
+    "name": "Escudo / Federação",
+    "type": "escudo",
+    "photo": ""
+  },
+  {
+    "id": "SRB02",
+    "teamCode": "SRB",
+    "country": "Sérvia",
+    "flag": "🇷🇸",
+    "name": "Foto de equipa",
+    "type": "equipa",
+    "photo": ""
+  },
+  {
+    "id": "SRB03",
+    "teamCode": "SRB",
+    "country": "Sérvia",
+    "flag": "🇷🇸",
+    "name": "Jogador 1",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "SRB04",
+    "teamCode": "SRB",
+    "country": "Sérvia",
+    "flag": "🇷🇸",
+    "name": "Jogador 2",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "SRB05",
+    "teamCode": "SRB",
+    "country": "Sérvia",
+    "flag": "🇷🇸",
+    "name": "Jogador 3",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "SRB06",
+    "teamCode": "SRB",
+    "country": "Sérvia",
+    "flag": "🇷🇸",
+    "name": "Jogador 4",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "SRB07",
+    "teamCode": "SRB",
+    "country": "Sérvia",
+    "flag": "🇷🇸",
+    "name": "Jogador 5",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "SRB08",
+    "teamCode": "SRB",
+    "country": "Sérvia",
+    "flag": "🇷🇸",
+    "name": "Jogador 6",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "SRB09",
+    "teamCode": "SRB",
+    "country": "Sérvia",
+    "flag": "🇷🇸",
+    "name": "Jogador 7",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "SRB10",
+    "teamCode": "SRB",
+    "country": "Sérvia",
+    "flag": "🇷🇸",
+    "name": "Jogador 8",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "SRB11",
+    "teamCode": "SRB",
+    "country": "Sérvia",
+    "flag": "🇷🇸",
+    "name": "Jogador 9",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "SRB12",
+    "teamCode": "SRB",
+    "country": "Sérvia",
+    "flag": "🇷🇸",
+    "name": "Jogador 10",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "SRB13",
+    "teamCode": "SRB",
+    "country": "Sérvia",
+    "flag": "🇷🇸",
+    "name": "Jogador 11",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "SRB14",
+    "teamCode": "SRB",
+    "country": "Sérvia",
+    "flag": "🇷🇸",
+    "name": "Jogador 12",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "SRB15",
+    "teamCode": "SRB",
+    "country": "Sérvia",
+    "flag": "🇷🇸",
+    "name": "Jogador 13",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "SRB16",
+    "teamCode": "SRB",
+    "country": "Sérvia",
+    "flag": "🇷🇸",
+    "name": "Jogador 14",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "SRB17",
+    "teamCode": "SRB",
+    "country": "Sérvia",
+    "flag": "🇷🇸",
+    "name": "Jogador 15",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "SRB18",
+    "teamCode": "SRB",
+    "country": "Sérvia",
+    "flag": "🇷🇸",
+    "name": "Jogador 16",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "SRB19",
+    "teamCode": "SRB",
+    "country": "Sérvia",
+    "flag": "🇷🇸",
+    "name": "Jogador 17",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "SRB20",
+    "teamCode": "SRB",
+    "country": "Sérvia",
+    "flag": "🇷🇸",
+    "name": "Jogador 18",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "ESP01",
+    "teamCode": "ESP",
+    "country": "Espanha",
+    "flag": "🇪🇸",
+    "name": "Escudo / Federação",
+    "type": "escudo",
+    "photo": ""
+  },
+  {
+    "id": "ESP02",
+    "teamCode": "ESP",
+    "country": "Espanha",
+    "flag": "🇪🇸",
+    "name": "Foto de equipa",
+    "type": "equipa",
+    "photo": ""
+  },
+  {
+    "id": "ESP03",
+    "teamCode": "ESP",
+    "country": "Espanha",
+    "flag": "🇪🇸",
+    "name": "Lamine Yamal",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "ESP04",
+    "teamCode": "ESP",
+    "country": "Espanha",
+    "flag": "🇪🇸",
+    "name": "Pedri",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "ESP05",
+    "teamCode": "ESP",
+    "country": "Espanha",
+    "flag": "🇪🇸",
+    "name": "Gavi",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "ESP06",
+    "teamCode": "ESP",
+    "country": "Espanha",
+    "flag": "🇪🇸",
+    "name": "Rodri",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "ESP07",
+    "teamCode": "ESP",
+    "country": "Espanha",
+    "flag": "🇪🇸",
+    "name": "Álvaro Morata",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "ESP08",
+    "teamCode": "ESP",
+    "country": "Espanha",
+    "flag": "🇪🇸",
+    "name": "Nico Williams",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "ESP09",
+    "teamCode": "ESP",
+    "country": "Espanha",
+    "flag": "🇪🇸",
+    "name": "Dani Olmo",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "ESP10",
+    "teamCode": "ESP",
+    "country": "Espanha",
+    "flag": "🇪🇸",
+    "name": "Unai Simón",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "ESP11",
+    "teamCode": "ESP",
+    "country": "Espanha",
+    "flag": "🇪🇸",
+    "name": "Aymeric Laporte",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "ESP12",
+    "teamCode": "ESP",
+    "country": "Espanha",
+    "flag": "🇪🇸",
+    "name": "Dani Carvajal",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "ESP13",
+    "teamCode": "ESP",
+    "country": "Espanha",
+    "flag": "🇪🇸",
+    "name": "Fabián Ruiz",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "ESP14",
+    "teamCode": "ESP",
+    "country": "Espanha",
+    "flag": "🇪🇸",
+    "name": "Mikel Merino",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "ESP15",
+    "teamCode": "ESP",
+    "country": "Espanha",
+    "flag": "🇪🇸",
+    "name": "Ferran Torres",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "ESP16",
+    "teamCode": "ESP",
+    "country": "Espanha",
+    "flag": "🇪🇸",
+    "name": "Mikel Oyarzabal",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "ESP17",
+    "teamCode": "ESP",
+    "country": "Espanha",
+    "flag": "🇪🇸",
+    "name": "Marc Cucurella",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "ESP18",
+    "teamCode": "ESP",
+    "country": "Espanha",
+    "flag": "🇪🇸",
+    "name": "Robin Le Normand",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "ESP19",
+    "teamCode": "ESP",
+    "country": "Espanha",
+    "flag": "🇪🇸",
+    "name": "Alejandro Balde",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "ESP20",
+    "teamCode": "ESP",
+    "country": "Espanha",
+    "flag": "🇪🇸",
+    "name": "Álex Baena",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "SUI01",
+    "teamCode": "SUI",
+    "country": "Suíça",
+    "flag": "🇨🇭",
+    "name": "Escudo / Federação",
+    "type": "escudo",
+    "photo": ""
+  },
+  {
+    "id": "SUI02",
+    "teamCode": "SUI",
+    "country": "Suíça",
+    "flag": "🇨🇭",
+    "name": "Foto de equipa",
+    "type": "equipa",
+    "photo": ""
+  },
+  {
+    "id": "SUI03",
+    "teamCode": "SUI",
+    "country": "Suíça",
+    "flag": "🇨🇭",
+    "name": "Jogador 1",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "SUI04",
+    "teamCode": "SUI",
+    "country": "Suíça",
+    "flag": "🇨🇭",
+    "name": "Jogador 2",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "SUI05",
+    "teamCode": "SUI",
+    "country": "Suíça",
+    "flag": "🇨🇭",
+    "name": "Jogador 3",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "SUI06",
+    "teamCode": "SUI",
+    "country": "Suíça",
+    "flag": "🇨🇭",
+    "name": "Jogador 4",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "SUI07",
+    "teamCode": "SUI",
+    "country": "Suíça",
+    "flag": "🇨🇭",
+    "name": "Jogador 5",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "SUI08",
+    "teamCode": "SUI",
+    "country": "Suíça",
+    "flag": "🇨🇭",
+    "name": "Jogador 6",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "SUI09",
+    "teamCode": "SUI",
+    "country": "Suíça",
+    "flag": "🇨🇭",
+    "name": "Jogador 7",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "SUI10",
+    "teamCode": "SUI",
+    "country": "Suíça",
+    "flag": "🇨🇭",
+    "name": "Jogador 8",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "SUI11",
+    "teamCode": "SUI",
+    "country": "Suíça",
+    "flag": "🇨🇭",
+    "name": "Jogador 9",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "SUI12",
+    "teamCode": "SUI",
+    "country": "Suíça",
+    "flag": "🇨🇭",
+    "name": "Jogador 10",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "SUI13",
+    "teamCode": "SUI",
+    "country": "Suíça",
+    "flag": "🇨🇭",
+    "name": "Jogador 11",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "SUI14",
+    "teamCode": "SUI",
+    "country": "Suíça",
+    "flag": "🇨🇭",
+    "name": "Jogador 12",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "SUI15",
+    "teamCode": "SUI",
+    "country": "Suíça",
+    "flag": "🇨🇭",
+    "name": "Jogador 13",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "SUI16",
+    "teamCode": "SUI",
+    "country": "Suíça",
+    "flag": "🇨🇭",
+    "name": "Jogador 14",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "SUI17",
+    "teamCode": "SUI",
+    "country": "Suíça",
+    "flag": "🇨🇭",
+    "name": "Jogador 15",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "SUI18",
+    "teamCode": "SUI",
+    "country": "Suíça",
+    "flag": "🇨🇭",
+    "name": "Jogador 16",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "SUI19",
+    "teamCode": "SUI",
+    "country": "Suíça",
+    "flag": "🇨🇭",
+    "name": "Jogador 17",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "SUI20",
+    "teamCode": "SUI",
+    "country": "Suíça",
+    "flag": "🇨🇭",
+    "name": "Jogador 18",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "TUN01",
+    "teamCode": "TUN",
+    "country": "Tunísia",
+    "flag": "🇹🇳",
+    "name": "Escudo / Federação",
+    "type": "escudo",
+    "photo": ""
+  },
+  {
+    "id": "TUN02",
+    "teamCode": "TUN",
+    "country": "Tunísia",
+    "flag": "🇹🇳",
+    "name": "Foto de equipa",
+    "type": "equipa",
+    "photo": ""
+  },
+  {
+    "id": "TUN03",
+    "teamCode": "TUN",
+    "country": "Tunísia",
+    "flag": "🇹🇳",
+    "name": "Jogador 1",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "TUN04",
+    "teamCode": "TUN",
+    "country": "Tunísia",
+    "flag": "🇹🇳",
+    "name": "Jogador 2",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "TUN05",
+    "teamCode": "TUN",
+    "country": "Tunísia",
+    "flag": "🇹🇳",
+    "name": "Jogador 3",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "TUN06",
+    "teamCode": "TUN",
+    "country": "Tunísia",
+    "flag": "🇹🇳",
+    "name": "Jogador 4",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "TUN07",
+    "teamCode": "TUN",
+    "country": "Tunísia",
+    "flag": "🇹🇳",
+    "name": "Jogador 5",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "TUN08",
+    "teamCode": "TUN",
+    "country": "Tunísia",
+    "flag": "🇹🇳",
+    "name": "Jogador 6",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "TUN09",
+    "teamCode": "TUN",
+    "country": "Tunísia",
+    "flag": "🇹🇳",
+    "name": "Jogador 7",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "TUN10",
+    "teamCode": "TUN",
+    "country": "Tunísia",
+    "flag": "🇹🇳",
+    "name": "Jogador 8",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "TUN11",
+    "teamCode": "TUN",
+    "country": "Tunísia",
+    "flag": "🇹🇳",
+    "name": "Jogador 9",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "TUN12",
+    "teamCode": "TUN",
+    "country": "Tunísia",
+    "flag": "🇹🇳",
+    "name": "Jogador 10",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "TUN13",
+    "teamCode": "TUN",
+    "country": "Tunísia",
+    "flag": "🇹🇳",
+    "name": "Jogador 11",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "TUN14",
+    "teamCode": "TUN",
+    "country": "Tunísia",
+    "flag": "🇹🇳",
+    "name": "Jogador 12",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "TUN15",
+    "teamCode": "TUN",
+    "country": "Tunísia",
+    "flag": "🇹🇳",
+    "name": "Jogador 13",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "TUN16",
+    "teamCode": "TUN",
+    "country": "Tunísia",
+    "flag": "🇹🇳",
+    "name": "Jogador 14",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "TUN17",
+    "teamCode": "TUN",
+    "country": "Tunísia",
+    "flag": "🇹🇳",
+    "name": "Jogador 15",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "TUN18",
+    "teamCode": "TUN",
+    "country": "Tunísia",
+    "flag": "🇹🇳",
+    "name": "Jogador 16",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "TUN19",
+    "teamCode": "TUN",
+    "country": "Tunísia",
+    "flag": "🇹🇳",
+    "name": "Jogador 17",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "TUN20",
+    "teamCode": "TUN",
+    "country": "Tunísia",
+    "flag": "🇹🇳",
+    "name": "Jogador 18",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "TUR01",
+    "teamCode": "TUR",
+    "country": "Turquia",
+    "flag": "🇹🇷",
+    "name": "Escudo / Federação",
+    "type": "escudo",
+    "photo": ""
+  },
+  {
+    "id": "TUR02",
+    "teamCode": "TUR",
+    "country": "Turquia",
+    "flag": "🇹🇷",
+    "name": "Foto de equipa",
+    "type": "equipa",
+    "photo": ""
+  },
+  {
+    "id": "TUR03",
+    "teamCode": "TUR",
+    "country": "Turquia",
+    "flag": "🇹🇷",
+    "name": "Jogador 1",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "TUR04",
+    "teamCode": "TUR",
+    "country": "Turquia",
+    "flag": "🇹🇷",
+    "name": "Jogador 2",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "TUR05",
+    "teamCode": "TUR",
+    "country": "Turquia",
+    "flag": "🇹🇷",
+    "name": "Jogador 3",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "TUR06",
+    "teamCode": "TUR",
+    "country": "Turquia",
+    "flag": "🇹🇷",
+    "name": "Jogador 4",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "TUR07",
+    "teamCode": "TUR",
+    "country": "Turquia",
+    "flag": "🇹🇷",
+    "name": "Jogador 5",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "TUR08",
+    "teamCode": "TUR",
+    "country": "Turquia",
+    "flag": "🇹🇷",
+    "name": "Jogador 6",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "TUR09",
+    "teamCode": "TUR",
+    "country": "Turquia",
+    "flag": "🇹🇷",
+    "name": "Jogador 7",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "TUR10",
+    "teamCode": "TUR",
+    "country": "Turquia",
+    "flag": "🇹🇷",
+    "name": "Jogador 8",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "TUR11",
+    "teamCode": "TUR",
+    "country": "Turquia",
+    "flag": "🇹🇷",
+    "name": "Jogador 9",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "TUR12",
+    "teamCode": "TUR",
+    "country": "Turquia",
+    "flag": "🇹🇷",
+    "name": "Jogador 10",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "TUR13",
+    "teamCode": "TUR",
+    "country": "Turquia",
+    "flag": "🇹🇷",
+    "name": "Jogador 11",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "TUR14",
+    "teamCode": "TUR",
+    "country": "Turquia",
+    "flag": "🇹🇷",
+    "name": "Jogador 12",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "TUR15",
+    "teamCode": "TUR",
+    "country": "Turquia",
+    "flag": "🇹🇷",
+    "name": "Jogador 13",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "TUR16",
+    "teamCode": "TUR",
+    "country": "Turquia",
+    "flag": "🇹🇷",
+    "name": "Jogador 14",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "TUR17",
+    "teamCode": "TUR",
+    "country": "Turquia",
+    "flag": "🇹🇷",
+    "name": "Jogador 15",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "TUR18",
+    "teamCode": "TUR",
+    "country": "Turquia",
+    "flag": "🇹🇷",
+    "name": "Jogador 16",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "TUR19",
+    "teamCode": "TUR",
+    "country": "Turquia",
+    "flag": "🇹🇷",
+    "name": "Jogador 17",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "TUR20",
+    "teamCode": "TUR",
+    "country": "Turquia",
+    "flag": "🇹🇷",
+    "name": "Jogador 18",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "UKR01",
+    "teamCode": "UKR",
+    "country": "Ucrânia",
+    "flag": "🇺🇦",
+    "name": "Escudo / Federação",
+    "type": "escudo",
+    "photo": ""
+  },
+  {
+    "id": "UKR02",
+    "teamCode": "UKR",
+    "country": "Ucrânia",
+    "flag": "🇺🇦",
+    "name": "Foto de equipa",
+    "type": "equipa",
+    "photo": ""
+  },
+  {
+    "id": "UKR03",
+    "teamCode": "UKR",
+    "country": "Ucrânia",
+    "flag": "🇺🇦",
+    "name": "Jogador 1",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "UKR04",
+    "teamCode": "UKR",
+    "country": "Ucrânia",
+    "flag": "🇺🇦",
+    "name": "Jogador 2",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "UKR05",
+    "teamCode": "UKR",
+    "country": "Ucrânia",
+    "flag": "🇺🇦",
+    "name": "Jogador 3",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "UKR06",
+    "teamCode": "UKR",
+    "country": "Ucrânia",
+    "flag": "🇺🇦",
+    "name": "Jogador 4",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "UKR07",
+    "teamCode": "UKR",
+    "country": "Ucrânia",
+    "flag": "🇺🇦",
+    "name": "Jogador 5",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "UKR08",
+    "teamCode": "UKR",
+    "country": "Ucrânia",
+    "flag": "🇺🇦",
+    "name": "Jogador 6",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "UKR09",
+    "teamCode": "UKR",
+    "country": "Ucrânia",
+    "flag": "🇺🇦",
+    "name": "Jogador 7",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "UKR10",
+    "teamCode": "UKR",
+    "country": "Ucrânia",
+    "flag": "🇺🇦",
+    "name": "Jogador 8",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "UKR11",
+    "teamCode": "UKR",
+    "country": "Ucrânia",
+    "flag": "🇺🇦",
+    "name": "Jogador 9",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "UKR12",
+    "teamCode": "UKR",
+    "country": "Ucrânia",
+    "flag": "🇺🇦",
+    "name": "Jogador 10",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "UKR13",
+    "teamCode": "UKR",
+    "country": "Ucrânia",
+    "flag": "🇺🇦",
+    "name": "Jogador 11",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "UKR14",
+    "teamCode": "UKR",
+    "country": "Ucrânia",
+    "flag": "🇺🇦",
+    "name": "Jogador 12",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "UKR15",
+    "teamCode": "UKR",
+    "country": "Ucrânia",
+    "flag": "🇺🇦",
+    "name": "Jogador 13",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "UKR16",
+    "teamCode": "UKR",
+    "country": "Ucrânia",
+    "flag": "🇺🇦",
+    "name": "Jogador 14",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "UKR17",
+    "teamCode": "UKR",
+    "country": "Ucrânia",
+    "flag": "🇺🇦",
+    "name": "Jogador 15",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "UKR18",
+    "teamCode": "UKR",
+    "country": "Ucrânia",
+    "flag": "🇺🇦",
+    "name": "Jogador 16",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "UKR19",
+    "teamCode": "UKR",
+    "country": "Ucrânia",
+    "flag": "🇺🇦",
+    "name": "Jogador 17",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "UKR20",
+    "teamCode": "UKR",
+    "country": "Ucrânia",
+    "flag": "🇺🇦",
+    "name": "Jogador 18",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "URU01",
+    "teamCode": "URU",
+    "country": "Uruguai",
+    "flag": "🇺🇾",
+    "name": "Escudo / Federação",
+    "type": "escudo",
+    "photo": ""
+  },
+  {
+    "id": "URU02",
+    "teamCode": "URU",
+    "country": "Uruguai",
+    "flag": "🇺🇾",
+    "name": "Foto de equipa",
+    "type": "equipa",
+    "photo": ""
+  },
+  {
+    "id": "URU03",
+    "teamCode": "URU",
+    "country": "Uruguai",
+    "flag": "🇺🇾",
+    "name": "Jogador 1",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "URU04",
+    "teamCode": "URU",
+    "country": "Uruguai",
+    "flag": "🇺🇾",
+    "name": "Jogador 2",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "URU05",
+    "teamCode": "URU",
+    "country": "Uruguai",
+    "flag": "🇺🇾",
+    "name": "Jogador 3",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "URU06",
+    "teamCode": "URU",
+    "country": "Uruguai",
+    "flag": "🇺🇾",
+    "name": "Jogador 4",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "URU07",
+    "teamCode": "URU",
+    "country": "Uruguai",
+    "flag": "🇺🇾",
+    "name": "Jogador 5",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "URU08",
+    "teamCode": "URU",
+    "country": "Uruguai",
+    "flag": "🇺🇾",
+    "name": "Jogador 6",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "URU09",
+    "teamCode": "URU",
+    "country": "Uruguai",
+    "flag": "🇺🇾",
+    "name": "Jogador 7",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "URU10",
+    "teamCode": "URU",
+    "country": "Uruguai",
+    "flag": "🇺🇾",
+    "name": "Jogador 8",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "URU11",
+    "teamCode": "URU",
+    "country": "Uruguai",
+    "flag": "🇺🇾",
+    "name": "Jogador 9",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "URU12",
+    "teamCode": "URU",
+    "country": "Uruguai",
+    "flag": "🇺🇾",
+    "name": "Jogador 10",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "URU13",
+    "teamCode": "URU",
+    "country": "Uruguai",
+    "flag": "🇺🇾",
+    "name": "Jogador 11",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "URU14",
+    "teamCode": "URU",
+    "country": "Uruguai",
+    "flag": "🇺🇾",
+    "name": "Jogador 12",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "URU15",
+    "teamCode": "URU",
+    "country": "Uruguai",
+    "flag": "🇺🇾",
+    "name": "Jogador 13",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "URU16",
+    "teamCode": "URU",
+    "country": "Uruguai",
+    "flag": "🇺🇾",
+    "name": "Jogador 14",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "URU17",
+    "teamCode": "URU",
+    "country": "Uruguai",
+    "flag": "🇺🇾",
+    "name": "Jogador 15",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "URU18",
+    "teamCode": "URU",
+    "country": "Uruguai",
+    "flag": "🇺🇾",
+    "name": "Jogador 16",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "URU19",
+    "teamCode": "URU",
+    "country": "Uruguai",
+    "flag": "🇺🇾",
+    "name": "Jogador 17",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "URU20",
+    "teamCode": "URU",
+    "country": "Uruguai",
+    "flag": "🇺🇾",
+    "name": "Jogador 18",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "USA01",
+    "teamCode": "USA",
+    "country": "Estados Unidos",
+    "flag": "🇺🇸",
+    "name": "Escudo / Federação",
+    "type": "escudo",
+    "photo": ""
+  },
+  {
+    "id": "USA02",
+    "teamCode": "USA",
+    "country": "Estados Unidos",
+    "flag": "🇺🇸",
+    "name": "Foto de equipa",
+    "type": "equipa",
+    "photo": ""
+  },
+  {
+    "id": "USA03",
+    "teamCode": "USA",
+    "country": "Estados Unidos",
+    "flag": "🇺🇸",
+    "name": "Jogador 1",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "USA04",
+    "teamCode": "USA",
+    "country": "Estados Unidos",
+    "flag": "🇺🇸",
+    "name": "Jogador 2",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "USA05",
+    "teamCode": "USA",
+    "country": "Estados Unidos",
+    "flag": "🇺🇸",
+    "name": "Jogador 3",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "USA06",
+    "teamCode": "USA",
+    "country": "Estados Unidos",
+    "flag": "🇺🇸",
+    "name": "Jogador 4",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "USA07",
+    "teamCode": "USA",
+    "country": "Estados Unidos",
+    "flag": "🇺🇸",
+    "name": "Jogador 5",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "USA08",
+    "teamCode": "USA",
+    "country": "Estados Unidos",
+    "flag": "🇺🇸",
+    "name": "Jogador 6",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "USA09",
+    "teamCode": "USA",
+    "country": "Estados Unidos",
+    "flag": "🇺🇸",
+    "name": "Jogador 7",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "USA10",
+    "teamCode": "USA",
+    "country": "Estados Unidos",
+    "flag": "🇺🇸",
+    "name": "Jogador 8",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "USA11",
+    "teamCode": "USA",
+    "country": "Estados Unidos",
+    "flag": "🇺🇸",
+    "name": "Jogador 9",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "USA12",
+    "teamCode": "USA",
+    "country": "Estados Unidos",
+    "flag": "🇺🇸",
+    "name": "Jogador 10",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "USA13",
+    "teamCode": "USA",
+    "country": "Estados Unidos",
+    "flag": "🇺🇸",
+    "name": "Jogador 11",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "USA14",
+    "teamCode": "USA",
+    "country": "Estados Unidos",
+    "flag": "🇺🇸",
+    "name": "Jogador 12",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "USA15",
+    "teamCode": "USA",
+    "country": "Estados Unidos",
+    "flag": "🇺🇸",
+    "name": "Jogador 13",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "USA16",
+    "teamCode": "USA",
+    "country": "Estados Unidos",
+    "flag": "🇺🇸",
+    "name": "Jogador 14",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "USA17",
+    "teamCode": "USA",
+    "country": "Estados Unidos",
+    "flag": "🇺🇸",
+    "name": "Jogador 15",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "USA18",
+    "teamCode": "USA",
+    "country": "Estados Unidos",
+    "flag": "🇺🇸",
+    "name": "Jogador 16",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "USA19",
+    "teamCode": "USA",
+    "country": "Estados Unidos",
+    "flag": "🇺🇸",
+    "name": "Jogador 17",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "USA20",
+    "teamCode": "USA",
+    "country": "Estados Unidos",
+    "flag": "🇺🇸",
+    "name": "Jogador 18",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "WAL01",
+    "teamCode": "WAL",
+    "country": "País de Gales",
+    "flag": "🏴",
+    "name": "Escudo / Federação",
+    "type": "escudo",
+    "photo": ""
+  },
+  {
+    "id": "WAL02",
+    "teamCode": "WAL",
+    "country": "País de Gales",
+    "flag": "🏴",
+    "name": "Foto de equipa",
+    "type": "equipa",
+    "photo": ""
+  },
+  {
+    "id": "WAL03",
+    "teamCode": "WAL",
+    "country": "País de Gales",
+    "flag": "🏴",
+    "name": "Jogador 1",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "WAL04",
+    "teamCode": "WAL",
+    "country": "País de Gales",
+    "flag": "🏴",
+    "name": "Jogador 2",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "WAL05",
+    "teamCode": "WAL",
+    "country": "País de Gales",
+    "flag": "🏴",
+    "name": "Jogador 3",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "WAL06",
+    "teamCode": "WAL",
+    "country": "País de Gales",
+    "flag": "🏴",
+    "name": "Jogador 4",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "WAL07",
+    "teamCode": "WAL",
+    "country": "País de Gales",
+    "flag": "🏴",
+    "name": "Jogador 5",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "WAL08",
+    "teamCode": "WAL",
+    "country": "País de Gales",
+    "flag": "🏴",
+    "name": "Jogador 6",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "WAL09",
+    "teamCode": "WAL",
+    "country": "País de Gales",
+    "flag": "🏴",
+    "name": "Jogador 7",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "WAL10",
+    "teamCode": "WAL",
+    "country": "País de Gales",
+    "flag": "🏴",
+    "name": "Jogador 8",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "WAL11",
+    "teamCode": "WAL",
+    "country": "País de Gales",
+    "flag": "🏴",
+    "name": "Jogador 9",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "WAL12",
+    "teamCode": "WAL",
+    "country": "País de Gales",
+    "flag": "🏴",
+    "name": "Jogador 10",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "WAL13",
+    "teamCode": "WAL",
+    "country": "País de Gales",
+    "flag": "🏴",
+    "name": "Jogador 11",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "WAL14",
+    "teamCode": "WAL",
+    "country": "País de Gales",
+    "flag": "🏴",
+    "name": "Jogador 12",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "WAL15",
+    "teamCode": "WAL",
+    "country": "País de Gales",
+    "flag": "🏴",
+    "name": "Jogador 13",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "WAL16",
+    "teamCode": "WAL",
+    "country": "País de Gales",
+    "flag": "🏴",
+    "name": "Jogador 14",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "WAL17",
+    "teamCode": "WAL",
+    "country": "País de Gales",
+    "flag": "🏴",
+    "name": "Jogador 15",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "WAL18",
+    "teamCode": "WAL",
+    "country": "País de Gales",
+    "flag": "🏴",
+    "name": "Jogador 16",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "WAL19",
+    "teamCode": "WAL",
+    "country": "País de Gales",
+    "flag": "🏴",
+    "name": "Jogador 17",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "WAL20",
+    "teamCode": "WAL",
+    "country": "País de Gales",
+    "flag": "🏴",
+    "name": "Jogador 18",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "CMR01",
+    "teamCode": "CMR",
+    "country": "Camarões",
+    "flag": "🇨🇲",
+    "name": "Escudo / Federação",
+    "type": "escudo",
+    "photo": ""
+  },
+  {
+    "id": "CMR02",
+    "teamCode": "CMR",
+    "country": "Camarões",
+    "flag": "🇨🇲",
+    "name": "Foto de equipa",
+    "type": "equipa",
+    "photo": ""
+  },
+  {
+    "id": "CMR03",
+    "teamCode": "CMR",
+    "country": "Camarões",
+    "flag": "🇨🇲",
+    "name": "Jogador 1",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "CMR04",
+    "teamCode": "CMR",
+    "country": "Camarões",
+    "flag": "🇨🇲",
+    "name": "Jogador 2",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "CMR05",
+    "teamCode": "CMR",
+    "country": "Camarões",
+    "flag": "🇨🇲",
+    "name": "Jogador 3",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "CMR06",
+    "teamCode": "CMR",
+    "country": "Camarões",
+    "flag": "🇨🇲",
+    "name": "Jogador 4",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "CMR07",
+    "teamCode": "CMR",
+    "country": "Camarões",
+    "flag": "🇨🇲",
+    "name": "Jogador 5",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "CMR08",
+    "teamCode": "CMR",
+    "country": "Camarões",
+    "flag": "🇨🇲",
+    "name": "Jogador 6",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "CMR09",
+    "teamCode": "CMR",
+    "country": "Camarões",
+    "flag": "🇨🇲",
+    "name": "Jogador 7",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "CMR10",
+    "teamCode": "CMR",
+    "country": "Camarões",
+    "flag": "🇨🇲",
+    "name": "Jogador 8",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "CMR11",
+    "teamCode": "CMR",
+    "country": "Camarões",
+    "flag": "🇨🇲",
+    "name": "Jogador 9",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "CMR12",
+    "teamCode": "CMR",
+    "country": "Camarões",
+    "flag": "🇨🇲",
+    "name": "Jogador 10",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "CMR13",
+    "teamCode": "CMR",
+    "country": "Camarões",
+    "flag": "🇨🇲",
+    "name": "Jogador 11",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "CMR14",
+    "teamCode": "CMR",
+    "country": "Camarões",
+    "flag": "🇨🇲",
+    "name": "Jogador 12",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "CMR15",
+    "teamCode": "CMR",
+    "country": "Camarões",
+    "flag": "🇨🇲",
+    "name": "Jogador 13",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "CMR16",
+    "teamCode": "CMR",
+    "country": "Camarões",
+    "flag": "🇨🇲",
+    "name": "Jogador 14",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "CMR17",
+    "teamCode": "CMR",
+    "country": "Camarões",
+    "flag": "🇨🇲",
+    "name": "Jogador 15",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "CMR18",
+    "teamCode": "CMR",
+    "country": "Camarões",
+    "flag": "🇨🇲",
+    "name": "Jogador 16",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "CMR19",
+    "teamCode": "CMR",
+    "country": "Camarões",
+    "flag": "🇨🇲",
+    "name": "Jogador 17",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "CMR20",
+    "teamCode": "CMR",
+    "country": "Camarões",
+    "flag": "🇨🇲",
+    "name": "Jogador 18",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "CIV01",
+    "teamCode": "CIV",
+    "country": "Costa do Marfim",
+    "flag": "🇨🇮",
+    "name": "Escudo / Federação",
+    "type": "escudo",
+    "photo": ""
+  },
+  {
+    "id": "CIV02",
+    "teamCode": "CIV",
+    "country": "Costa do Marfim",
+    "flag": "🇨🇮",
+    "name": "Foto de equipa",
+    "type": "equipa",
+    "photo": ""
+  },
+  {
+    "id": "CIV03",
+    "teamCode": "CIV",
+    "country": "Costa do Marfim",
+    "flag": "🇨🇮",
+    "name": "Jogador 1",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "CIV04",
+    "teamCode": "CIV",
+    "country": "Costa do Marfim",
+    "flag": "🇨🇮",
+    "name": "Jogador 2",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "CIV05",
+    "teamCode": "CIV",
+    "country": "Costa do Marfim",
+    "flag": "🇨🇮",
+    "name": "Jogador 3",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "CIV06",
+    "teamCode": "CIV",
+    "country": "Costa do Marfim",
+    "flag": "🇨🇮",
+    "name": "Jogador 4",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "CIV07",
+    "teamCode": "CIV",
+    "country": "Costa do Marfim",
+    "flag": "🇨🇮",
+    "name": "Jogador 5",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "CIV08",
+    "teamCode": "CIV",
+    "country": "Costa do Marfim",
+    "flag": "🇨🇮",
+    "name": "Jogador 6",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "CIV09",
+    "teamCode": "CIV",
+    "country": "Costa do Marfim",
+    "flag": "🇨🇮",
+    "name": "Jogador 7",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "CIV10",
+    "teamCode": "CIV",
+    "country": "Costa do Marfim",
+    "flag": "🇨🇮",
+    "name": "Jogador 8",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "CIV11",
+    "teamCode": "CIV",
+    "country": "Costa do Marfim",
+    "flag": "🇨🇮",
+    "name": "Jogador 9",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "CIV12",
+    "teamCode": "CIV",
+    "country": "Costa do Marfim",
+    "flag": "🇨🇮",
+    "name": "Jogador 10",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "CIV13",
+    "teamCode": "CIV",
+    "country": "Costa do Marfim",
+    "flag": "🇨🇮",
+    "name": "Jogador 11",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "CIV14",
+    "teamCode": "CIV",
+    "country": "Costa do Marfim",
+    "flag": "🇨🇮",
+    "name": "Jogador 12",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "CIV15",
+    "teamCode": "CIV",
+    "country": "Costa do Marfim",
+    "flag": "🇨🇮",
+    "name": "Jogador 13",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "CIV16",
+    "teamCode": "CIV",
+    "country": "Costa do Marfim",
+    "flag": "🇨🇮",
+    "name": "Jogador 14",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "CIV17",
+    "teamCode": "CIV",
+    "country": "Costa do Marfim",
+    "flag": "🇨🇮",
+    "name": "Jogador 15",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "CIV18",
+    "teamCode": "CIV",
+    "country": "Costa do Marfim",
+    "flag": "🇨🇮",
+    "name": "Jogador 16",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "CIV19",
+    "teamCode": "CIV",
+    "country": "Costa do Marfim",
+    "flag": "🇨🇮",
+    "name": "Jogador 17",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "CIV20",
+    "teamCode": "CIV",
+    "country": "Costa do Marfim",
+    "flag": "🇨🇮",
+    "name": "Jogador 18",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "ALG01",
+    "teamCode": "ALG",
+    "country": "Argélia",
+    "flag": "🇩🇿",
+    "name": "Escudo / Federação",
+    "type": "escudo",
+    "photo": ""
+  },
+  {
+    "id": "ALG02",
+    "teamCode": "ALG",
+    "country": "Argélia",
+    "flag": "🇩🇿",
+    "name": "Foto de equipa",
+    "type": "equipa",
+    "photo": ""
+  },
+  {
+    "id": "ALG03",
+    "teamCode": "ALG",
+    "country": "Argélia",
+    "flag": "🇩🇿",
+    "name": "Jogador 1",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "ALG04",
+    "teamCode": "ALG",
+    "country": "Argélia",
+    "flag": "🇩🇿",
+    "name": "Jogador 2",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "ALG05",
+    "teamCode": "ALG",
+    "country": "Argélia",
+    "flag": "🇩🇿",
+    "name": "Jogador 3",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "ALG06",
+    "teamCode": "ALG",
+    "country": "Argélia",
+    "flag": "🇩🇿",
+    "name": "Jogador 4",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "ALG07",
+    "teamCode": "ALG",
+    "country": "Argélia",
+    "flag": "🇩🇿",
+    "name": "Jogador 5",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "ALG08",
+    "teamCode": "ALG",
+    "country": "Argélia",
+    "flag": "🇩🇿",
+    "name": "Jogador 6",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "ALG09",
+    "teamCode": "ALG",
+    "country": "Argélia",
+    "flag": "🇩🇿",
+    "name": "Jogador 7",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "ALG10",
+    "teamCode": "ALG",
+    "country": "Argélia",
+    "flag": "🇩🇿",
+    "name": "Jogador 8",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "ALG11",
+    "teamCode": "ALG",
+    "country": "Argélia",
+    "flag": "🇩🇿",
+    "name": "Jogador 9",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "ALG12",
+    "teamCode": "ALG",
+    "country": "Argélia",
+    "flag": "🇩🇿",
+    "name": "Jogador 10",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "ALG13",
+    "teamCode": "ALG",
+    "country": "Argélia",
+    "flag": "🇩🇿",
+    "name": "Jogador 11",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "ALG14",
+    "teamCode": "ALG",
+    "country": "Argélia",
+    "flag": "🇩🇿",
+    "name": "Jogador 12",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "ALG15",
+    "teamCode": "ALG",
+    "country": "Argélia",
+    "flag": "🇩🇿",
+    "name": "Jogador 13",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "ALG16",
+    "teamCode": "ALG",
+    "country": "Argélia",
+    "flag": "🇩🇿",
+    "name": "Jogador 14",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "ALG17",
+    "teamCode": "ALG",
+    "country": "Argélia",
+    "flag": "🇩🇿",
+    "name": "Jogador 15",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "ALG18",
+    "teamCode": "ALG",
+    "country": "Argélia",
+    "flag": "🇩🇿",
+    "name": "Jogador 16",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "ALG19",
+    "teamCode": "ALG",
+    "country": "Argélia",
+    "flag": "🇩🇿",
+    "name": "Jogador 17",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "ALG20",
+    "teamCode": "ALG",
+    "country": "Argélia",
+    "flag": "🇩🇿",
+    "name": "Jogador 18",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "AUT01",
+    "teamCode": "AUT",
+    "country": "Áustria",
+    "flag": "🇦🇹",
+    "name": "Escudo / Federação",
+    "type": "escudo",
+    "photo": ""
+  },
+  {
+    "id": "AUT02",
+    "teamCode": "AUT",
+    "country": "Áustria",
+    "flag": "🇦🇹",
+    "name": "Foto de equipa",
+    "type": "equipa",
+    "photo": ""
+  },
+  {
+    "id": "AUT03",
+    "teamCode": "AUT",
+    "country": "Áustria",
+    "flag": "🇦🇹",
+    "name": "Jogador 1",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "AUT04",
+    "teamCode": "AUT",
+    "country": "Áustria",
+    "flag": "🇦🇹",
+    "name": "Jogador 2",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "AUT05",
+    "teamCode": "AUT",
+    "country": "Áustria",
+    "flag": "🇦🇹",
+    "name": "Jogador 3",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "AUT06",
+    "teamCode": "AUT",
+    "country": "Áustria",
+    "flag": "🇦🇹",
+    "name": "Jogador 4",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "AUT07",
+    "teamCode": "AUT",
+    "country": "Áustria",
+    "flag": "🇦🇹",
+    "name": "Jogador 5",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "AUT08",
+    "teamCode": "AUT",
+    "country": "Áustria",
+    "flag": "🇦🇹",
+    "name": "Jogador 6",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "AUT09",
+    "teamCode": "AUT",
+    "country": "Áustria",
+    "flag": "🇦🇹",
+    "name": "Jogador 7",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "AUT10",
+    "teamCode": "AUT",
+    "country": "Áustria",
+    "flag": "🇦🇹",
+    "name": "Jogador 8",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "AUT11",
+    "teamCode": "AUT",
+    "country": "Áustria",
+    "flag": "🇦🇹",
+    "name": "Jogador 9",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "AUT12",
+    "teamCode": "AUT",
+    "country": "Áustria",
+    "flag": "🇦🇹",
+    "name": "Jogador 10",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "AUT13",
+    "teamCode": "AUT",
+    "country": "Áustria",
+    "flag": "🇦🇹",
+    "name": "Jogador 11",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "AUT14",
+    "teamCode": "AUT",
+    "country": "Áustria",
+    "flag": "🇦🇹",
+    "name": "Jogador 12",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "AUT15",
+    "teamCode": "AUT",
+    "country": "Áustria",
+    "flag": "🇦🇹",
+    "name": "Jogador 13",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "AUT16",
+    "teamCode": "AUT",
+    "country": "Áustria",
+    "flag": "🇦🇹",
+    "name": "Jogador 14",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "AUT17",
+    "teamCode": "AUT",
+    "country": "Áustria",
+    "flag": "🇦🇹",
+    "name": "Jogador 15",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "AUT18",
+    "teamCode": "AUT",
+    "country": "Áustria",
+    "flag": "🇦🇹",
+    "name": "Jogador 16",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "AUT19",
+    "teamCode": "AUT",
+    "country": "Áustria",
+    "flag": "🇦🇹",
+    "name": "Jogador 17",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "AUT20",
+    "teamCode": "AUT",
+    "country": "Áustria",
+    "flag": "🇦🇹",
+    "name": "Jogador 18",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "CZE01",
+    "teamCode": "CZE",
+    "country": "Chéquia",
+    "flag": "🇨🇿",
+    "name": "Escudo / Federação",
+    "type": "escudo",
+    "photo": ""
+  },
+  {
+    "id": "CZE02",
+    "teamCode": "CZE",
+    "country": "Chéquia",
+    "flag": "🇨🇿",
+    "name": "Foto de equipa",
+    "type": "equipa",
+    "photo": ""
+  },
+  {
+    "id": "CZE03",
+    "teamCode": "CZE",
+    "country": "Chéquia",
+    "flag": "🇨🇿",
+    "name": "Jogador 1",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "CZE04",
+    "teamCode": "CZE",
+    "country": "Chéquia",
+    "flag": "🇨🇿",
+    "name": "Jogador 2",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "CZE05",
+    "teamCode": "CZE",
+    "country": "Chéquia",
+    "flag": "🇨🇿",
+    "name": "Jogador 3",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "CZE06",
+    "teamCode": "CZE",
+    "country": "Chéquia",
+    "flag": "🇨🇿",
+    "name": "Jogador 4",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "CZE07",
+    "teamCode": "CZE",
+    "country": "Chéquia",
+    "flag": "🇨🇿",
+    "name": "Jogador 5",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "CZE08",
+    "teamCode": "CZE",
+    "country": "Chéquia",
+    "flag": "🇨🇿",
+    "name": "Jogador 6",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "CZE09",
+    "teamCode": "CZE",
+    "country": "Chéquia",
+    "flag": "🇨🇿",
+    "name": "Jogador 7",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "CZE10",
+    "teamCode": "CZE",
+    "country": "Chéquia",
+    "flag": "🇨🇿",
+    "name": "Jogador 8",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "CZE11",
+    "teamCode": "CZE",
+    "country": "Chéquia",
+    "flag": "🇨🇿",
+    "name": "Jogador 9",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "CZE12",
+    "teamCode": "CZE",
+    "country": "Chéquia",
+    "flag": "🇨🇿",
+    "name": "Jogador 10",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "CZE13",
+    "teamCode": "CZE",
+    "country": "Chéquia",
+    "flag": "🇨🇿",
+    "name": "Jogador 11",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "CZE14",
+    "teamCode": "CZE",
+    "country": "Chéquia",
+    "flag": "🇨🇿",
+    "name": "Jogador 12",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "CZE15",
+    "teamCode": "CZE",
+    "country": "Chéquia",
+    "flag": "🇨🇿",
+    "name": "Jogador 13",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "CZE16",
+    "teamCode": "CZE",
+    "country": "Chéquia",
+    "flag": "🇨🇿",
+    "name": "Jogador 14",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "CZE17",
+    "teamCode": "CZE",
+    "country": "Chéquia",
+    "flag": "🇨🇿",
+    "name": "Jogador 15",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "CZE18",
+    "teamCode": "CZE",
+    "country": "Chéquia",
+    "flag": "🇨🇿",
+    "name": "Jogador 16",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "CZE19",
+    "teamCode": "CZE",
+    "country": "Chéquia",
+    "flag": "🇨🇿",
+    "name": "Jogador 17",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "CZE20",
+    "teamCode": "CZE",
+    "country": "Chéquia",
+    "flag": "🇨🇿",
+    "name": "Jogador 18",
+    "type": "jogador",
+    "photo": ""
+  },
+  {
+    "id": "SP01",
+    "teamCode": "SPECIAL",
+    "country": "Especiais",
+    "flag": "⭐",
+    "name": "Cromo especial 1",
+    "type": "especial",
+    "photo": ""
+  },
+  {
+    "id": "SP02",
+    "teamCode": "SPECIAL",
+    "country": "Especiais",
+    "flag": "⭐",
+    "name": "Cromo especial 2",
+    "type": "especial",
+    "photo": ""
+  },
+  {
+    "id": "SP03",
+    "teamCode": "SPECIAL",
+    "country": "Especiais",
+    "flag": "⭐",
+    "name": "Cromo especial 3",
+    "type": "especial",
+    "photo": ""
+  },
+  {
+    "id": "SP04",
+    "teamCode": "SPECIAL",
+    "country": "Especiais",
+    "flag": "⭐",
+    "name": "Cromo especial 4",
+    "type": "especial",
+    "photo": ""
+  },
+  {
+    "id": "SP05",
+    "teamCode": "SPECIAL",
+    "country": "Especiais",
+    "flag": "⭐",
+    "name": "Cromo especial 5",
+    "type": "especial",
+    "photo": ""
+  },
+  {
+    "id": "SP06",
+    "teamCode": "SPECIAL",
+    "country": "Especiais",
+    "flag": "⭐",
+    "name": "Cromo especial 6",
+    "type": "especial",
+    "photo": ""
+  },
+  {
+    "id": "SP07",
+    "teamCode": "SPECIAL",
+    "country": "Especiais",
+    "flag": "⭐",
+    "name": "Cromo especial 7",
+    "type": "especial",
+    "photo": ""
+  },
+  {
+    "id": "SP08",
+    "teamCode": "SPECIAL",
+    "country": "Especiais",
+    "flag": "⭐",
+    "name": "Cromo especial 8",
+    "type": "especial",
+    "photo": ""
+  },
+  {
+    "id": "SP09",
+    "teamCode": "SPECIAL",
+    "country": "Especiais",
+    "flag": "⭐",
+    "name": "Cromo especial 9",
+    "type": "especial",
+    "photo": ""
+  },
+  {
+    "id": "SP10",
+    "teamCode": "SPECIAL",
+    "country": "Especiais",
+    "flag": "⭐",
+    "name": "Cromo especial 10",
+    "type": "especial",
+    "photo": ""
+  },
+  {
+    "id": "SP11",
+    "teamCode": "SPECIAL",
+    "country": "Especiais",
+    "flag": "⭐",
+    "name": "Cromo especial 11",
+    "type": "especial",
+    "photo": ""
+  },
+  {
+    "id": "SP12",
+    "teamCode": "SPECIAL",
+    "country": "Especiais",
+    "flag": "⭐",
+    "name": "Cromo especial 12",
+    "type": "especial",
+    "photo": ""
+  },
+  {
+    "id": "SP13",
+    "teamCode": "SPECIAL",
+    "country": "Especiais",
+    "flag": "⭐",
+    "name": "Cromo especial 13",
+    "type": "especial",
+    "photo": ""
+  },
+  {
+    "id": "SP14",
+    "teamCode": "SPECIAL",
+    "country": "Especiais",
+    "flag": "⭐",
+    "name": "Cromo especial 14",
+    "type": "especial",
+    "photo": ""
+  },
+  {
+    "id": "SP15",
+    "teamCode": "SPECIAL",
+    "country": "Especiais",
+    "flag": "⭐",
+    "name": "Cromo especial 15",
+    "type": "especial",
+    "photo": ""
+  },
+  {
+    "id": "SP16",
+    "teamCode": "SPECIAL",
+    "country": "Especiais",
+    "flag": "⭐",
+    "name": "Cromo especial 16",
+    "type": "especial",
+    "photo": ""
+  },
+  {
+    "id": "SP17",
+    "teamCode": "SPECIAL",
+    "country": "Especiais",
+    "flag": "⭐",
+    "name": "Cromo especial 17",
+    "type": "especial",
+    "photo": ""
+  },
+  {
+    "id": "SP18",
+    "teamCode": "SPECIAL",
+    "country": "Especiais",
+    "flag": "⭐",
+    "name": "Cromo especial 18",
+    "type": "especial",
+    "photo": ""
+  },
+  {
+    "id": "SP19",
+    "teamCode": "SPECIAL",
+    "country": "Especiais",
+    "flag": "⭐",
+    "name": "Cromo especial 19",
+    "type": "especial",
+    "photo": ""
+  },
+  {
+    "id": "SP20",
+    "teamCode": "SPECIAL",
+    "country": "Especiais",
+    "flag": "⭐",
+    "name": "Cromo especial 20",
+    "type": "especial",
+    "photo": ""
+  },
+  {
+    "id": "SP21",
+    "teamCode": "SPECIAL",
+    "country": "Especiais",
+    "flag": "⭐",
+    "name": "Cromo especial 21",
+    "type": "especial",
+    "photo": ""
+  },
+  {
+    "id": "SP22",
+    "teamCode": "SPECIAL",
+    "country": "Especiais",
+    "flag": "⭐",
+    "name": "Cromo especial 22",
+    "type": "especial",
+    "photo": ""
+  },
+  {
+    "id": "SP23",
+    "teamCode": "SPECIAL",
+    "country": "Especiais",
+    "flag": "⭐",
+    "name": "Cromo especial 23",
+    "type": "especial",
+    "photo": ""
+  },
+  {
+    "id": "SP24",
+    "teamCode": "SPECIAL",
+    "country": "Especiais",
+    "flag": "⭐",
+    "name": "Cromo especial 24",
+    "type": "especial",
+    "photo": ""
+  },
+  {
+    "id": "SP25",
+    "teamCode": "SPECIAL",
+    "country": "Especiais",
+    "flag": "⭐",
+    "name": "Cromo especial 25",
+    "type": "especial",
+    "photo": ""
+  },
+  {
+    "id": "SP26",
+    "teamCode": "SPECIAL",
+    "country": "Especiais",
+    "flag": "⭐",
+    "name": "Cromo especial 26",
+    "type": "especial",
+    "photo": ""
+  },
+  {
+    "id": "SP27",
+    "teamCode": "SPECIAL",
+    "country": "Especiais",
+    "flag": "⭐",
+    "name": "Cromo especial 27",
+    "type": "especial",
+    "photo": ""
+  },
+  {
+    "id": "SP28",
+    "teamCode": "SPECIAL",
+    "country": "Especiais",
+    "flag": "⭐",
+    "name": "Cromo especial 28",
+    "type": "especial",
+    "photo": ""
+  },
+  {
+    "id": "SP29",
+    "teamCode": "SPECIAL",
+    "country": "Especiais",
+    "flag": "⭐",
+    "name": "Cromo especial 29",
+    "type": "especial",
+    "photo": ""
+  },
+  {
+    "id": "SP30",
+    "teamCode": "SPECIAL",
+    "country": "Especiais",
+    "flag": "⭐",
+    "name": "Cromo especial 30",
+    "type": "especial",
+    "photo": ""
+  },
+  {
+    "id": "SP31",
+    "teamCode": "SPECIAL",
+    "country": "Especiais",
+    "flag": "⭐",
+    "name": "Cromo especial 31",
+    "type": "especial",
+    "photo": ""
+  },
+  {
+    "id": "SP32",
+    "teamCode": "SPECIAL",
+    "country": "Especiais",
+    "flag": "⭐",
+    "name": "Cromo especial 32",
+    "type": "especial",
+    "photo": ""
+  },
+  {
+    "id": "SP33",
+    "teamCode": "SPECIAL",
+    "country": "Especiais",
+    "flag": "⭐",
+    "name": "Cromo especial 33",
+    "type": "especial",
+    "photo": ""
+  },
+  {
+    "id": "SP34",
+    "teamCode": "SPECIAL",
+    "country": "Especiais",
+    "flag": "⭐",
+    "name": "Cromo especial 34",
+    "type": "especial",
+    "photo": ""
+  },
+  {
+    "id": "SP35",
+    "teamCode": "SPECIAL",
+    "country": "Especiais",
+    "flag": "⭐",
+    "name": "Cromo especial 35",
+    "type": "especial",
+    "photo": ""
+  },
+  {
+    "id": "SP36",
+    "teamCode": "SPECIAL",
+    "country": "Especiais",
+    "flag": "⭐",
+    "name": "Cromo especial 36",
+    "type": "especial",
+    "photo": ""
+  },
+  {
+    "id": "SP37",
+    "teamCode": "SPECIAL",
+    "country": "Especiais",
+    "flag": "⭐",
+    "name": "Cromo especial 37",
+    "type": "especial",
+    "photo": ""
+  },
+  {
+    "id": "SP38",
+    "teamCode": "SPECIAL",
+    "country": "Especiais",
+    "flag": "⭐",
+    "name": "Cromo especial 38",
+    "type": "especial",
+    "photo": ""
+  },
+  {
+    "id": "SP39",
+    "teamCode": "SPECIAL",
+    "country": "Especiais",
+    "flag": "⭐",
+    "name": "Cromo especial 39",
+    "type": "especial",
+    "photo": ""
+  },
+  {
+    "id": "SP40",
+    "teamCode": "SPECIAL",
+    "country": "Especiais",
+    "flag": "⭐",
+    "name": "Cromo especial 40",
+    "type": "especial",
+    "photo": ""
+  },
+  {
+    "id": "SP41",
+    "teamCode": "SPECIAL",
+    "country": "Especiais",
+    "flag": "⭐",
+    "name": "Cromo especial 41",
+    "type": "especial",
+    "photo": ""
+  },
+  {
+    "id": "SP42",
+    "teamCode": "SPECIAL",
+    "country": "Especiais",
+    "flag": "⭐",
+    "name": "Cromo especial 42",
+    "type": "especial",
+    "photo": ""
+  },
+  {
+    "id": "SP43",
+    "teamCode": "SPECIAL",
+    "country": "Especiais",
+    "flag": "⭐",
+    "name": "Cromo especial 43",
+    "type": "especial",
+    "photo": ""
+  },
+  {
+    "id": "SP44",
+    "teamCode": "SPECIAL",
+    "country": "Especiais",
+    "flag": "⭐",
+    "name": "Cromo especial 44",
+    "type": "especial",
+    "photo": ""
+  },
+  {
+    "id": "SP45",
+    "teamCode": "SPECIAL",
+    "country": "Especiais",
+    "flag": "⭐",
+    "name": "Cromo especial 45",
+    "type": "especial",
+    "photo": ""
+  },
+  {
+    "id": "SP46",
+    "teamCode": "SPECIAL",
+    "country": "Especiais",
+    "flag": "⭐",
+    "name": "Cromo especial 46",
+    "type": "especial",
+    "photo": ""
+  },
+  {
+    "id": "SP47",
+    "teamCode": "SPECIAL",
+    "country": "Especiais",
+    "flag": "⭐",
+    "name": "Cromo especial 47",
+    "type": "especial",
+    "photo": ""
+  },
+  {
+    "id": "SP48",
+    "teamCode": "SPECIAL",
+    "country": "Especiais",
+    "flag": "⭐",
+    "name": "Cromo especial 48",
+    "type": "especial",
+    "photo": ""
+  },
+  {
+    "id": "SP49",
+    "teamCode": "SPECIAL",
+    "country": "Especiais",
+    "flag": "⭐",
+    "name": "Cromo especial 49",
+    "type": "especial",
+    "photo": ""
+  },
+  {
+    "id": "SP50",
+    "teamCode": "SPECIAL",
+    "country": "Especiais",
+    "flag": "⭐",
+    "name": "Cromo especial 50",
+    "type": "especial",
+    "photo": ""
+  },
+  {
+    "id": "SP51",
+    "teamCode": "SPECIAL",
+    "country": "Especiais",
+    "flag": "⭐",
+    "name": "Cromo especial 51",
+    "type": "especial",
+    "photo": ""
+  },
+  {
+    "id": "SP52",
+    "teamCode": "SPECIAL",
+    "country": "Especiais",
+    "flag": "⭐",
+    "name": "Cromo especial 52",
+    "type": "especial",
+    "photo": ""
+  },
+  {
+    "id": "SP53",
+    "teamCode": "SPECIAL",
+    "country": "Especiais",
+    "flag": "⭐",
+    "name": "Cromo especial 53",
+    "type": "especial",
+    "photo": ""
+  },
+  {
+    "id": "SP54",
+    "teamCode": "SPECIAL",
+    "country": "Especiais",
+    "flag": "⭐",
+    "name": "Cromo especial 54",
+    "type": "especial",
+    "photo": ""
+  },
+  {
+    "id": "SP55",
+    "teamCode": "SPECIAL",
+    "country": "Especiais",
+    "flag": "⭐",
+    "name": "Cromo especial 55",
+    "type": "especial",
+    "photo": ""
+  },
+  {
+    "id": "SP56",
+    "teamCode": "SPECIAL",
+    "country": "Especiais",
+    "flag": "⭐",
+    "name": "Cromo especial 56",
+    "type": "especial",
+    "photo": ""
+  },
+  {
+    "id": "SP57",
+    "teamCode": "SPECIAL",
+    "country": "Especiais",
+    "flag": "⭐",
+    "name": "Cromo especial 57",
+    "type": "especial",
+    "photo": ""
+  },
+  {
+    "id": "SP58",
+    "teamCode": "SPECIAL",
+    "country": "Especiais",
+    "flag": "⭐",
+    "name": "Cromo especial 58",
+    "type": "especial",
+    "photo": ""
+  },
+  {
+    "id": "SP59",
+    "teamCode": "SPECIAL",
+    "country": "Especiais",
+    "flag": "⭐",
+    "name": "Cromo especial 59",
+    "type": "especial",
+    "photo": ""
+  },
+  {
+    "id": "SP60",
+    "teamCode": "SPECIAL",
+    "country": "Especiais",
+    "flag": "⭐",
+    "name": "Cromo especial 60",
+    "type": "especial",
+    "photo": ""
+  },
+  {
+    "id": "SP61",
+    "teamCode": "SPECIAL",
+    "country": "Especiais",
+    "flag": "⭐",
+    "name": "Cromo especial 61",
+    "type": "especial",
+    "photo": ""
+  },
+  {
+    "id": "SP62",
+    "teamCode": "SPECIAL",
+    "country": "Especiais",
+    "flag": "⭐",
+    "name": "Cromo especial 62",
+    "type": "especial",
+    "photo": ""
+  },
+  {
+    "id": "SP63",
+    "teamCode": "SPECIAL",
+    "country": "Especiais",
+    "flag": "⭐",
+    "name": "Cromo especial 63",
+    "type": "especial",
+    "photo": ""
+  },
+  {
+    "id": "SP64",
+    "teamCode": "SPECIAL",
+    "country": "Especiais",
+    "flag": "⭐",
+    "name": "Cromo especial 64",
+    "type": "especial",
+    "photo": ""
+  },
+  {
+    "id": "SP65",
+    "teamCode": "SPECIAL",
+    "country": "Especiais",
+    "flag": "⭐",
+    "name": "Cromo especial 65",
+    "type": "especial",
+    "photo": ""
+  },
+  {
+    "id": "SP66",
+    "teamCode": "SPECIAL",
+    "country": "Especiais",
+    "flag": "⭐",
+    "name": "Cromo especial 66",
+    "type": "especial",
+    "photo": ""
+  },
+  {
+    "id": "SP67",
+    "teamCode": "SPECIAL",
+    "country": "Especiais",
+    "flag": "⭐",
+    "name": "Cromo especial 67",
+    "type": "especial",
+    "photo": ""
+  },
+  {
+    "id": "SP68",
+    "teamCode": "SPECIAL",
+    "country": "Especiais",
+    "flag": "⭐",
+    "name": "Cromo especial 68",
+    "type": "especial",
+    "photo": ""
+  }
+]
